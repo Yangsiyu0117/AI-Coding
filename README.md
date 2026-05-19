@@ -7,7 +7,7 @@
 | 项目 | 说明 |
 |------|------|
 | [github-trending](./github-trending) | 📈 每日 GitHub 热门开源项目 Top 10，自动中文翻译 |
-| [scripts](./scripts) | 各类辅助脚本 |
+
 
 ## 关于
 
