@@ -3,7 +3,7 @@
 GitHub Trending Daily — via GitHub Search API
 =============================================
 - 使用 GitHub Search API 按创建日期查询每日热门项目
-- Python Top 10 + Go Top 10
+- 全语言 Top 10（单次 API 调用）
 - 单文件格式：data/YYYY/YYYYMMDD.md
 - 同步保存到 skill 本地 + WorkScript 仓库
 - 自动 git commit & push
@@ -39,8 +39,6 @@ USER_AGENT = "github-trending-bot/1.0"
 SEARCH_API = "https://api.github.com/search/repositories"
 REQ_TIMEOUT = 30
 
-LANGUAGES = ["Python", "Go"]
-
 
 # ─── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -52,8 +50,6 @@ def format_stars(n):
     """Format star count: 1234 -> '1.2k', 12345 -> '12.3k', 111300 -> '111.3k'."""
     if n >= 1000:
         val = n / 1000
-        if val >= 100:
-            return f"{val:.1f}k"
         return f"{val:.1f}k"
     return str(n)
 
@@ -94,28 +90,31 @@ def fetch_json(url, token=""):
 
 # ─── Search API ──────────────────────────────────────────────────────────────
 
-def search_repos(language, date_str, token="", per_page=10):
+def search_repos(date_str, token="", per_page=10):
     """
-    Search GitHub repos created on the given date for a specific language.
+    Search GitHub repos created on the given date (all languages).
     Returns list of repo dicts sorted by stars descending.
+
+    Note: GitHub Search API requires YYYY-MM-DD format for dates.
+    date_str is YYYYMMDD (used for file naming); we convert to YYYY-MM-DD for the query.
     """
-    query = f"language:{language}+created:{date_str}"
+    d = datetime.strptime(date_str, "%Y%m%d")
+    query = f"created:{d.strftime('%Y-%m-%d')}"
     url = f"{SEARCH_API}?q={urllib.request.quote(query)}&sort=stars&order=desc&per_page={per_page}"
 
-    eprint(f"[*] Searching: language={language}, date={date_str}")
+    eprint(f"[*] Searching: all languages, date={date_str}")
     data = fetch_json(url, token)
 
     if not data or "items" not in data:
-        eprint(f"[!] No results for {language}")
+        eprint("[!] No results")
         return []
 
     items = data["items"]
-    eprint(f"[✓] {language}: {data.get('total_count', 0)} total, got {len(items)} items")
+    eprint(f"[✓] Total: {data.get('total_count', 0)}, got {len(items)} items")
 
     repos = []
     for i, item in enumerate(items, 1):
-        # For repos created today, stars_today ≈ total stars
-        stars_today = item.get("stargazers_count", 0)
+        lang = item.get("language") or "Unknown"
 
         repos.append({
             "rank": i,
@@ -123,10 +122,10 @@ def search_repos(language, date_str, token="", per_page=10):
             "url": item.get("html_url", ""),
             "owner": item.get("owner", {}).get("login", ""),
             "repo": item.get("name", ""),
-            "language": language,
+            "language": lang,
             "description": (item.get("description") or "")[:100],
             "stars": item.get("stargazers_count", 0),
-            "stars_today": stars_today,
+            "stars_today": item.get("stargazers_count", 0),
             "forks": item.get("forks_count", 0),
             "created_at": item.get("created_at", ""),
         })
@@ -136,17 +135,17 @@ def search_repos(language, date_str, token="", per_page=10):
 
 # ─── Save Data ───────────────────────────────────────────────────────────────
 
-def save_to_all_dirs(python_repos, go_repos, date_str):
+def save_to_all_dirs(repos, date_str):
     """Save markdown file to all configured data directories."""
     saved_files = []
     for base_dir in DATA_DIRS:
-        f = _save_to_dir(python_repos, go_repos, date_str, base_dir)
+        f = _save_to_dir(repos, date_str, base_dir)
         saved_files.append(f)
     return saved_files
 
 
-def _save_to_dir(python_repos, go_repos, date_str, base_dir):
-    """Save single markdown file with both language sections."""
+def _save_to_dir(repos, date_str, base_dir):
+    """Save single markdown file with unified top 10 list."""
     year = date_str[:4]
     d = datetime.strptime(date_str, "%Y%m%d")
     date_display = d.strftime("%Y-%m-%d")
@@ -158,32 +157,33 @@ def _save_to_dir(python_repos, go_repos, date_str, base_dir):
     lines = []
     lines.append(f"# GitHub Daily Trending ({date_display})")
     lines.append("")
-
-    # ── Python Top 10 ──
-    lines.append("## 🐍 Python Top 10")
+    lines.append(f"## 🔥 All Languages Top {TOP_N}")
     lines.append("")
-    lines.append("| # | Repository | Stars | Daily Growth | Description |")
-    lines.append("|---| --- | --- | --- | --- |")
+    lines.append("| # | Repository | Language | Stars | Daily Growth | Description |")
+    lines.append("|---| --- | --- | --- | --- | --- |")
 
-    for r in python_repos:
+    for r in repos:
         desc = (r.get("description") or "")[:80].replace("|", "\\|")
+        lang_icon = ""
+        lang = r["language"]
+        if lang.lower() == "python":
+            lang_icon = "🐍 "
+        elif lang.lower() == "go":
+            lang_icon = "🔵 "
+        elif lang.lower() == "rust":
+            lang_icon = "🦀 "
+        elif lang.lower() == "typescript":
+            lang_icon = "🟦 "
+        elif lang.lower() == "javascript":
+            lang_icon = "🟨 "
+        elif lang.lower() == "java":
+            lang_icon = "☕ "
+        elif lang.lower() == "ruby":
+            lang_icon = "💎 "
+
         lines.append(
             f"| {r['rank']} | [{r['name']}]({r['url']}) | "
-            f"{format_stars(r['stars'])} | 🔺{r['stars_today']} | {desc} |"
-        )
-
-    lines.append("")
-
-    # ── Go Top 10 ──
-    lines.append("## 🔵 Go Top 10")
-    lines.append("")
-    lines.append("| # | Repository | Stars | Daily Growth | Description |")
-    lines.append("|---| --- | --- | --- | --- |")
-
-    for r in go_repos:
-        desc = (r.get("description") or "")[:80].replace("|", "\\|")
-        lines.append(
-            f"| {r['rank']} | [{r['name']}]({r['url']}) | "
+            f"{lang_icon}{lang} | "
             f"{format_stars(r['stars'])} | 🔺{r['stars_today']} | {desc} |"
         )
 
@@ -233,34 +233,20 @@ def git_commit_push(date_str):
 
 # ─── Format Output ───────────────────────────────────────────────────────────
 
-def format_tg_message(python_repos, go_repos, date_display):
+def format_tg_message(repos, date_display):
     """Format trending data as Telegram message."""
     lines = []
     lines.append(f"📊 *GitHub Trending Daily — {date_display}*")
     lines.append("")
 
-    # Python
-    if python_repos:
-        lines.append("━━━ 🐍 *Python Top 10* ━━━")
+    if repos:
+        lines.append(f"━━━ 🔥 *All Languages Top {TOP_N}* ━━━")
         lines.append("")
-        for r in python_repos:
+        for r in repos:
             desc = (r.get("description") or "")[:80]
             lines.append(
                 f"  *{r['rank']}.* [{r['name']}]({r['url']})\n"
-                f"     ⭐ {format_stars(r['stars'])}  🔺+{r['stars_today']}\n"
-                f"     _{desc}_"
-            )
-        lines.append("")
-
-    # Go
-    if go_repos:
-        lines.append("━━━ 🔵 *Go Top 10* ━━━")
-        lines.append("")
-        for r in go_repos:
-            desc = (r.get("description") or "")[:80]
-            lines.append(
-                f"  *{r['rank']}.* [{r['name']}]({r['url']})\n"
-                f"     ⭐ {format_stars(r['stars'])}  🔺+{r['stars_today']}\n"
+                f"     🗣 {r['language']}  ⭐ {format_stars(r['stars'])}  🔺+{r['stars_today']}\n"
                 f"     _{desc}_"
             )
         lines.append("")
@@ -294,21 +280,18 @@ def main():
     # Get token from args or env
     token = args.token or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
 
-    # ── Search API ──
-    python_repos = search_repos("Python", date_str, token, per_page=TOP_N)
-    go_repos = search_repos("Go", date_str, token, per_page=TOP_N)
+    # ── Search API (single call, all languages) ──
+    repos = search_repos(date_str, token, per_page=TOP_N)
 
     # Re-number ranks
-    for i, r in enumerate(python_repos, 1):
-        r["rank"] = i
-    for i, r in enumerate(go_repos, 1):
+    for i, r in enumerate(repos, 1):
         r["rank"] = i
 
-    eprint(f"[✓] Python: {len(python_repos)} repos, Go: {len(go_repos)} repos")
+    eprint(f"[✓] Total: {len(repos)} repos (all languages)")
 
     # ── Save ──
     if not args.no_save:
-        saved = save_to_all_dirs(python_repos, go_repos, date_str)
+        saved = save_to_all_dirs(repos, date_str)
         eprint(f"[✓] Saved {len(saved)} files")
 
         if not args.no_push:
@@ -318,28 +301,25 @@ def main():
     if args.output == "json":
         output = json.dumps({
             "date": date_str,
-            "python_top": python_repos,
-            "go_top": go_repos,
+            "top": repos,
         }, ensure_ascii=False, indent=2)
     elif args.output == "md":
-        # Reconstruct markdown for stdout
-        lines = [f"# GitHub Daily Trending ({date_display})", ""]
-        for lang_name, repos in [("🐍 Python", python_repos), ("🔵 Go", go_repos)]:
-            lines.append(f"## {lang_name} Top 10")
-            lines.append("")
-            lines.append("| # | Repository | Stars | Daily Growth | Description |")
-            lines.append("|---| --- | --- | --- | --- |")
-            for r in repos:
-                desc = (r.get("description") or "")[:80].replace("|", "\\|")
-                lines.append(
-                    f"| {r['rank']} | [{r['name']}]({r['url']}) | "
-                    f"{format_stars(r['stars'])} | 🔺{r['stars_today']} | {desc} |"
-                )
-            lines.append("")
+        lines = [f"# GitHub Daily Trending ({date_display})", "",
+                 f"## 🔥 All Languages Top {TOP_N}", "",
+                 "| # | Repository | Language | Stars | Daily Growth | Description |",
+                 "|---| --- | --- | --- | --- | --- |"]
+        for r in repos:
+            desc = (r.get("description") or "")[:80].replace("|", "\\|")
+            lines.append(
+                f"| {r['rank']} | [{r['name']}]({r['url']}) | "
+                f"{r['language']} | "
+                f"{format_stars(r['stars'])} | 🔺{r['stars_today']} | {desc} |"
+            )
+        lines.append("")
         lines.append("*Data from [GitHub Search API](https://docs.github.com/en/rest/search)*")
         output = "\n".join(lines) + "\n"
     else:
-        output = format_tg_message(python_repos, go_repos, date_display)
+        output = format_tg_message(repos, date_display)
 
     print(output)
 
