@@ -1,0 +1,78 @@
+{
+  "date": "20250207",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "deepseek-ai/DeepSeek-R1",
+      "stars": "92.0k",
+      "growth": "2228",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "850",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "638",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "313",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "zhayujie/chatgpt-on-wechat",
+      "stars": "44.6k",
+      "growth": "254",
+      "lang": "Python",
+      "desc": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "224",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "223",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "dgtlmoon/changedetection.io",
+      "stars": "31.5k",
+      "growth": "178",
+      "lang": "Python",
+      "desc": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!"
+    },
+    {
+      "name": "songquanpeng/one-api",
+      "stars": "33.9k",
+      "growth": "177",
+      "lang": "JavaScript",
+      "desc": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "172",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    }
+  ]
+}

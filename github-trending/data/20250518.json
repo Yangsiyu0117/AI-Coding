@@ -1,0 +1,78 @@
+{
+  "date": "20250518",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "182",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "neondatabase/neon",
+      "stars": "22.0k",
+      "growth": "176",
+      "lang": "Rust",
+      "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero."
+    },
+    {
+      "name": "better-auth/better-auth",
+      "stars": "28.3k",
+      "growth": "100",
+      "lang": "TypeScript",
+      "desc": "The most comprehensive authentication framework"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "100",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "99",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "82",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "LizardByte/Sunshine",
+      "stars": "37.1k",
+      "growth": "81",
+      "lang": "C++",
+      "desc": "Self-hosted game stream host for Moonlight."
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "70",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "67",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "usememos/memos",
+      "stars": "59.8k",
+      "growth": "62",
+      "lang": "Go",
+      "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    }
+  ]
+}

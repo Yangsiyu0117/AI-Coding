@@ -1,0 +1,78 @@
+{
+  "date": "20260413",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "7976",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "3464",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "stars": "53.7k",
+      "growth": "2595",
+      "lang": "HTML",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "multica-ai/multica",
+      "stars": "29.4k",
+      "growth": "1699",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "stars": "25.3k",
+      "growth": "1300",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "stars": "19.2k",
+      "growth": "1108",
+      "lang": "Python",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "stars": "59.0k",
+      "growth": "757",
+      "lang": "Python",
+      "desc": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "stars": "71.1k",
+      "growth": "668",
+      "lang": "Roff",
+      "desc": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "coleam00/Archon",
+      "stars": "21.6k",
+      "growth": "613",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "stars": "29.0k",
+      "growth": "604",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    }
+  ]
+}

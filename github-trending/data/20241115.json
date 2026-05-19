@@ -1,0 +1,78 @@
+{
+  "date": "20241115",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "blacklanternsecurity/bbot",
+      "stars": "9.7k",
+      "growth": "305",
+      "lang": "Python",
+      "desc": "The recursive internet scanner for hackers. 🧡"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "169",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "loft-sh/devpod",
+      "stars": "14.9k",
+      "growth": "166",
+      "lang": "Go",
+      "desc": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "160",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "windmill-labs/windmill",
+      "stars": "16.5k",
+      "growth": "145",
+      "lang": "HTML",
+      "desc": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "stars": "16.9k",
+      "growth": "136",
+      "lang": "Jupyter Notebook",
+      "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform"
+    },
+    {
+      "name": "khoj-ai/khoj",
+      "stars": "34.6k",
+      "growth": "131",
+      "lang": "Python",
+      "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    },
+    {
+      "name": "marktext/marktext",
+      "stars": "56.2k",
+      "growth": "90",
+      "lang": "JavaScript",
+      "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": "188.6k",
+      "growth": "87",
+      "lang": "TypeScript",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "milvus-io/milvus",
+      "stars": "44.4k",
+      "growth": "79",
+      "lang": "Go",
+      "desc": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    }
+  ]
+}

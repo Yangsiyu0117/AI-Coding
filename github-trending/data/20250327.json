@@ -1,0 +1,78 @@
+{
+  "date": "20250327",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "743",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "494",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "320",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "293",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "155",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    },
+    {
+      "name": "comfyanonymous/ComfyUI",
+      "stars": "113.5k",
+      "growth": "130",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "122",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "OpenBB-finance/OpenBBTerminal",
+      "stars": "67.8k",
+      "growth": "110",
+      "lang": "Python",
+      "desc": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-integration",
+      "stars": "37.4k",
+      "growth": "110",
+      "lang": "unknown",
+      "desc": "Integrate the DeepSeek API into popular software"
+    },
+    {
+      "name": "geekan/MetaGPT",
+      "stars": "68.1k",
+      "growth": "98",
+      "lang": "Python",
+      "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+    }
+  ]
+}

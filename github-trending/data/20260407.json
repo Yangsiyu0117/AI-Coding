@@ -1,0 +1,78 @@
+{
+  "date": "20260407",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1328",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "stars": "36.5k",
+      "growth": "1307",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "stars": "33.5k",
+      "growth": "1063",
+      "lang": "Python",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "stars": "32.0k",
+      "growth": "960",
+      "lang": "unknown",
+      "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI."
+    },
+    {
+      "name": "block/goose",
+      "stars": "45.5k",
+      "growth": "927",
+      "lang": "Rust",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "stars": "23.1k",
+      "growth": "910",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "868",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "tobi/qmd",
+      "stars": "25.1k",
+      "growth": "812",
+      "lang": "TypeScript",
+      "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "stars": "29.0k",
+      "growth": "751",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "696",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    }
+  ]
+}

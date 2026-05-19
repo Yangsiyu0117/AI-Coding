@@ -1,0 +1,78 @@
+{
+  "date": "20251001",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "anthropics/anthropic-cookbook",
+      "stars": "43.3k",
+      "growth": "58",
+      "lang": "Jupyter Notebook",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "stars": "35.4k",
+      "growth": "44",
+      "lang": "Python",
+      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "stars": "35.9k",
+      "growth": "44",
+      "lang": "C++",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "name": "refined-github/refined-github",
+      "stars": "31.4k",
+      "growth": "31",
+      "lang": "TypeScript",
+      "desc": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features"
+    },
+    {
+      "name": "hagezi/dns-blocklists",
+      "stars": "22.9k",
+      "growth": "30",
+      "lang": "Text",
+      "desc": "DNS-Blocklists: For a better internet - keep the internet clean!"
+    },
+    {
+      "name": "dicebear/dicebear",
+      "stars": "8.7k",
+      "growth": "24",
+      "lang": "Vue",
+      "desc": "DiceBear is an avatar library for designers and developers. 🌍"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "21",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "trufflesecurity/trufflehog",
+      "stars": "26.4k",
+      "growth": "21",
+      "lang": "Go",
+      "desc": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "name": "keiyoushi/extensions",
+      "stars": "13.9k",
+      "growth": "20",
+      "lang": "HTML",
+      "desc": "Extension repository for Mihon and variants"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "stars": "22.8k",
+      "growth": "19",
+      "lang": "C",
+      "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    }
+  ]
+}

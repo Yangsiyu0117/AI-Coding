@@ -1,0 +1,78 @@
+{
+  "date": "20250622",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "194",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "dail8859/NotepadNext",
+      "stars": "14.2k",
+      "growth": "162",
+      "lang": "C++",
+      "desc": "A cross-platform, reimplementation of Notepad++"
+    },
+    {
+      "name": "kuchin/awesome-cto",
+      "stars": "34.9k",
+      "growth": "138",
+      "lang": "unknown",
+      "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "129",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "Orange-OpenSource/hurl",
+      "stars": "18.9k",
+      "growth": "96",
+      "lang": "Rust",
+      "desc": "Hurl, run and test HTTP requests with plain text."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "87",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "ManimCommunity/manim",
+      "stars": "38.5k",
+      "growth": "87",
+      "lang": "Python",
+      "desc": "A community-maintained Python framework for creating mathematical animations."
+    },
+    {
+      "name": "yuka-friends/Windrecorder",
+      "stars": "3.8k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind."
+    },
+    {
+      "name": "geekan/HowToLiveLonger",
+      "stars": "35.0k",
+      "growth": "58",
+      "lang": "A programmer's guide to live longer",
+      "desc": "程序员延寿指南 \\"
+    },
+    {
+      "name": "microsoft/fluentui-system-icons",
+      "stars": "10.5k",
+      "growth": "53",
+      "lang": "HTML",
+      "desc": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft."
+    }
+  ]
+}

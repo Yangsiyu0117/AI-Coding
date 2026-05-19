@@ -1,0 +1,78 @@
+{
+  "date": "20240906",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "samber/lo",
+      "stars": "21.3k",
+      "growth": "97",
+      "lang": "Go",
+      "desc": "💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
+    },
+    {
+      "name": "embedchain/embedchain",
+      "stars": "56.1k",
+      "growth": "78",
+      "lang": "Python",
+      "desc": "Universal memory layer for AI Agents"
+    },
+    {
+      "name": "appsmithorg/appsmith",
+      "stars": "39.8k",
+      "growth": "73",
+      "lang": "TypeScript",
+      "desc": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "72",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "comfyanonymous/ComfyUI",
+      "stars": "113.5k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "67",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "nocodb/nocodb",
+      "stars": "63.1k",
+      "growth": "58",
+      "lang": "TypeScript",
+      "desc": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    },
+    {
+      "name": "getcursor/cursor",
+      "stars": "32.9k",
+      "growth": "58",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "dandavison/delta",
+      "stars": "30.8k",
+      "growth": "56",
+      "lang": "Rust",
+      "desc": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output"
+    },
+    {
+      "name": "dataease/dataease",
+      "stars": "23.9k",
+      "growth": "55",
+      "lang": "Java",
+      "desc": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau."
+    }
+  ]
+}

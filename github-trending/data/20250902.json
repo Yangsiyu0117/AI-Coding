@@ -1,0 +1,78 @@
+{
+  "date": "20250902",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "9001/copyparty",
+      "stars": "44.9k",
+      "growth": "258",
+      "lang": "Python",
+      "desc": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "204",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "plait-board/drawnix",
+      "stars": "13.8k",
+      "growth": "186",
+      "lang": "TypeScript",
+      "desc": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc."
+    },
+    {
+      "name": "codexu/note-gen",
+      "stars": "11.9k",
+      "growth": "176",
+      "lang": "TypeScript",
+      "desc": "A cross-platform Markdown AI note-taking software."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "171",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "120",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    },
+    {
+      "name": "charmbracelet/crush",
+      "stars": "24.4k",
+      "growth": "114",
+      "lang": "Go",
+      "desc": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "name": "dockur/macos",
+      "stars": "20.0k",
+      "growth": "107",
+      "lang": "Shell",
+      "desc": "MacOS inside a Docker container."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "100",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "linshenkx/prompt-optimizer",
+      "stars": "29.1k",
+      "growth": "95",
+      "lang": "TypeScript",
+      "desc": "An AI prompt optimizer for writing better prompts and getting better AI results."
+    }
+  ]
+}

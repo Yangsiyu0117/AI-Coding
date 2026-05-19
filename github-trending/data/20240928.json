@@ -1,0 +1,78 @@
+{
+  "date": "20240928",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "274",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "237",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "mingrammer/diagrams",
+      "stars": "42.3k",
+      "growth": "223",
+      "lang": "Python",
+      "desc": ":art: Diagram as Code for prototyping cloud system architectures"
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "176",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "gildas-lormeau/SingleFile",
+      "stars": "21.1k",
+      "growth": "150",
+      "lang": "JavaScript",
+      "desc": "Web Extension for saving a faithful copy of a complete web page in a single HTML file"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "107",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "LC044/WeChatMsg",
+      "stars": "41.4k",
+      "growth": "82",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "tw93/Pake",
+      "stars": "48.8k",
+      "growth": "79",
+      "lang": "Rust",
+      "desc": "🤱🏻 Turn any webpage into a desktop app with one command."
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "stars": "14.4k",
+      "growth": "79",
+      "lang": "Python",
+      "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup."
+    },
+    {
+      "name": "facebookresearch/llama-recipes",
+      "stars": "18.3k",
+      "growth": "77",
+      "lang": "Jupyter Notebook",
+      "desc": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services"
+    }
+  ]
+}

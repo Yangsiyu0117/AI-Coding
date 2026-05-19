@@ -1,0 +1,78 @@
+{
+  "date": "20250714",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "3240",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "1959",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "stars": "49.8k",
+      "growth": "465",
+      "lang": "评论爬虫、抖音视频 \\",
+      "desc": "小红书笔记 \\"
+    },
+    {
+      "name": "getzep/graphiti",
+      "stars": "26.2k",
+      "growth": "323",
+      "lang": "Python",
+      "desc": "Build Real-Time Knowledge Graphs for AI Agents"
+    },
+    {
+      "name": "googleapis/genai-toolbox",
+      "stars": "15.3k",
+      "growth": "297",
+      "lang": "Go",
+      "desc": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "287",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "275",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "vercel/commerce",
+      "stars": "14.0k",
+      "growth": "235",
+      "lang": "TypeScript",
+      "desc": "Next.js Commerce"
+    },
+    {
+      "name": "bcicen/ctop",
+      "stars": "17.7k",
+      "growth": "209",
+      "lang": "Go",
+      "desc": "Top-like interface for container metrics"
+    },
+    {
+      "name": "browserbase/stagehand",
+      "stars": "22.7k",
+      "growth": "197",
+      "lang": "TypeScript",
+      "desc": "The SDK For Browser Agents"
+    }
+  ]
+}

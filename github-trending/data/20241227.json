@@ -1,0 +1,78 @@
+{
+  "date": "20241227",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "783",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "682",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "stars": "163.6k",
+      "growth": "575",
+      "lang": "HTML",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "414",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "285",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "google-gemini/cookbook",
+      "stars": "17.2k",
+      "growth": "225",
+      "lang": "Jupyter Notebook",
+      "desc": "Examples and guides for using the Gemini API"
+    },
+    {
+      "name": "XiaoMi/ha_xiaomi_home",
+      "stars": "21.7k",
+      "growth": "206",
+      "lang": "Python",
+      "desc": "Xiaomi Home Integration for Home Assistant"
+    },
+    {
+      "name": "hoarder-app/hoarder",
+      "stars": "25.2k",
+      "growth": "198",
+      "lang": "TypeScript",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    },
+    {
+      "name": "nicbarker/clay",
+      "stars": "17.2k",
+      "growth": "197",
+      "lang": "C",
+      "desc": "High performance UI layout library in C."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "186",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    }
+  ]
+}

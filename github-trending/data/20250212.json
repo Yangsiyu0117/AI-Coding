@@ -1,0 +1,78 @@
+{
+  "date": "20250212",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "379",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "hoppscotch/hoppscotch",
+      "stars": "79.2k",
+      "growth": "303",
+      "lang": "TypeScript",
+      "desc": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "293",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "271",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "261",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "RockChinQ/QChatGPT",
+      "stars": "16.1k",
+      "growth": "234",
+      "lang": "Python",
+      "desc": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, openclaw / hermes agent"
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "218",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "206",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    },
+    {
+      "name": "labring/FastGPT",
+      "stars": "28.1k",
+      "growth": "190",
+      "lang": "TypeScript",
+      "desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "173",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    }
+  ]
+}

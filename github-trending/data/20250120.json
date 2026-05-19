@@ -1,0 +1,78 @@
+{
+  "date": "20250120",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "OpenBMB/MiniCPM-V",
+      "stars": "25.1k",
+      "growth": "764",
+      "lang": "Python",
+      "desc": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone"
+    },
+    {
+      "name": "yorukot/superfile",
+      "stars": "17.3k",
+      "growth": "340",
+      "lang": "Go",
+      "desc": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "316",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "go-skynet/LocalAI",
+      "stars": "46.4k",
+      "growth": "280",
+      "lang": "Go",
+      "desc": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "266",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "OpenBB-finance/OpenBBTerminal",
+      "stars": "67.8k",
+      "growth": "247",
+      "lang": "Python",
+      "desc": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "243",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "stars": "36.1k",
+      "growth": "203",
+      "lang": "Rust",
+      "desc": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "170",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "161",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    }
+  ]
+}

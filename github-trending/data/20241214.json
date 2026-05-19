@@ -1,0 +1,78 @@
+{
+  "date": "20241214",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "mherrmann/helium",
+      "stars": "8.3k",
+      "growth": "338",
+      "lang": "Python",
+      "desc": "Lighter web automation with Python"
+    },
+    {
+      "name": "go-gitea/gitea",
+      "stars": "55.8k",
+      "growth": "84",
+      "lang": "Go",
+      "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    },
+    {
+      "name": "metowolf/vCards",
+      "stars": "6.2k",
+      "growth": "81",
+      "lang": "JavaScript",
+      "desc": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验"
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "77",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "stars": "16.9k",
+      "growth": "74",
+      "lang": "Jupyter Notebook",
+      "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform"
+    },
+    {
+      "name": "lmarzen/esp32-weather-epd",
+      "stars": "6.1k",
+      "growth": "71",
+      "lang": "C",
+      "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API."
+    },
+    {
+      "name": "usebruno/bruno",
+      "stars": "44.2k",
+      "growth": "61",
+      "lang": "JavaScript",
+      "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)"
+    },
+    {
+      "name": "typeorm/typeorm",
+      "stars": "36.5k",
+      "growth": "48",
+      "lang": "TypeScript",
+      "desc": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more."
+    },
+    {
+      "name": "pynecone-io/pynecone",
+      "stars": "28.4k",
+      "growth": "47",
+      "lang": "Python",
+      "desc": "🕸️ Web apps in pure Python 🐍"
+    },
+    {
+      "name": "bigskysoftware/htmx",
+      "stars": "48.0k",
+      "growth": "44",
+      "lang": "JavaScript",
+      "desc": "</> htmx - high power tools for HTML"
+    }
+  ]
+}

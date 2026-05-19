@@ -1,0 +1,78 @@
+{
+  "date": "20240927",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "1101",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "tw93/Pake",
+      "stars": "48.8k",
+      "growth": "532",
+      "lang": "Rust",
+      "desc": "🤱🏻 Turn any webpage into a desktop app with one command."
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "219",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "juspay/hyperswitch",
+      "stars": "42.7k",
+      "growth": "155",
+      "lang": "PCI compliant \\",
+      "desc": "Open source, composable payments platform \\"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "154",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "Atlas-OS/Atlas",
+      "stars": "20.6k",
+      "growth": "143",
+      "lang": "Batchfile",
+      "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability."
+    },
+    {
+      "name": "orhun/git-cliff",
+      "stars": "11.9k",
+      "growth": "142",
+      "lang": "Rust",
+      "desc": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "140",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "MichaelCade/90DaysOfDevOps",
+      "stars": "29.5k",
+      "growth": "128",
+      "lang": "Shell",
+      "desc": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+    },
+    {
+      "name": "AlexxIT/go2rtc",
+      "stars": "13.0k",
+      "growth": "105",
+      "lang": "Go",
+      "desc": "Ultimate camera streaming application"
+    }
+  ]
+}

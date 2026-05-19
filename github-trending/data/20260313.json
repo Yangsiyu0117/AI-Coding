@@ -1,0 +1,78 @@
+{
+  "date": "20260313",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "6196",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "stars": "61.2k",
+      "growth": "3050",
+      "lang": "Python",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "stars": "28.7k",
+      "growth": "2484",
+      "lang": "JavaScript",
+      "desc": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "stars": "24.1k",
+      "growth": "2432",
+      "lang": "Python",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "2036",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "stars": "21.4k",
+      "growth": "1939",
+      "lang": "TypeScript",
+      "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic."
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "1816",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "stars": "17.9k",
+      "growth": "1539",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "p-e-w/heretic",
+      "stars": "21.0k",
+      "growth": "1325",
+      "lang": "Python",
+      "desc": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "karpathy/nanochat",
+      "stars": "53.6k",
+      "growth": "1043",
+      "lang": "Python",
+      "desc": "The best ChatGPT that $100 can buy."
+    }
+  ]
+}

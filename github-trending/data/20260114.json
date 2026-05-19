@@ -1,0 +1,78 @@
+{
+  "date": "20260114",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "2194",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "1813",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "1100",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "434",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "chidiwilliams/buzz",
+      "stars": "19.3k",
+      "growth": "427",
+      "lang": "Python",
+      "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper."
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "370",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "adam-maj/tiny-gpu",
+      "stars": "12.4k",
+      "growth": "357",
+      "lang": "SystemVerilog",
+      "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "stars": "16.4k",
+      "growth": "343",
+      "lang": "Python",
+      "desc": "M3U Playlist for free TV channels"
+    },
+    {
+      "name": "onlook-dev/onlook",
+      "stars": "25.8k",
+      "growth": "294",
+      "lang": "TypeScript",
+      "desc": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI"
+    },
+    {
+      "name": "blakeblackshear/frigate",
+      "stars": "32.0k",
+      "growth": "275",
+      "lang": "TypeScript",
+      "desc": "NVR with realtime local object detection for IP cameras"
+    }
+  ]
+}

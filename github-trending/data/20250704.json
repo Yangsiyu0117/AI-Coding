@@ -1,0 +1,78 @@
+{
+  "date": "20250704",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "dockur/macos",
+      "stars": "20.0k",
+      "growth": "356",
+      "lang": "Shell",
+      "desc": "MacOS inside a Docker container."
+    },
+    {
+      "name": "microsoft/vscode-copilot-chat",
+      "stars": "9.9k",
+      "growth": "305",
+      "lang": "TypeScript",
+      "desc": "Copilot Chat extension for VS Code"
+    },
+    {
+      "name": "NaiboWang/EasySpider",
+      "stars": "43.8k",
+      "growth": "287",
+      "lang": "JavaScript",
+      "desc": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。"
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "198",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "GraphiteEditor/Graphite",
+      "stars": "25.7k",
+      "growth": "152",
+      "lang": "Rust",
+      "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine"
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "116",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "107",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "Infisical/infisical",
+      "stars": "26.9k",
+      "growth": "103",
+      "lang": "TypeScript",
+      "desc": "Infisical is the open-source platform for secrets, certificates, and privileged access management."
+    },
+    {
+      "name": "heartexlabs/label-studio",
+      "stars": "27.3k",
+      "growth": "100",
+      "lang": "TypeScript",
+      "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "95",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250217",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "microsoft/OmniParser",
+      "stars": "24.8k",
+      "growth": "2273",
+      "lang": "Jupyter Notebook",
+      "desc": "A simple screen parsing tool towards pure vision based GUI agent"
+    },
+    {
+      "name": "kuchin/awesome-cto",
+      "stars": "34.9k",
+      "growth": "763",
+      "lang": "unknown",
+      "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "436",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "mli/paper-reading",
+      "stars": "33.3k",
+      "growth": "434",
+      "lang": "unknown",
+      "desc": "深度学习经典、新论文逐段精读"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "301",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "269",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "sgl-project/sglang",
+      "stars": "28.0k",
+      "growth": "204",
+      "lang": "Python",
+      "desc": "SGLang is a high-performance serving framework for large language models and multimodal models."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "179",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "176",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "NirDiamant/RAG_Techniques",
+      "stars": "27.4k",
+      "growth": "173",
+      "lang": "Jupyter Notebook",
+      "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial."
+    }
+  ]
+}

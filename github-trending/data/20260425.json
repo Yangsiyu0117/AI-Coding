@@ -1,0 +1,78 @@
+{
+  "date": "20260425",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "3828",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "stars": "25.9k",
+      "growth": "2975",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)"
+    },
+    {
+      "name": "mattpocock/skills",
+      "stars": "92.9k",
+      "growth": "1601",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "stars": "75.4k",
+      "growth": "1448",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "stars": "9.6k",
+      "growth": "1052",
+      "lang": "Python",
+      "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models"
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "stars": "50.2k",
+      "growth": "935",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "stars": "15.9k",
+      "growth": "636",
+      "lang": "JavaScript",
+      "desc": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "stars": "21.7k",
+      "growth": "517",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "467",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "427",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    }
+  ]
+}

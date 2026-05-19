@@ -1,0 +1,78 @@
+{
+  "date": "20241013",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "formbricks/formbricks",
+      "stars": "12.3k",
+      "growth": "245",
+      "lang": "TypeScript",
+      "desc": "Open Source Qualtrics Alternative"
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "244",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "nocobase/nocobase",
+      "stars": "22.4k",
+      "growth": "166",
+      "lang": "TypeScript",
+      "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability."
+    },
+    {
+      "name": "stenzek/duckstation",
+      "stars": "10.2k",
+      "growth": "157",
+      "lang": "C++",
+      "desc": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "129",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "typst/typst",
+      "stars": "53.6k",
+      "growth": "113",
+      "lang": "Rust",
+      "desc": "A markup-based typesetting system that is powerful and easy to learn."
+    },
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "95",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "93",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "85",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "dagger/dagger",
+      "stars": "15.8k",
+      "growth": "80",
+      "lang": "Go",
+      "desc": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20251127",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "sansan0/TrendRadar",
+      "stars": "57.9k",
+      "growth": "1188",
+      "lang": "Python",
+      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "Zie619/n8n-workflows",
+      "stars": "54.5k",
+      "growth": "478",
+      "lang": "Python",
+      "desc": "all of the workflows of n8n i could find (also from the site itself)"
+    },
+    {
+      "name": "GibsonAI/Memori",
+      "stars": "14.6k",
+      "growth": "312",
+      "lang": "Python",
+      "desc": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems."
+    },
+    {
+      "name": "coinbase/x402",
+      "stars": "79",
+      "growth": "275",
+      "lang": "TypeScript",
+      "desc": "A payments protocol for the internet. Built on HTTP."
+    },
+    {
+      "name": "phyver/GameShell",
+      "stars": "3.0k",
+      "growth": "274",
+      "lang": "Shell",
+      "desc": "a game to learn (or teach) how to use standard commands in a Unix shell"
+    },
+    {
+      "name": "bobeff/open-source-games",
+      "stars": "12.6k",
+      "growth": "217",
+      "lang": "Python",
+      "desc": "A list of open source games."
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "stars": "71.1k",
+      "growth": "211",
+      "lang": "Roff",
+      "desc": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "158",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "yeongpin/cursor-free-vip",
+      "stars": "44.0k",
+      "growth": "154",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": "25.4k",
+      "growth": "148",
+      "lang": "Python",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities."
+    }
+  ]
+}

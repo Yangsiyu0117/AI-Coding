@@ -1,0 +1,78 @@
+{
+  "date": "20260321",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": "186.8k",
+      "growth": "3468",
+      "lang": "JavaScript",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1483",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": "77.1k",
+      "growth": "1421",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "stars": "61.2k",
+      "growth": "1212",
+      "lang": "Python",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "stars": "23.2k",
+      "growth": "908",
+      "lang": "JavaScript",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "stars": "21.4k",
+      "growth": "900",
+      "lang": "Java",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "stars": "30.5k",
+      "growth": "876",
+      "lang": "Python",
+      "desc": "Automate the process of making money online."
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "818",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "alibaba/page-agent",
+      "stars": "17.9k",
+      "growth": "736",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "654",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    }
+  ]
+}

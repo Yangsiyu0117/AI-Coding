@@ -1,0 +1,78 @@
+{
+  "date": "20251229",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "1144",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "882",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "663",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "resemble-ai/chatterbox",
+      "stars": "24.8k",
+      "growth": "650",
+      "lang": "Python",
+      "desc": "SoTA open-source TTS"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "500",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "QuantConnect/Lean",
+      "stars": "19.0k",
+      "growth": "380",
+      "lang": "C#",
+      "desc": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "356",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "google/A2UI",
+      "stars": "14.8k",
+      "growth": "342",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "agrinman/tunnelto",
+      "stars": "6.7k",
+      "growth": "329",
+      "lang": "Rust",
+      "desc": "Expose your local web server to the internet with a public URL."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "319",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250923",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "1174",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "Alibaba-NLP/DeepResearch",
+      "stars": "18.9k",
+      "growth": "497",
+      "lang": "Python",
+      "desc": "Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+    },
+    {
+      "name": "ajeetdsouza/zoxide",
+      "stars": "36.7k",
+      "growth": "262",
+      "lang": "Rust",
+      "desc": "A smarter cd command. Supports all major shells."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "151",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "125",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "112",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "eslint/eslint",
+      "stars": "27.3k",
+      "growth": "111",
+      "lang": "JavaScript",
+      "desc": "Find and fix problems in your JavaScript code."
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "88",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "86",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "66",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    }
+  ]
+}

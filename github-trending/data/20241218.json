@@ -1,0 +1,78 @@
+{
+  "date": "20241218",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "seleniumbase/SeleniumBase",
+      "stars": "12.7k",
+      "growth": "501",
+      "lang": "Python",
+      "desc": "A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration."
+    },
+    {
+      "name": "facebookresearch/AnimatedDrawings",
+      "stars": "12.8k",
+      "growth": "315",
+      "lang": "Python",
+      "desc": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\""
+    },
+    {
+      "name": "gorilla/websocket",
+      "stars": "24.7k",
+      "growth": "90",
+      "lang": "Go",
+      "desc": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go."
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "67",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "65",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "go-gitea/gitea",
+      "stars": "55.8k",
+      "growth": "59",
+      "lang": "Go",
+      "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    },
+    {
+      "name": "Lissy93/dashy",
+      "stars": "25.2k",
+      "growth": "58",
+      "lang": "Vue",
+      "desc": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!"
+    },
+    {
+      "name": "martinvonz/jj",
+      "stars": "28.9k",
+      "growth": "56",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "stars": "40.9k",
+      "growth": "53",
+      "lang": "Jupyter Notebook",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼"
+    },
+    {
+      "name": "joaomdmoura/crewAI",
+      "stars": "51.7k",
+      "growth": "48",
+      "lang": "Python",
+      "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+    }
+  ]
+}

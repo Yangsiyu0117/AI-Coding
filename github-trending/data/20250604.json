@@ -1,0 +1,78 @@
+{
+  "date": "20250604",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "707",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "382",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "elebumm/RedditVideoMakerBot",
+      "stars": "12.0k",
+      "growth": "201",
+      "lang": "Python",
+      "desc": "Create Reddit Videos with just✨ one command ✨"
+    },
+    {
+      "name": "plankanban/planka",
+      "stars": "12.0k",
+      "growth": "145",
+      "lang": "JavaScript",
+      "desc": "PLANKA is the Kanban-style project mastering tool for everyone"
+    },
+    {
+      "name": "black-forest-labs/flux",
+      "stars": "25.6k",
+      "growth": "137",
+      "lang": "Python",
+      "desc": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "124",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "114",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "106",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "100",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "96",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    }
+  ]
+}

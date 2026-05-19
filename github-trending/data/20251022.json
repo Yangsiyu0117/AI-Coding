@@ -1,0 +1,78 @@
+{
+  "date": "20251022",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "dyad-sh/dyad",
+      "stars": "20.4k",
+      "growth": "215",
+      "lang": "TypeScript",
+      "desc": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "156",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "oceanbase/miniob",
+      "stars": "4.3k",
+      "growth": "137",
+      "lang": "C++",
+      "desc": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database."
+    },
+    {
+      "name": "hiroi-sora/Umi-OCR",
+      "stars": "44.3k",
+      "growth": "109",
+      "lang": "Python",
+      "desc": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "85",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "76",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "68",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "willcrichton/flowistry",
+      "stars": "3.0k",
+      "growth": "66",
+      "lang": "Rust",
+      "desc": "Flowistry is an IDE plugin for Rust that helps you focus on relevant code."
+    },
+    {
+      "name": "evershopcommerce/evershop",
+      "stars": "10.1k",
+      "growth": "65",
+      "lang": "TypeScript",
+      "desc": "🛍️ Typescript E-commerce Platform"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "49",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    }
+  ]
+}

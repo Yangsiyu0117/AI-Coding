@@ -1,0 +1,78 @@
+{
+  "date": "20251021",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "146",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "hiroi-sora/Umi-OCR",
+      "stars": "44.3k",
+      "growth": "130",
+      "lang": "Python",
+      "desc": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "119",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "evershopcommerce/evershop",
+      "stars": "10.1k",
+      "growth": "116",
+      "lang": "TypeScript",
+      "desc": "🛍️ Typescript E-commerce Platform"
+    },
+    {
+      "name": "dyad-sh/dyad",
+      "stars": "20.4k",
+      "growth": "101",
+      "lang": "TypeScript",
+      "desc": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+    },
+    {
+      "name": "darrenburns/posting",
+      "stars": "11.9k",
+      "growth": "100",
+      "lang": "Python",
+      "desc": "The modern API client that lives in your terminal."
+    },
+    {
+      "name": "tokio-rs/tokio",
+      "stars": "32.0k",
+      "growth": "96",
+      "lang": "Rust",
+      "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+    },
+    {
+      "name": "AlexxIT/go2rtc",
+      "stars": "13.0k",
+      "growth": "76",
+      "lang": "Go",
+      "desc": "Ultimate camera streaming application"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "71",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "stars": "27.4k",
+      "growth": "65",
+      "lang": "unknown",
+      "desc": "An evolving how-to guide for securing a Linux server."
+    }
+  ]
+}

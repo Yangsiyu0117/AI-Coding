@@ -1,0 +1,78 @@
+{
+  "date": "20250402",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "640",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "479",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "436",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "koreader/koreader",
+      "stars": "26.9k",
+      "growth": "195",
+      "lang": "Lua",
+      "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+    },
+    {
+      "name": "maotoumao/MusicFree",
+      "stars": "24.8k",
+      "growth": "173",
+      "lang": "TypeScript",
+      "desc": "插件化、定制化、无广告的免费音乐播放器"
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "161",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "lensterxyz/lenster",
+      "stars": "29.4k",
+      "growth": "155",
+      "lang": "TypeScript",
+      "desc": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿"
+    },
+    {
+      "name": "google-gemini/cookbook",
+      "stars": "17.2k",
+      "growth": "139",
+      "lang": "Jupyter Notebook",
+      "desc": "Examples and guides for using the Gemini API"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "130",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "stars": "72.8k",
+      "growth": "125",
+      "lang": "HTML",
+      "desc": "计算机自学指南"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250225",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "deepseek-ai/DeepEP",
+      "stars": "9.6k",
+      "growth": "3630",
+      "lang": "Cuda",
+      "desc": "DeepEP: an efficient expert-parallel communication library"
+    },
+    {
+      "name": "deepseek-ai/FlashMLA",
+      "stars": "12.7k",
+      "growth": "2006",
+      "lang": "C++",
+      "desc": "FlashMLA: Efficient Multi-head Latent Attention Kernels"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-integration",
+      "stars": "37.4k",
+      "growth": "1030",
+      "lang": "unknown",
+      "desc": "Integrate the DeepSeek API into popular software"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "708",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "693",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "644",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "binwiederhier/ntfy",
+      "stars": "30.2k",
+      "growth": "621",
+      "lang": "Go",
+      "desc": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "name": "deepseek-ai/open-infra-index",
+      "stars": "8.0k",
+      "growth": "573",
+      "lang": "unknown",
+      "desc": "Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation"
+    },
+    {
+      "name": "FreeTubeApp/FreeTube",
+      "stars": "20.9k",
+      "growth": "538",
+      "lang": "Vue",
+      "desc": "An Open Source YouTube app for privacy"
+    },
+    {
+      "name": "microsoft/OmniParser",
+      "stars": "24.8k",
+      "growth": "455",
+      "lang": "Jupyter Notebook",
+      "desc": "A simple screen parsing tool towards pure vision based GUI agent"
+    }
+  ]
+}

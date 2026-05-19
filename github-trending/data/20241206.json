@@ -1,0 +1,78 @@
+{
+  "date": "20241206",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "648540858/wvp-GB28181-pro",
+      "stars": "6.9k",
+      "growth": "96",
+      "lang": "Java",
+      "desc": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。"
+    },
+    {
+      "name": "pynecone-io/pynecone",
+      "stars": "28.4k",
+      "growth": "76",
+      "lang": "Python",
+      "desc": "🕸️ Web apps in pure Python 🐍"
+    },
+    {
+      "name": "jianchang512/clone-voice",
+      "stars": "9.0k",
+      "growth": "73",
+      "lang": "Python",
+      "desc": "A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "stars": "40.8k",
+      "growth": "71",
+      "lang": "Python",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "tgbot-collection/YYeTsBot",
+      "stars": "16.1k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享"
+    },
+    {
+      "name": "chaitin/SafeLine",
+      "stars": "21.3k",
+      "growth": "67",
+      "lang": "Go",
+      "desc": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "name": "sqlfluff/sqlfluff",
+      "stars": "9.7k",
+      "growth": "67",
+      "lang": "Python",
+      "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+    },
+    {
+      "name": "BerriAI/litellm",
+      "stars": "47.5k",
+      "growth": "66",
+      "lang": "Python",
+      "desc": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "62",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "KRTirtho/spotube",
+      "stars": "46.4k",
+      "growth": "58",
+      "lang": "Dart",
+      "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!"
+    }
+  ]
+}

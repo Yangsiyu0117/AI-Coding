@@ -1,0 +1,78 @@
+{
+  "date": "20250827",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "googleapis/genai-toolbox",
+      "stars": "15.3k",
+      "growth": "212",
+      "lang": "Go",
+      "desc": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "name": "rothgar/awesome-tuis",
+      "stars": "18.9k",
+      "growth": "160",
+      "lang": "unknown",
+      "desc": "List of projects that provide terminal user interfaces"
+    },
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "153",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "147",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "145",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "114",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "102",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "chroma-core/chroma",
+      "stars": "28.0k",
+      "growth": "99",
+      "lang": "Rust",
+      "desc": "Search infrastructure for AI"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "94",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "88",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    }
+  ]
+}

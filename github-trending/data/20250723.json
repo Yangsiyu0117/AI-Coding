@@ -1,0 +1,78 @@
+{
+  "date": "20250723",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "258",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "255",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "p1ngul1n0/blackbird",
+      "stars": "6.1k",
+      "growth": "245",
+      "lang": "Python",
+      "desc": "An OSINT tool to search for accounts by username and email in social networks."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "234",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "frappe/hrms",
+      "stars": "8.0k",
+      "growth": "219",
+      "lang": "Python",
+      "desc": "Open Source HR and Payroll Software"
+    },
+    {
+      "name": "Universidade-Livre/ciencia-da-computacao",
+      "stars": "20.2k",
+      "growth": "217",
+      "lang": "unknown",
+      "desc": "🎓 Um caminho para a educação autodidata em Ciência da Computação!"
+    },
+    {
+      "name": "QwenLM/Qwen2.5",
+      "stars": "27.2k",
+      "growth": "213",
+      "lang": "Python",
+      "desc": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud."
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "stars": "49.8k",
+      "growth": "190",
+      "lang": "评论爬虫、抖音视频 \\",
+      "desc": "小红书笔记 \\"
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "170",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "166",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    }
+  ]
+}

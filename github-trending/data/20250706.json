@@ -1,0 +1,78 @@
+{
+  "date": "20250706",
+  "total_repos": 10,
+  "python_count": 0,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "dockur/macos",
+      "stars": "20.0k",
+      "growth": "771",
+      "lang": "Shell",
+      "desc": "MacOS inside a Docker container."
+    },
+    {
+      "name": "directus/directus",
+      "stars": "35.8k",
+      "growth": "205",
+      "lang": "TypeScript",
+      "desc": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "192",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "Infisical/infisical",
+      "stars": "26.9k",
+      "growth": "187",
+      "lang": "TypeScript",
+      "desc": "Infisical is the open-source platform for secrets, certificates, and privileged access management."
+    },
+    {
+      "name": "NaiboWang/EasySpider",
+      "stars": "43.8k",
+      "growth": "164",
+      "lang": "JavaScript",
+      "desc": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。"
+    },
+    {
+      "name": "microsoft/vscode-copilot-chat",
+      "stars": "9.9k",
+      "growth": "139",
+      "lang": "TypeScript",
+      "desc": "Copilot Chat extension for VS Code"
+    },
+    {
+      "name": "GraphiteEditor/Graphite",
+      "stars": "25.7k",
+      "growth": "124",
+      "lang": "Rust",
+      "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "123",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "MightyMoud/sidekick",
+      "stars": "7.4k",
+      "growth": "122",
+      "lang": "Go",
+      "desc": "Bare metal to production ready in mins; your own fly server on your VPS."
+    },
+    {
+      "name": "birobirobiro/awesome-shadcn-ui",
+      "stars": "19.6k",
+      "growth": "113",
+      "lang": "TypeScript",
+      "desc": "A curated list of awesome things related to shadcn/ui."
+    }
+  ]
+}

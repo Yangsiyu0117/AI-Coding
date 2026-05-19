@@ -1,0 +1,78 @@
+{
+  "date": "20240914",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "apache/iotdb",
+      "stars": "6.3k",
+      "growth": "253",
+      "lang": "Java",
+      "desc": "Apache IoTDB"
+    },
+    {
+      "name": "dair-ai/ML-YouTube-Courses",
+      "stars": "17.2k",
+      "growth": "162",
+      "lang": "unknown",
+      "desc": "📺 Discover the latest machine learning / AI courses on YouTube."
+    },
+    {
+      "name": "CorentinTh/it-tools",
+      "stars": "38.8k",
+      "growth": "140",
+      "lang": "Vue",
+      "desc": "Collection of handy online tools for developers, with great UX."
+    },
+    {
+      "name": "logspace-ai/langflow",
+      "stars": "148.5k",
+      "growth": "127",
+      "lang": "Python",
+      "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "127",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "fanmingming/live",
+      "stars": "28.0k",
+      "growth": "123",
+      "lang": "JavaScript",
+      "desc": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕"
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "115",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "114",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "jgraph/drawio-desktop",
+      "stars": "61.2k",
+      "growth": "107",
+      "lang": "JavaScript",
+      "desc": "Official electron build of draw.io"
+    },
+    {
+      "name": "sissbruecker/linkding",
+      "stars": "10.6k",
+      "growth": "93",
+      "lang": "Python",
+      "desc": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker."
+    }
+  ]
+}

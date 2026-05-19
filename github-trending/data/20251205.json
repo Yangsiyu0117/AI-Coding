@@ -1,0 +1,78 @@
+{
+  "date": "20251205",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "basecamp/fizzy",
+      "stars": "7.7k",
+      "growth": "1386",
+      "lang": "Ruby",
+      "desc": "Kanban as it should be. Not as it has been."
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": "29.4k",
+      "growth": "846",
+      "lang": "TypeScript",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "name": "oven-sh/bun",
+      "stars": "92.0k",
+      "growth": "665",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "stars": "30.8k",
+      "growth": "496",
+      "lang": "unknown",
+      "desc": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "479",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "microsoft/ML-For-Beginners",
+      "stars": "85.9k",
+      "growth": "330",
+      "lang": "Jupyter Notebook",
+      "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "stars": "57.9k",
+      "growth": "252",
+      "lang": "Python",
+      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "trustedsec/social-engineer-toolkit",
+      "stars": "14.9k",
+      "growth": "238",
+      "lang": "Python",
+      "desc": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here."
+    },
+    {
+      "name": "kavishdevar/librepods",
+      "stars": "27.0k",
+      "growth": "213",
+      "lang": "Kotlin",
+      "desc": "AirPods liberated from Apple's ecosystem."
+    },
+    {
+      "name": "openai/codex",
+      "stars": "83.7k",
+      "growth": "195",
+      "lang": "Rust",
+      "desc": "Lightweight coding agent that runs in your terminal"
+    }
+  ]
+}

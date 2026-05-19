@@ -1,0 +1,78 @@
+{
+  "date": "20250926",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "923",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "netless-io/flat",
+      "stars": "6.4k",
+      "growth": "99",
+      "lang": "TypeScript",
+      "desc": "Project flat is the Web, Windows and macOS client of Agora Flat open source classroom."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "94",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "88",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "88",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "72",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "chaitin/PandaWiki",
+      "stars": "9.6k",
+      "growth": "65",
+      "lang": "TypeScript",
+      "desc": "PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "64",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "charmbracelet/crush",
+      "stars": "24.4k",
+      "growth": "51",
+      "lang": "Go",
+      "desc": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "49",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    }
+  ]
+}

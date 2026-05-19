@@ -1,0 +1,78 @@
+{
+  "date": "20260220",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "889",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "stars": "26.4k",
+      "growth": "503",
+      "lang": "Jupyter Notebook",
+      "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "471",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "413",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "HailToDodongo/pyrite64",
+      "stars": "3.1k",
+      "growth": "398",
+      "lang": "C++",
+      "desc": "N64 Game-Engine and Editor using libdragon & tiny3d"
+    },
+    {
+      "name": "freemocap/freemocap",
+      "stars": "8.7k",
+      "growth": "355",
+      "lang": "Python",
+      "desc": "Free Motion Capture for Everyone 💀✨"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "348",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "333",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "stars": "21.0k",
+      "growth": "333",
+      "lang": "Python",
+      "desc": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "310",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250627",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "google-gemini/gemini-cli",
+      "stars": "104.3k",
+      "growth": "2752",
+      "lang": "TypeScript",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "stars": "20.0k",
+      "growth": "353",
+      "lang": "Dockerfile",
+      "desc": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking."
+    },
+    {
+      "name": "zricethezav/gitleaks",
+      "stars": "27.1k",
+      "growth": "311",
+      "lang": "Go",
+      "desc": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "name": "Portkey-AI/gateway",
+      "stars": "11.8k",
+      "growth": "250",
+      "lang": "TypeScript",
+      "desc": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API."
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "stars": "36.1k",
+      "growth": "198",
+      "lang": "Rust",
+      "desc": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "198",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "black-forest-labs/flux",
+      "stars": "25.6k",
+      "growth": "184",
+      "lang": "Python",
+      "desc": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "name": "ml-tooling/best-of-ml-python",
+      "stars": "23.5k",
+      "growth": "174",
+      "lang": "unknown",
+      "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly."
+    },
+    {
+      "name": "automatisch/automatisch",
+      "stars": "13.8k",
+      "growth": "172",
+      "lang": "JavaScript",
+      "desc": "The open source Zapier alternative. Build workflow automation without spending time and money."
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "153",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    }
+  ]
+}

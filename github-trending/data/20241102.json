@@ -1,0 +1,78 @@
+{
+  "date": "20241102",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "trufflesecurity/trufflehog",
+      "stars": "26.4k",
+      "growth": "204",
+      "lang": "Go",
+      "desc": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "stars": "40.8k",
+      "growth": "200",
+      "lang": "Python",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "marimo-team/marimo",
+      "stars": "21.1k",
+      "growth": "157",
+      "lang": "Python",
+      "desc": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor."
+    },
+    {
+      "name": "mingrammer/diagrams",
+      "stars": "42.3k",
+      "growth": "151",
+      "lang": "Python",
+      "desc": ":art: Diagram as Code for prototyping cloud system architectures"
+    },
+    {
+      "name": "jordan-cutler/path-to-senior-engineer-handbook",
+      "stars": "17.4k",
+      "growth": "101",
+      "lang": "unknown",
+      "desc": "All the resources you need to get to Senior Engineer and beyond"
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "100",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "open-mmlab/Amphion",
+      "stars": "9.8k",
+      "growth": "96",
+      "lang": "Python",
+      "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development."
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "88",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    },
+    {
+      "name": "filamentphp/filament",
+      "stars": "30.8k",
+      "growth": "83",
+      "lang": "PHP",
+      "desc": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire"
+    },
+    {
+      "name": "gkd-kit/gkd",
+      "stars": "38.7k",
+      "growth": "78",
+      "lang": "An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "desc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \\"
+    }
+  ]
+}

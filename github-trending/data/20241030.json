@@ -1,0 +1,78 @@
+{
+  "date": "20241030",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "open-mmlab/Amphion",
+      "stars": "9.8k",
+      "growth": "433",
+      "lang": "Python",
+      "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development."
+    },
+    {
+      "name": "airtai/faststream",
+      "stars": "5.2k",
+      "growth": "215",
+      "lang": "Python",
+      "desc": "FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS, MQTT and Redis."
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "161",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "stars": "40.8k",
+      "growth": "154",
+      "lang": "Python",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "141",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "novuhq/novu",
+      "stars": "39.0k",
+      "growth": "130",
+      "lang": "TypeScript",
+      "desc": "The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations."
+    },
+    {
+      "name": "omnivore-app/omnivore",
+      "stars": "16.1k",
+      "growth": "124",
+      "lang": "TypeScript",
+      "desc": "Omnivore is a complete, open source read-it-later solution for people who like reading."
+    },
+    {
+      "name": "koekeishiya/yabai",
+      "stars": "28.9k",
+      "growth": "122",
+      "lang": "C",
+      "desc": "A tiling window manager for macOS based on binary space partitioning"
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "94",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "74",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    }
+  ]
+}

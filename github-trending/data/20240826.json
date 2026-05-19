@@ -1,0 +1,57 @@
+{
+  "date": "20240826",
+  "total_repos": 7,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "AI4Finance-Foundation/FinGPT",
+      "stars": "20.2k",
+      "growth": "116",
+      "lang": "Jupyter Notebook",
+      "desc": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace."
+    },
+    {
+      "name": "getcursor/cursor",
+      "stars": "32.9k",
+      "growth": "101",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "Vendicated/Vencord",
+      "stars": "13.4k",
+      "growth": "99",
+      "lang": "TypeScript",
+      "desc": "The cutest Discord modification"
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "93",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "goauthentik/authentik",
+      "stars": "21.5k",
+      "growth": "82",
+      "lang": "Python",
+      "desc": "The authentication glue you need."
+    },
+    {
+      "name": "paul-gauthier/aider",
+      "stars": "45.0k",
+      "growth": "62",
+      "lang": "Python",
+      "desc": "aider is AI pair programming in your terminal"
+    },
+    {
+      "name": "xushengfeng/eSearch",
+      "stars": "6.4k",
+      "growth": "59",
+      "lang": "TypeScript",
+      "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS"
+    }
+  ]
+}

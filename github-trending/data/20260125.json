@@ -1,0 +1,78 @@
+{
+  "date": "20260125",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "remotion-dev/remotion",
+      "stars": "47.3k",
+      "growth": "1084",
+      "lang": "TypeScript",
+      "desc": "🎥      Make videos programmatically with React"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "938",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "920",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "stars": "31.7k",
+      "growth": "775",
+      "lang": "Python",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "657",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "block/goose",
+      "stars": "45.5k",
+      "growth": "636",
+      "lang": "Rust",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "OpenBMB/UltraRAG",
+      "stars": "5.5k",
+      "growth": "510",
+      "lang": "Python",
+      "desc": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": "60.6k",
+      "growth": "469",
+      "lang": "Python",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "stars": "25.8k",
+      "growth": "454",
+      "lang": "Customize your assistants \\",
+      "desc": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \\"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "359",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    }
+  ]
+}

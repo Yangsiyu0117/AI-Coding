@@ -1,0 +1,78 @@
+{
+  "date": "20250124",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "1151",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "897",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "leerob/next-saas-starter",
+      "stars": "15.8k",
+      "growth": "632",
+      "lang": "TypeScript",
+      "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "307",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "exo-explore/exo",
+      "stars": "44.8k",
+      "growth": "266",
+      "lang": "Python",
+      "desc": "Run frontier AI locally."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "260",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "CorentinTh/it-tools",
+      "stars": "38.8k",
+      "growth": "235",
+      "lang": "Vue",
+      "desc": "Collection of handy online tools for developers, with great UX."
+    },
+    {
+      "name": "yamadashy/repomix",
+      "stars": "25.1k",
+      "growth": "205",
+      "lang": "TypeScript",
+      "desc": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+    },
+    {
+      "name": "hoarder-app/hoarder",
+      "stars": "25.2k",
+      "growth": "200",
+      "lang": "TypeScript",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "148",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250629",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "320",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "m1k1o/neko",
+      "stars": "21.0k",
+      "growth": "278",
+      "lang": "Go",
+      "desc": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "270",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "Serial-Studio/Serial-Studio",
+      "stars": "6.9k",
+      "growth": "161",
+      "lang": "C++",
+      "desc": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more."
+    },
+    {
+      "name": "google-gemini/cookbook",
+      "stars": "17.2k",
+      "growth": "157",
+      "lang": "Jupyter Notebook",
+      "desc": "Examples and guides for using the Gemini API"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "152",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "150",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    },
+    {
+      "name": "ssssssss-team/spider-flow",
+      "stars": "11.3k",
+      "growth": "107",
+      "lang": "Java",
+      "desc": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。"
+    },
+    {
+      "name": "black-forest-labs/flux",
+      "stars": "25.6k",
+      "growth": "80",
+      "lang": "Python",
+      "desc": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "name": "Tohrusky/Final2x",
+      "stars": "7.2k",
+      "growth": "80",
+      "lang": "TypeScript",
+      "desc": "a cross-platform image super-resolution tool"
+    }
+  ]
+}

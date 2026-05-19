@@ -1,0 +1,78 @@
+{
+  "date": "20260409",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "157.0k",
+      "growth": "6595",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "stars": "24.1k",
+      "growth": "2569",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "1423",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "stars": "34.2k",
+      "growth": "1223",
+      "lang": "TypeScript",
+      "desc": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "stars": "21.4k",
+      "growth": "1059",
+      "lang": "Java",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1052",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "stars": "14.2k",
+      "growth": "1033",
+      "lang": "TypeScript",
+      "desc": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "stars": "53.7k",
+      "growth": "1005",
+      "lang": "HTML",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "stars": "29.0k",
+      "growth": "871",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "stars": "36.5k",
+      "growth": "870",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    }
+  ]
+}

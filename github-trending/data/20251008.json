@@ -1,0 +1,78 @@
+{
+  "date": "20251008",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "Kilo-Org/kilocode",
+      "stars": "19.4k",
+      "growth": "147",
+      "lang": "TypeScript",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "139",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "137",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "MODSetter/SurfSense",
+      "stars": "14.2k",
+      "growth": "131",
+      "lang": "Python",
+      "desc": "An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9"
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "80",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    },
+    {
+      "name": "rwv/chinese-dos-games",
+      "stars": "10.2k",
+      "growth": "74",
+      "lang": "Python",
+      "desc": "🎮 Chinese DOS games collections."
+    },
+    {
+      "name": "evcc-io/evcc",
+      "stars": "6.6k",
+      "growth": "72",
+      "lang": "Go",
+      "desc": "solar charging ☀️🚘"
+    },
+    {
+      "name": "TheJoeFin/Text-Grab",
+      "stars": "4.7k",
+      "growth": "70",
+      "lang": "C#",
+      "desc": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications."
+    },
+    {
+      "name": "aiboboxx/clashfree",
+      "stars": "15.3k",
+      "growth": "69",
+      "lang": "unknown",
+      "desc": "clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新"
+    },
+    {
+      "name": "calcom/cal.com",
+      "stars": "43.6k",
+      "growth": "67",
+      "lang": "TypeScript",
+      "desc": "Scheduling infrastructure for absolutely everyone."
+    }
+  ]
+}

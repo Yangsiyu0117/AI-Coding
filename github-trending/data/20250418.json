@@ -1,0 +1,78 @@
+{
+  "date": "20250418",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "Anduin2017/HowToCook",
+      "stars": "100.2k",
+      "growth": "1742",
+      "lang": "unknown",
+      "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "465",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "397",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "210",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "stars": "63.7k",
+      "growth": "185",
+      "lang": "Python",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "143",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "wanglin2/mind-map",
+      "stars": "12.2k",
+      "growth": "137",
+      "lang": "JavaScript",
+      "desc": "SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "127",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "nocobase/nocobase",
+      "stars": "22.4k",
+      "growth": "108",
+      "lang": "TypeScript",
+      "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "85",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

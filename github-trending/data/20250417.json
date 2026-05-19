@@ -1,0 +1,78 @@
+{
+  "date": "20250417",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "Anduin2017/HowToCook",
+      "stars": "100.2k",
+      "growth": "1911",
+      "lang": "unknown",
+      "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "482",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "289",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "260",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "226",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "stars": "36.1k",
+      "growth": "216",
+      "lang": "Rust",
+      "desc": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "stars": "67.8k",
+      "growth": "164",
+      "lang": "Python",
+      "desc": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "140",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "atlassian/pragmatic-drag-and-drop",
+      "stars": "12.6k",
+      "growth": "139",
+      "lang": "TypeScript",
+      "desc": "Fast drag and drop for any experience on any tech stack"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "119",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    }
+  ]
+}

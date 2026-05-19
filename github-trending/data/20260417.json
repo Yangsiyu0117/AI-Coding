@@ -1,0 +1,78 @@
+{
+  "date": "20260417",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "5330",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "157.0k",
+      "growth": "3223",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "1916",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "stars": "7.5k",
+      "growth": "937",
+      "lang": "evomap.ai",
+      "desc": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \\"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "stars": "38.7k",
+      "growth": "884",
+      "lang": "Jupyter Notebook",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "name": "multica-ai/multica",
+      "stars": "29.4k",
+      "growth": "829",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "stars": "11.8k",
+      "growth": "828",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    },
+    {
+      "name": "google/magika",
+      "stars": "17.0k",
+      "growth": "740",
+      "lang": "Python",
+      "desc": "Fast and accurate AI powered file content types detection"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "stars": "26.8k",
+      "growth": "740",
+      "lang": "TypeScript",
+      "desc": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "BasedHardware/omi",
+      "stars": "12.6k",
+      "growth": "706",
+      "lang": "Dart",
+      "desc": "AI that sees your screen, listens to your conversations and tells you what to do"
+    }
+  ]
+}

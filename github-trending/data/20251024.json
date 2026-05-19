@@ -1,0 +1,78 @@
+{
+  "date": "20251024",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "282",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "ml-tooling/best-of-ml-python",
+      "stars": "23.5k",
+      "growth": "205",
+      "lang": "unknown",
+      "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly."
+    },
+    {
+      "name": "dyad-sh/dyad",
+      "stars": "20.4k",
+      "growth": "174",
+      "lang": "TypeScript",
+      "desc": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+    },
+    {
+      "name": "schollz/croc",
+      "stars": "35.1k",
+      "growth": "120",
+      "lang": "Go",
+      "desc": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "85",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "hiroi-sora/Umi-OCR",
+      "stars": "44.3k",
+      "growth": "58",
+      "lang": "Python",
+      "desc": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
+    },
+    {
+      "name": "tsl0922/ttyd",
+      "stars": "11.7k",
+      "growth": "58",
+      "lang": "C",
+      "desc": "Share your terminal over the web"
+    },
+    {
+      "name": "lit/lit",
+      "stars": "21.6k",
+      "growth": "58",
+      "lang": "TypeScript",
+      "desc": "Lit is a simple library for building fast, lightweight web components."
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "53",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "chaitin/PandaWiki",
+      "stars": "9.6k",
+      "growth": "51",
+      "lang": "TypeScript",
+      "desc": "PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。"
+    }
+  ]
+}

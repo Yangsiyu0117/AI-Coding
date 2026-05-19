@@ -1,0 +1,78 @@
+{
+  "date": "20250608",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "xifangczy/cat-catch",
+      "stars": "19.7k",
+      "growth": "180",
+      "lang": "JavaScript",
+      "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension"
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "106",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "94",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "80",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "67",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "65",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "59",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "maotoumao/MusicFree",
+      "stars": "24.8k",
+      "growth": "56",
+      "lang": "TypeScript",
+      "desc": "插件化、定制化、无广告的免费音乐播放器"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "48",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "44",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    }
+  ]
+}

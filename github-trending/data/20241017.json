@@ -1,0 +1,78 @@
+{
+  "date": "20241017",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "259",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "ArchiveBox/ArchiveBox",
+      "stars": "27.5k",
+      "growth": "190",
+      "lang": "Python",
+      "desc": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "156",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "144",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "typst/typst",
+      "stars": "53.6k",
+      "growth": "139",
+      "lang": "Rust",
+      "desc": "A markup-based typesetting system that is powerful and easy to learn."
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "119",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "99",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "97",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "97",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "95",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    }
+  ]
+}

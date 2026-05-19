@@ -1,0 +1,78 @@
+{
+  "date": "20250118",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "OpenBMB/MiniCPM-V",
+      "stars": "25.1k",
+      "growth": "913",
+      "lang": "Python",
+      "desc": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "678",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "243",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "TabbyML/tabby",
+      "stars": "33.5k",
+      "growth": "216",
+      "lang": "Rust",
+      "desc": "Self-hosted AI coding assistant"
+    },
+    {
+      "name": "getomni-ai/zerox",
+      "stars": "12.2k",
+      "growth": "180",
+      "lang": "TypeScript",
+      "desc": "OCR & Document Extraction using vision models"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "162",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "140",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "spree/spree",
+      "stars": "15.4k",
+      "growth": "134",
+      "lang": "Ruby",
+      "desc": "Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce."
+    },
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "126",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "125",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250628",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "google-gemini/gemini-cli",
+      "stars": "104.3k",
+      "growth": "4839",
+      "lang": "TypeScript",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "name": "m1k1o/neko",
+      "stars": "21.0k",
+      "growth": "293",
+      "lang": "Go",
+      "desc": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "211",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "zricethezav/gitleaks",
+      "stars": "27.1k",
+      "growth": "173",
+      "lang": "Go",
+      "desc": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "name": "automatisch/automatisch",
+      "stars": "13.8k",
+      "growth": "154",
+      "lang": "JavaScript",
+      "desc": "The open source Zapier alternative. Build workflow automation without spending time and money."
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "107",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "black-forest-labs/flux",
+      "stars": "25.6k",
+      "growth": "107",
+      "lang": "Python",
+      "desc": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "name": "Tohrusky/Final2x",
+      "stars": "7.2k",
+      "growth": "88",
+      "lang": "TypeScript",
+      "desc": "a cross-platform image super-resolution tool"
+    },
+    {
+      "name": "bgstaal/multipleWindow3dScene",
+      "stars": "19.0k",
+      "growth": "86",
+      "lang": "JavaScript",
+      "desc": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage"
+    },
+    {
+      "name": "Serial-Studio/Serial-Studio",
+      "stars": "6.9k",
+      "growth": "83",
+      "lang": "C++",
+      "desc": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more."
+    }
+  ]
+}

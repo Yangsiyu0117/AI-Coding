@@ -1,0 +1,78 @@
+{
+  "date": "20250126",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "1541",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "CorentinTh/it-tools",
+      "stars": "38.8k",
+      "growth": "332",
+      "lang": "Vue",
+      "desc": "Collection of handy online tools for developers, with great UX."
+    },
+    {
+      "name": "leerob/next-saas-starter",
+      "stars": "15.8k",
+      "growth": "281",
+      "lang": "TypeScript",
+      "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "273",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "192",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    },
+    {
+      "name": "VikParuchuri/surya",
+      "stars": "19.8k",
+      "growth": "181",
+      "lang": "Python",
+      "desc": "OCR, layout analysis, reading order, table recognition in 90+ languages"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "168",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "m1k1o/neko",
+      "stars": "21.0k",
+      "growth": "150",
+      "lang": "Go",
+      "desc": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "name": "Evil0ctal/Douyin_TikTok_Download_API",
+      "stars": "18.0k",
+      "growth": "136",
+      "lang": "Python",
+      "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "133",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  ]
+}

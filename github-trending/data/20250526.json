@@ -1,0 +1,78 @@
+{
+  "date": "20250526",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "456",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "239",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "DustinBrett/daedalOS",
+      "stars": "12.6k",
+      "growth": "235",
+      "lang": "JavaScript",
+      "desc": "Desktop environment in the browser"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "175",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "stars": "51.7k",
+      "growth": "170",
+      "lang": "C#",
+      "desc": "The Free Software Media System - Server Backend & API"
+    },
+    {
+      "name": "seleniumbase/SeleniumBase",
+      "stars": "12.7k",
+      "growth": "153",
+      "lang": "Python",
+      "desc": "A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration."
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "141",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "108",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "microsoft/TinyTroupe",
+      "stars": "7.5k",
+      "growth": "89",
+      "lang": "Jupyter Notebook",
+      "desc": "LLM-powered multiagent persona simulation for imagination enhancement and business insights."
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "84",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    }
+  ]
+}

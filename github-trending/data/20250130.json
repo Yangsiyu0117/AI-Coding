@@ -1,0 +1,78 @@
+{
+  "date": "20250130",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "QwenLM/Qwen2.5",
+      "stars": "27.2k",
+      "growth": "464",
+      "lang": "Python",
+      "desc": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "321",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "roboflow/notebooks",
+      "stars": "9.4k",
+      "growth": "244",
+      "lang": "Jupyter Notebook",
+      "desc": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "242",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "231",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "zen-browser/desktop",
+      "stars": "42.1k",
+      "growth": "205",
+      "lang": "JavaScript",
+      "desc": "Welcome to a calmer internet"
+    },
+    {
+      "name": "QwenLM/Qwen",
+      "stars": "21.2k",
+      "growth": "187",
+      "lang": "Python",
+      "desc": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud."
+    },
+    {
+      "name": "exo-explore/exo",
+      "stars": "44.8k",
+      "growth": "177",
+      "lang": "Python",
+      "desc": "Run frontier AI locally."
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "stars": "22.6k",
+      "growth": "151",
+      "lang": "TypeScript",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "145",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    }
+  ]
+}

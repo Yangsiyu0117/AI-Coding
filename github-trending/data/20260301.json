@@ -1,0 +1,78 @@
+{
+  "date": "20260301",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "ruvnet/wifi-densepose",
+      "stars": "60.2k",
+      "growth": "5617",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "stars": "10.7k",
+      "growth": "1439",
+      "lang": "Python",
+      "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "959",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "795",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "ruvnet/claude-flow",
+      "stars": "53.0k",
+      "growth": "749",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "725",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": "51.2k",
+      "growth": "698",
+      "lang": "Python",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "568",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "447",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "superset-sh/superset",
+      "stars": "10.7k",
+      "growth": "396",
+      "lang": "TypeScript",
+      "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    }
+  ]
+}

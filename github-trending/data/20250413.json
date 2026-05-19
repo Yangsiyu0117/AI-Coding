@@ -1,0 +1,78 @@
+{
+  "date": "20250413",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "348",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "272",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "205",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "colinhacks/zod",
+      "stars": "42.7k",
+      "growth": "179",
+      "lang": "TypeScript",
+      "desc": "TypeScript-first schema validation with static type inference"
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "151",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "minio/minio",
+      "stars": "61.0k",
+      "growth": "150",
+      "lang": "Go",
+      "desc": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "130",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "126",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "118",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "maotoumao/MusicFree",
+      "stars": "24.8k",
+      "growth": "97",
+      "lang": "TypeScript",
+      "desc": "插件化、定制化、无广告的免费音乐播放器"
+    }
+  ]
+}

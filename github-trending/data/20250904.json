@@ -1,0 +1,78 @@
+{
+  "date": "20250904",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 3,
+  "repos": [
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "284",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "stars": "19.4k",
+      "growth": "176",
+      "lang": "TypeScript",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "stars": "35.0k",
+      "growth": "160",
+      "lang": "Go",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "143",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "123",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "trufflesecurity/trufflehog",
+      "stars": "26.4k",
+      "growth": "117",
+      "lang": "Go",
+      "desc": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "stars": "15.2k",
+      "growth": "113",
+      "lang": "Rust",
+      "desc": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics."
+    },
+    {
+      "name": "9001/copyparty",
+      "stars": "44.9k",
+      "growth": "109",
+      "lang": "Python",
+      "desc": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+    },
+    {
+      "name": "charmbracelet/crush",
+      "stars": "24.4k",
+      "growth": "95",
+      "lang": "Go",
+      "desc": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "name": "linshenkx/prompt-optimizer",
+      "stars": "29.1k",
+      "growth": "91",
+      "lang": "TypeScript",
+      "desc": "An AI prompt optimizer for writing better prompts and getting better AI results."
+    }
+  ]
+}

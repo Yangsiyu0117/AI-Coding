@@ -1,0 +1,78 @@
+{
+  "date": "20250515",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "480",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "xaoyaoo/PyWxDump",
+      "stars": "9.7k",
+      "growth": "244",
+      "lang": "unknown",
+      "desc": "删库"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "200",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "stars": "26.8k",
+      "growth": "177",
+      "lang": "HTML",
+      "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!"
+    },
+    {
+      "name": "RubyMetric/chsrc",
+      "stars": "6.7k",
+      "growth": "137",
+      "lang": "C",
+      "desc": "chsrc 全平台通用换源工具与框架. Change Source everywhere for every software"
+    },
+    {
+      "name": "alibaba/spring-ai-alibaba",
+      "stars": "9.7k",
+      "growth": "134",
+      "lang": "Java",
+      "desc": "Agentic AI Framework for Java Developers"
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "97",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    },
+    {
+      "name": "dylanaraps/pure-bash-bible",
+      "stars": "41.6k",
+      "growth": "91",
+      "lang": "Shell",
+      "desc": "📖 A collection of pure bash alternatives to external processes."
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "90",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "neondatabase/neon",
+      "stars": "22.0k",
+      "growth": "86",
+      "lang": "Rust",
+      "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero."
+    }
+  ]
+}

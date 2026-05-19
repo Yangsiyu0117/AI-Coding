@@ -1,0 +1,78 @@
+{
+  "date": "20241026",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "188",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "102",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "stars": "53.5k",
+      "growth": "85",
+      "lang": "C#",
+      "desc": "PowerShell for every system!"
+    },
+    {
+      "name": "medusajs/medusa",
+      "stars": "33.7k",
+      "growth": "77",
+      "lang": "TypeScript",
+      "desc": "The world's most flexible commerce platform."
+    },
+    {
+      "name": "huggingface/diffusers",
+      "stars": "33.7k",
+      "growth": "74",
+      "lang": "Python",
+      "desc": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "73",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "72",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "loft-sh/devpod",
+      "stars": "14.9k",
+      "growth": "64",
+      "lang": "Go",
+      "desc": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "name": "cypress-io/cypress",
+      "stars": "49.6k",
+      "growth": "55",
+      "lang": "TypeScript",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "50",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    }
+  ]
+}

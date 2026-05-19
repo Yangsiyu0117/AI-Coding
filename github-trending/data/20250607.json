@@ -1,0 +1,78 @@
+{
+  "date": "20250607",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "xifangczy/cat-catch",
+      "stars": "19.7k",
+      "growth": "133",
+      "lang": "JavaScript",
+      "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "112",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "87",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "hyperdxio/hyperdx",
+      "stars": "9.5k",
+      "growth": "74",
+      "lang": "TypeScript",
+      "desc": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry."
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "71",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "70",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "feeluown/FeelUOwn",
+      "stars": "3.9k",
+      "growth": "63",
+      "lang": "Python",
+      "desc": "trying to be a robust, user-friendly and hackable music player"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "60",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "54",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "54",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    }
+  ]
+}

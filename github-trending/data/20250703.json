@@ -1,0 +1,78 @@
+{
+  "date": "20250703",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/vscode-copilot-chat",
+      "stars": "9.9k",
+      "growth": "1057",
+      "lang": "TypeScript",
+      "desc": "Copilot Chat extension for VS Code"
+    },
+    {
+      "name": "binwiederhier/ntfy",
+      "stars": "30.2k",
+      "growth": "382",
+      "lang": "Go",
+      "desc": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "name": "GraphiteEditor/Graphite",
+      "stars": "25.7k",
+      "growth": "366",
+      "lang": "Rust",
+      "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "160",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "100",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "96",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "94",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "RSSNext/Follow",
+      "stars": "38.3k",
+      "growth": "94",
+      "lang": "TypeScript",
+      "desc": "🧡 Folo is the AI RSS Reader"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "87",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "Infisical/infisical",
+      "stars": "26.9k",
+      "growth": "87",
+      "lang": "TypeScript",
+      "desc": "Infisical is the open-source platform for secrets, certificates, and privileged access management."
+    }
+  ]
+}

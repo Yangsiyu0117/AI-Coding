@@ -1,0 +1,78 @@
+{
+  "date": "20251003",
+  "total_repos": 10,
+  "python_count": 0,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "nextcloud/server",
+      "stars": "35.3k",
+      "growth": "1673",
+      "lang": "PHP",
+      "desc": "☁️ Nextcloud server, a safe home for all your data"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "289",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "PHPMailer/PHPMailer",
+      "stars": "22.1k",
+      "growth": "99",
+      "lang": "PHP",
+      "desc": "The classic email sending library for PHP"
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "95",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "oauth2-proxy/oauth2-proxy",
+      "stars": "14.4k",
+      "growth": "66",
+      "lang": "Go",
+      "desc": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "61",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "59",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    },
+    {
+      "name": "juanfont/headscale",
+      "stars": "38.5k",
+      "growth": "58",
+      "lang": "Go",
+      "desc": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+      "stars": "25.7k",
+      "growth": "56",
+      "lang": "unknown",
+      "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。"
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "54",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    }
+  ]
+}

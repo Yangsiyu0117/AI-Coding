@@ -1,0 +1,78 @@
+{
+  "date": "20251112",
+  "total_repos": 10,
+  "python_count": 9,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "bobeff/open-source-games",
+      "stars": "12.6k",
+      "growth": "995",
+      "lang": "Python",
+      "desc": "A list of open source games."
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": "25.4k",
+      "growth": "621",
+      "lang": "Python",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "stars": "41.0k",
+      "growth": "577",
+      "lang": "Python",
+      "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "yeongpin/cursor-free-vip",
+      "stars": "41.2k",
+      "growth": "346",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "stars": "27.4k",
+      "growth": "208",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "187",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "stars": "78.1k",
+      "growth": "156",
+      "lang": "Python",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    },
+    {
+      "name": "Skyvern-AI/skyvern",
+      "stars": "21.7k",
+      "growth": "153",
+      "lang": "Python",
+      "desc": "Automate browser based workflows with AI"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "stars": "50.2k",
+      "growth": "137",
+      "lang": "Python",
+      "desc": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!"
+    },
+    {
+      "name": "droidrun/droidrun",
+      "stars": "8.3k",
+      "growth": "116",
+      "lang": "Python",
+      "desc": "Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖"
+    }
+  ]
+}

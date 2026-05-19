@@ -1,0 +1,78 @@
+{
+  "date": "20241220",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "seleniumbase/SeleniumBase",
+      "stars": "12.7k",
+      "growth": "374",
+      "lang": "Python",
+      "desc": "A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration."
+    },
+    {
+      "name": "facebookresearch/AnimatedDrawings",
+      "stars": "12.8k",
+      "growth": "190",
+      "lang": "Python",
+      "desc": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\""
+    },
+    {
+      "name": "taichi-dev/taichi",
+      "stars": "28.2k",
+      "growth": "169",
+      "lang": "C++",
+      "desc": "Productive, portable, and performant GPU programming in Python."
+    },
+    {
+      "name": "tldraw/tldraw",
+      "stars": "47.1k",
+      "growth": "97",
+      "lang": "TypeScript",
+      "desc": "very good whiteboard infinite canvas SDK"
+    },
+    {
+      "name": "meilisearch/meilisearch",
+      "stars": "57.6k",
+      "growth": "93",
+      "lang": "Rust",
+      "desc": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+    },
+    {
+      "name": "1Panel-dev/1Panel",
+      "stars": "35.5k",
+      "growth": "69",
+      "lang": "Go",
+      "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "58",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "joaomdmoura/crewAI",
+      "stars": "51.7k",
+      "growth": "51",
+      "lang": "Python",
+      "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+    },
+    {
+      "name": "LC044/WeChatMsg",
+      "stars": "41.4k",
+      "growth": "50",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "biomejs/biome",
+      "stars": "24.7k",
+      "growth": "47",
+      "lang": "Rust",
+      "desc": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+    }
+  ]
+}

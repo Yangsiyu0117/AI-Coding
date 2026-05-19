@@ -1,0 +1,78 @@
+{
+  "date": "20251207",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "852",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "381",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "stars": "30.8k",
+      "growth": "366",
+      "lang": "unknown",
+      "desc": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "337",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "stars": "35.1k",
+      "growth": "298",
+      "lang": "Jupyter Notebook",
+      "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "anthropics/anthropic-quickstarts",
+      "stars": "16.7k",
+      "growth": "271",
+      "lang": "Python",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": "29.4k",
+      "growth": "248",
+      "lang": "TypeScript",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "stars": "23.5k",
+      "growth": "241",
+      "lang": "TypeScript",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "stars": "41.0k",
+      "growth": "232",
+      "lang": "Python",
+      "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "CorentinTh/it-tools",
+      "stars": "38.8k",
+      "growth": "182",
+      "lang": "Vue",
+      "desc": "Collection of handy online tools for developers, with great UX."
+    }
+  ]
+}

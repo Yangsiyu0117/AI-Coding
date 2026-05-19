@@ -1,0 +1,78 @@
+{
+  "date": "20250412",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "895",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "579",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "498",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "473",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "381",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "datawhalechina/prompt-engineering-for-developers",
+      "stars": "24.1k",
+      "growth": "249",
+      "lang": "Jupyter Notebook",
+      "desc": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版"
+    },
+    {
+      "name": "maotoumao/MusicFree",
+      "stars": "24.8k",
+      "growth": "204",
+      "lang": "TypeScript",
+      "desc": "插件化、定制化、无广告的免费音乐播放器"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "168",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "137",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    },
+    {
+      "name": "colinhacks/zod",
+      "stars": "42.7k",
+      "growth": "122",
+      "lang": "TypeScript",
+      "desc": "TypeScript-first schema validation with static type inference"
+    }
+  ]
+}

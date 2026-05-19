@@ -1,0 +1,78 @@
+{
+  "date": "20251030",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "stars": "95.8k",
+      "growth": "385",
+      "lang": "JavaScript",
+      "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    },
+    {
+      "name": "ventoy/Ventoy",
+      "stars": "76.7k",
+      "growth": "159",
+      "lang": "C",
+      "desc": "A new bootable USB solution."
+    },
+    {
+      "name": "zumerlab/snapdom",
+      "stars": "7.8k",
+      "growth": "150",
+      "lang": "JavaScript",
+      "desc": "High-performance engine for capturing, modifying, and converting DOM elements into any format."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "123",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "stars": "104.3k",
+      "growth": "111",
+      "lang": "Swift",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use."
+    },
+    {
+      "name": "menloresearch/jan",
+      "stars": "42.6k",
+      "growth": "111",
+      "lang": "TypeScript",
+      "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "103",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "93",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    },
+    {
+      "name": "Project-MONAI/MONAI",
+      "stars": "8.2k",
+      "growth": "92",
+      "lang": "Python",
+      "desc": "AI Toolkit for Healthcare Imaging"
+    },
+    {
+      "name": "bcicen/ctop",
+      "stars": "17.7k",
+      "growth": "88",
+      "lang": "Go",
+      "desc": "Top-like interface for container metrics"
+    }
+  ]
+}

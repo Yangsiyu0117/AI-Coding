@@ -1,0 +1,78 @@
+{
+  "date": "20260101",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "911",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "594",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "498",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "463",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    },
+    {
+      "name": "yichuan-w/LEANN",
+      "stars": "11.5k",
+      "growth": "437",
+      "lang": "Python",
+      "desc": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device."
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "378",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "afkarxyz/SpotiFLAC",
+      "stars": "8.6k",
+      "growth": "319",
+      "lang": "TypeScript",
+      "desc": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "299",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "200",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": "29.4k",
+      "growth": "190",
+      "lang": "TypeScript",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    }
+  ]
+}

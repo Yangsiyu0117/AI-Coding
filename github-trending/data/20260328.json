@@ -1,0 +1,78 @@
+{
+  "date": "20260328",
+  "total_repos": 10,
+  "python_count": 7,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": "26.1k",
+      "growth": "1585",
+      "lang": "Python",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "stars": "93.1k",
+      "growth": "1407",
+      "lang": "Python",
+      "desc": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "stars": "68.6k",
+      "growth": "1126",
+      "lang": "Python",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": "61.3k",
+      "growth": "925",
+      "lang": "TypeScript",
+      "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "stars": "34.2k",
+      "growth": "754",
+      "lang": "TypeScript",
+      "desc": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "157.0k",
+      "growth": "741",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "731",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "stars": "61.2k",
+      "growth": "636",
+      "lang": "Python",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "633",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "stars": "29.5k",
+      "growth": "627",
+      "lang": "Python",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    }
+  ]
+}

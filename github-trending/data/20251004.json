@@ -1,0 +1,78 @@
+{
+  "date": "20251004",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "95",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "charmbracelet/bubbletea",
+      "stars": "42.5k",
+      "growth": "83",
+      "lang": "Go",
+      "desc": "A powerful little TUI framework 🏗"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "stars": "35.9k",
+      "growth": "59",
+      "lang": "C++",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "59",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "56",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "stars": "19.4k",
+      "growth": "49",
+      "lang": "TypeScript",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+    },
+    {
+      "name": "rwv/chinese-dos-games",
+      "stars": "10.2k",
+      "growth": "43",
+      "lang": "Python",
+      "desc": "🎮 Chinese DOS games collections."
+    },
+    {
+      "name": "mihonapp/mihon",
+      "stars": "20.7k",
+      "growth": "38",
+      "lang": "Kotlin",
+      "desc": "Free and open source manga reader for Android"
+    },
+    {
+      "name": "rothgar/awesome-tuis",
+      "stars": "18.9k",
+      "growth": "38",
+      "lang": "unknown",
+      "desc": "List of projects that provide terminal user interfaces"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "stars": "35.4k",
+      "growth": "37",
+      "lang": "Python",
+      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250205",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "313",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "293",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "Huanshere/VideoLingo",
+      "stars": "17.1k",
+      "growth": "185",
+      "lang": "Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "desc": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team \\"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "183",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "170",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "zauberzeug/nicegui",
+      "stars": "15.8k",
+      "growth": "155",
+      "lang": "Python",
+      "desc": "Create web-based user interfaces with Python. The nice way."
+    },
+    {
+      "name": "metabase/metabase",
+      "stars": "47.4k",
+      "growth": "125",
+      "lang": "Clojure",
+      "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:"
+    },
+    {
+      "name": "exo-explore/exo",
+      "stars": "44.8k",
+      "growth": "118",
+      "lang": "Python",
+      "desc": "Run frontier AI locally."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "114",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "RockChinQ/QChatGPT",
+      "stars": "16.1k",
+      "growth": "114",
+      "lang": "Python",
+      "desc": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, openclaw / hermes agent"
+    }
+  ]
+}

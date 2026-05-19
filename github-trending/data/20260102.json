@@ -1,0 +1,78 @@
+{
+  "date": "20260102",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "1596",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "usememos/memos",
+      "stars": "59.8k",
+      "growth": "761",
+      "lang": "Go",
+      "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "672",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "HQarroum/docker-android",
+      "stars": "5.7k",
+      "growth": "515",
+      "lang": "Shell",
+      "desc": "🤖 A minimal and customizable Docker image running the Android emulator as a service."
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "432",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "431",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "424",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "quickemu-project/quickemu",
+      "stars": "15.1k",
+      "growth": "402",
+      "lang": "Shell",
+      "desc": "Quickly create and run optimised Windows, macOS and Linux virtual machines"
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "345",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "285",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    }
+  ]
+}

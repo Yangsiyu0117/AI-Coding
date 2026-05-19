@@ -1,0 +1,78 @@
+{
+  "date": "20250106",
+  "total_repos": 10,
+  "python_count": 8,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "1290",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "1248",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "1054",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "richards199999/Thinking-Claude",
+      "stars": "17.0k",
+      "growth": "731",
+      "lang": "TypeScript",
+      "desc": "Let your Claude able to think"
+    },
+    {
+      "name": "serengil/deepface",
+      "stars": "22.8k",
+      "growth": "638",
+      "lang": "Python",
+      "desc": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python"
+    },
+    {
+      "name": "All-Hands-AI/OpenHands",
+      "stars": "74.1k",
+      "growth": "499",
+      "lang": "Python",
+      "desc": "🙌 OpenHands: AI-Driven Development"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "380",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "317",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "305",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "Cinnamon/kotaemon",
+      "stars": "25.4k",
+      "growth": "238",
+      "lang": "Python",
+      "desc": "An open-source RAG-based tool for chatting with your documents."
+    }
+  ]
+}

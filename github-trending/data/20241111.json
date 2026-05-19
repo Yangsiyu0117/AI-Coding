@@ -1,0 +1,78 @@
+{
+  "date": "20241111",
+  "total_repos": 10,
+  "python_count": 7,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "khoj-ai/khoj",
+      "stars": "34.6k",
+      "growth": "350",
+      "lang": "Python",
+      "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": "57.4k",
+      "growth": "246",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "microsoft/autogen",
+      "stars": "58.2k",
+      "growth": "241",
+      "lang": "Python",
+      "desc": "A programming framework for agentic AI"
+    },
+    {
+      "name": "THUDM/CogVideo",
+      "stars": "12.7k",
+      "growth": "154",
+      "lang": "Python",
+      "desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)"
+    },
+    {
+      "name": "cpacker/MemGPT",
+      "stars": "22.8k",
+      "growth": "147",
+      "lang": "Python",
+      "desc": "Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "144",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "111",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    },
+    {
+      "name": "dataease/dataease",
+      "stars": "23.9k",
+      "growth": "110",
+      "lang": "Java",
+      "desc": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau."
+    },
+    {
+      "name": "dandavison/delta",
+      "stars": "30.8k",
+      "growth": "101",
+      "lang": "Rust",
+      "desc": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "stars": "40.8k",
+      "growth": "93",
+      "lang": "Python",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    }
+  ]
+}

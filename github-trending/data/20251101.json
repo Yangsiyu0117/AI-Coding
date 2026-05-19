@@ -1,0 +1,78 @@
+{
+  "date": "20251101",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "stars": "95.8k",
+      "growth": "283",
+      "lang": "JavaScript",
+      "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    },
+    {
+      "name": "ventoy/Ventoy",
+      "stars": "76.7k",
+      "growth": "157",
+      "lang": "C",
+      "desc": "A new bootable USB solution."
+    },
+    {
+      "name": "menloresearch/jan",
+      "stars": "42.6k",
+      "growth": "110",
+      "lang": "TypeScript",
+      "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+    },
+    {
+      "name": "th-ch/youtube-music",
+      "stars": "31.7k",
+      "growth": "109",
+      "lang": "TypeScript",
+      "desc": "Pear 🍐 is extension for music player"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "93",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "91",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "89",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "k4yt3x/video2x",
+      "stars": "19.9k",
+      "growth": "76",
+      "lang": "C++",
+      "desc": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "72",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "pocketbase/pocketbase",
+      "stars": "58.4k",
+      "growth": "65",
+      "lang": "Go",
+      "desc": "Open Source realtime backend in 1 file"
+    }
+  ]
+}

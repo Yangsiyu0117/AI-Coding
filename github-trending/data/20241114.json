@@ -1,0 +1,78 @@
+{
+  "date": "20241114",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "tursodatabase/libsql",
+      "stars": "16.8k",
+      "growth": "634",
+      "lang": "C",
+      "desc": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions."
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "319",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "windmill-labs/windmill",
+      "stars": "16.5k",
+      "growth": "210",
+      "lang": "HTML",
+      "desc": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "208",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "blacklanternsecurity/bbot",
+      "stars": "9.7k",
+      "growth": "108",
+      "lang": "Python",
+      "desc": "The recursive internet scanner for hackers. 🧡"
+    },
+    {
+      "name": "pocketbase/pocketbase",
+      "stars": "58.4k",
+      "growth": "106",
+      "lang": "Go",
+      "desc": "Open Source realtime backend in 1 file"
+    },
+    {
+      "name": "hyperdxio/hyperdx",
+      "stars": "9.5k",
+      "growth": "86",
+      "lang": "TypeScript",
+      "desc": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": "188.6k",
+      "growth": "80",
+      "lang": "TypeScript",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": "57.4k",
+      "growth": "77",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "75",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    }
+  ]
+}

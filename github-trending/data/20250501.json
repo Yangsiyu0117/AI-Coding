@@ -1,0 +1,78 @@
+{
+  "date": "20250501",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "QwenLM/Qwen2.5",
+      "stars": "27.2k",
+      "growth": "271",
+      "lang": "Python",
+      "desc": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "141",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "129",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "128",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "83",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "82",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "71",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "63",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "alibaba/MNN",
+      "stars": "15.2k",
+      "growth": "63",
+      "lang": "C++",
+      "desc": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20260427",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": "92.9k",
+      "growth": "6292",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "3399",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "stars": "25.9k",
+      "growth": "2651",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "stars": "75.4k",
+      "growth": "1711",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "952",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "941",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "stars": "50.2k",
+      "growth": "884",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "43.5k",
+      "growth": "855",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "stars": "10.5k",
+      "growth": "764",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "stars": "21.7k",
+      "growth": "693",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    }
+  ]
+}

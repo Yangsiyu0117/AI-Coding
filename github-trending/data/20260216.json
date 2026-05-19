@@ -1,0 +1,78 @@
+{
+  "date": "20260216",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "alibaba/zvec",
+      "stars": "9.6k",
+      "growth": "1346",
+      "lang": "C++",
+      "desc": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "stars": "21.0k",
+      "growth": "1132",
+      "lang": "Python",
+      "desc": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "912",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "752",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "stars": "14.2k",
+      "growth": "586",
+      "lang": "TypeScript",
+      "desc": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "steipete/gogcli",
+      "stars": "7.5k",
+      "growth": "514",
+      "lang": "Go",
+      "desc": "Google Workspace in your terminal."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "505",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "493",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "433",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "388",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    }
+  ]
+}

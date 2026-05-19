@@ -1,0 +1,78 @@
+{
+  "date": "20250618",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "microsoft/fluentui-system-icons",
+      "stars": "10.5k",
+      "growth": "755",
+      "lang": "HTML",
+      "desc": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "150",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "121",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "109",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "86",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "stars": "35.4k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "67",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "65",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "56",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "56",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    }
+  ]
+}

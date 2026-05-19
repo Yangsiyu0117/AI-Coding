@@ -1,0 +1,78 @@
+{
+  "date": "20250101",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "456",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "stars": "163.6k",
+      "growth": "375",
+      "lang": "HTML",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "325",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "318",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "joaomdmoura/crewAI",
+      "stars": "51.7k",
+      "growth": "245",
+      "lang": "Python",
+      "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "233",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "220",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "213",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "activepieces/activepieces",
+      "stars": "22.2k",
+      "growth": "169",
+      "lang": "TypeScript",
+      "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+    },
+    {
+      "name": "hoarder-app/hoarder",
+      "stars": "25.2k",
+      "growth": "148",
+      "lang": "TypeScript",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    }
+  ]
+}

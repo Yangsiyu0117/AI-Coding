@@ -1,0 +1,78 @@
+{
+  "date": "20241009",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "583",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "302",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "195",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "stars": "35.9k",
+      "growth": "179",
+      "lang": "C++",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "name": "ManimCommunity/manim",
+      "stars": "38.5k",
+      "growth": "154",
+      "lang": "Python",
+      "desc": "A community-maintained Python framework for creating mathematical animations."
+    },
+    {
+      "name": "ultralytics/ultralytics",
+      "stars": "57.3k",
+      "growth": "148",
+      "lang": "Python",
+      "desc": "Ultralytics YOLO 🚀"
+    },
+    {
+      "name": "mainmatter/100-exercises-to-learn-rust",
+      "stars": "9.3k",
+      "growth": "97",
+      "lang": "Rust",
+      "desc": "A self-paced course to learn Rust, one exercise at a time."
+    },
+    {
+      "name": "heartexlabs/label-studio",
+      "stars": "27.3k",
+      "growth": "96",
+      "lang": "TypeScript",
+      "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format"
+    },
+    {
+      "name": "web-infra-dev/oxc",
+      "stars": "21.2k",
+      "growth": "95",
+      "lang": "Rust",
+      "desc": "⚓ A collection of high-performance JavaScript tools."
+    },
+    {
+      "name": "dbeaver/dbeaver",
+      "stars": "50.1k",
+      "growth": "84",
+      "lang": "Java",
+      "desc": "Free universal database tool and SQL client"
+    }
+  ]
+}

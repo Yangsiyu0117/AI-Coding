@@ -1,0 +1,78 @@
+{
+  "date": "20250315",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "xpipe-io/xpipe",
+      "stars": "14.1k",
+      "growth": "1020",
+      "lang": "Java",
+      "desc": "Access your entire server infrastructure from your local desktop"
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "498",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "hpcaitech/Open-Sora",
+      "stars": "29.0k",
+      "growth": "397",
+      "lang": "Python",
+      "desc": "Open-Sora: Democratizing Efficient Video Production for All"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "366",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "lensterxyz/lenster",
+      "stars": "29.4k",
+      "growth": "222",
+      "lang": "TypeScript",
+      "desc": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-integration",
+      "stars": "37.4k",
+      "growth": "140",
+      "lang": "unknown",
+      "desc": "Integrate the DeepSeek API into popular software"
+    },
+    {
+      "name": "comfyanonymous/ComfyUI",
+      "stars": "113.5k",
+      "growth": "129",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "128",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "karpathy/LLM101n",
+      "stars": "36.9k",
+      "growth": "128",
+      "lang": "unknown",
+      "desc": "LLM101n: Let's build a Storyteller"
+    },
+    {
+      "name": "KRTirtho/spotube",
+      "stars": "46.4k",
+      "growth": "119",
+      "lang": "Dart",
+      "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!"
+    }
+  ]
+}

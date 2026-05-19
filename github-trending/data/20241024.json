@@ -1,0 +1,78 @@
+{
+  "date": "20241024",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "openobserve/openobserve",
+      "stars": "18.9k",
+      "growth": "167",
+      "lang": "TypeScript",
+      "desc": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment."
+    },
+    {
+      "name": "barry-ran/QtScrcpy",
+      "stars": "29.6k",
+      "growth": "151",
+      "lang": "C++",
+      "desc": "Android real-time display control software"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "135",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "135",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "usebruno/bruno",
+      "stars": "44.2k",
+      "growth": "90",
+      "lang": "JavaScript",
+      "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)"
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "83",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "medusajs/medusa",
+      "stars": "33.7k",
+      "growth": "80",
+      "lang": "TypeScript",
+      "desc": "The world's most flexible commerce platform."
+    },
+    {
+      "name": "didi/DoKit",
+      "stars": "20.4k",
+      "growth": "78",
+      "lang": "Java",
+      "desc": "一款面向泛前端产品研发全生命周期的效率平台。"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "74",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "appwrite/appwrite",
+      "stars": "56.1k",
+      "growth": "71",
+      "lang": "TypeScript",
+      "desc": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    }
+  ]
+}

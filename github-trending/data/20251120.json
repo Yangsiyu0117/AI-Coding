@@ -1,0 +1,78 @@
+{
+  "date": "20251120",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "sansan0/TrendRadar",
+      "stars": "57.9k",
+      "growth": "1423",
+      "lang": "Python",
+      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "Zie619/n8n-workflows",
+      "stars": "54.5k",
+      "growth": "758",
+      "lang": "Python",
+      "desc": "all of the workflows of n8n i could find (also from the site itself)"
+    },
+    {
+      "name": "systemdesign42/system-design",
+      "stars": "24.5k",
+      "growth": "431",
+      "lang": "unknown",
+      "desc": "If you want to become good at system design, join this newsletter now 👇"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "stars": "71.1k",
+      "growth": "307",
+      "lang": "Roff",
+      "desc": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "GibsonAI/Memori",
+      "stars": "14.6k",
+      "growth": "268",
+      "lang": "Python",
+      "desc": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems."
+    },
+    {
+      "name": "th-ch/youtube-music",
+      "stars": "31.7k",
+      "growth": "254",
+      "lang": "TypeScript",
+      "desc": "Pear 🍐 is extension for music player"
+    },
+    {
+      "name": "bobeff/open-source-games",
+      "stars": "12.6k",
+      "growth": "230",
+      "lang": "Python",
+      "desc": "A list of open source games."
+    },
+    {
+      "name": "usestrix/strix",
+      "stars": "25.4k",
+      "growth": "218",
+      "lang": "Python",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "stars": "41.0k",
+      "growth": "213",
+      "lang": "Python",
+      "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "yeongpin/cursor-free-vip",
+      "stars": "43.0k",
+      "growth": "208",
+      "lang": "unknown",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250701",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "255",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "binwiederhier/ntfy",
+      "stars": "30.2k",
+      "growth": "219",
+      "lang": "Go",
+      "desc": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "name": "Huanshere/VideoLingo",
+      "stars": "17.1k",
+      "growth": "192",
+      "lang": "Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "desc": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team \\"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "149",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "nextcloud/all-in-one",
+      "stars": "9.7k",
+      "growth": "123",
+      "lang": "PHP",
+      "desc": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance."
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "121",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "90",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "78/xiaozhi-esp32",
+      "stars": "26.6k",
+      "growth": "77",
+      "lang": "一个基于MCP的聊天机器人",
+      "desc": "An MCP-based chatbot \\"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "74",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "72",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    }
+  ]
+}

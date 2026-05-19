@@ -1,0 +1,78 @@
+{
+  "date": "20260305",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "2618",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "1940",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1779",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "stars": "51.2k",
+      "growth": "1677",
+      "lang": "Python",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "1232",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "stars": "60.2k",
+      "growth": "1164",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "1093",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "628",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "stars": "24.6k",
+      "growth": "579",
+      "lang": "Python",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "520",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    }
+  ]
+}

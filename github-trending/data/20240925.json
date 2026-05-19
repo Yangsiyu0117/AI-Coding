@@ -1,0 +1,78 @@
+{
+  "date": "20240925",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "1494",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "penrose/penrose",
+      "stars": "7.9k",
+      "growth": "301",
+      "lang": "TypeScript",
+      "desc": "Create beautiful diagrams just by typing notation in plain text."
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "266",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "spacedriveapp/spacedrive",
+      "stars": "38.1k",
+      "growth": "162",
+      "lang": "Rust",
+      "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "140",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "geekan/MetaGPT",
+      "stars": "68.1k",
+      "growth": "138",
+      "lang": "Python",
+      "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+    },
+    {
+      "name": "NirDiamant/RAG_Techniques",
+      "stars": "27.4k",
+      "growth": "115",
+      "lang": "Jupyter Notebook",
+      "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "102",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "100",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "stonith404/pingvin-share",
+      "stars": "4.7k",
+      "growth": "94",
+      "lang": "TypeScript",
+      "desc": "A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing."
+    }
+  ]
+}

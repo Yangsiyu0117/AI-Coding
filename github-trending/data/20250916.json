@@ -1,0 +1,78 @@
+{
+  "date": "20250916",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "163",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "bensadeh/tailspin",
+      "stars": "7.8k",
+      "growth": "163",
+      "lang": "Rust",
+      "desc": "🌀 A log file highlighter"
+    },
+    {
+      "name": "simdjson/simdjson",
+      "stars": "23.8k",
+      "growth": "132",
+      "lang": "C++",
+      "desc": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks"
+    },
+    {
+      "name": "linshenkx/prompt-optimizer",
+      "stars": "29.1k",
+      "growth": "130",
+      "lang": "TypeScript",
+      "desc": "An AI prompt optimizer for writing better prompts and getting better AI results."
+    },
+    {
+      "name": "trufflesecurity/trufflehog",
+      "stars": "26.4k",
+      "growth": "121",
+      "lang": "Go",
+      "desc": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "name": "9001/copyparty",
+      "stars": "44.9k",
+      "growth": "98",
+      "lang": "Python",
+      "desc": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "93",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "89",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "DataTalksClub/machine-learning-zoomcamp",
+      "stars": "13.1k",
+      "growth": "86",
+      "lang": "Jupyter Notebook",
+      "desc": "Learn ML engineering for free in 4 months! Register here 👇🏼"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "81",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

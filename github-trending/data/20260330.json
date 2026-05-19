@@ -1,0 +1,78 @@
+{
+  "date": "20260330",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "luongnv89/claude-howto",
+      "stars": "33.5k",
+      "growth": "3336",
+      "lang": "Python",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "2760",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "157.0k",
+      "growth": "1892",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "stars": "34.2k",
+      "growth": "1601",
+      "lang": "TypeScript",
+      "desc": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "stars": "68.6k",
+      "growth": "1560",
+      "lang": "Python",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "stars": "53.7k",
+      "growth": "1458",
+      "lang": "HTML",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": "61.3k",
+      "growth": "1231",
+      "lang": "TypeScript",
+      "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": "26.1k",
+      "growth": "1181",
+      "lang": "Python",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "stars": "93.1k",
+      "growth": "1095",
+      "lang": "Python",
+      "desc": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "1087",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20251206",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "801",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "basecamp/fizzy",
+      "stars": "7.7k",
+      "growth": "641",
+      "lang": "Ruby",
+      "desc": "Kanban as it should be. Not as it has been."
+    },
+    {
+      "name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+      "stars": "25.7k",
+      "growth": "580",
+      "lang": "unknown",
+      "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "474",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "stars": "30.8k",
+      "growth": "455",
+      "lang": "unknown",
+      "desc": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": "29.4k",
+      "growth": "361",
+      "lang": "TypeScript",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "325",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "oven-sh/bun",
+      "stars": "92.0k",
+      "growth": "297",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "kavishdevar/librepods",
+      "stars": "27.0k",
+      "growth": "225",
+      "lang": "Kotlin",
+      "desc": "AirPods liberated from Apple's ecosystem."
+    },
+    {
+      "name": "MustardChef/WSABuilds",
+      "stars": "17.4k",
+      "growth": "211",
+      "lang": "Python",
+      "desc": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in."
+    }
+  ]
+}

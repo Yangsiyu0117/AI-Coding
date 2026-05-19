@@ -1,0 +1,78 @@
+{
+  "date": "20250927",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "docusealco/docuseal",
+      "stars": "16.7k",
+      "growth": "356",
+      "lang": "Ruby",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "216",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "121",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "systemdesign42/system-design",
+      "stars": "24.5k",
+      "growth": "91",
+      "lang": "unknown",
+      "desc": "If you want to become good at system design, join this newsletter now 👇"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "71",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "CMU-Perceptual-Computing-Lab/openpose",
+      "stars": "34.1k",
+      "growth": "65",
+      "lang": "C++",
+      "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "63",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "57",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "Wilfred/difftastic",
+      "stars": "25.3k",
+      "growth": "51",
+      "lang": "Rust",
+      "desc": "a structural diff that understands syntax 🟥🟩"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "45",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    }
+  ]
+}

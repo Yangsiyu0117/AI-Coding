@@ -1,0 +1,78 @@
+{
+  "date": "20240923",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "lobehub/lobe-chat",
+      "stars": "77.3k",
+      "growth": "238",
+      "lang": "TypeScript",
+      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
+    },
+    {
+      "name": "simple-icons/simple-icons",
+      "stars": "25.1k",
+      "growth": "158",
+      "lang": "JavaScript",
+      "desc": "SVG icons for popular brands"
+    },
+    {
+      "name": "basecamp/kamal",
+      "stars": "14.2k",
+      "growth": "154",
+      "lang": "Ruby",
+      "desc": "Deploy web apps anywhere."
+    },
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "135",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "tmux/tmux",
+      "stars": "45.7k",
+      "growth": "124",
+      "lang": "C",
+      "desc": "tmux source code"
+    },
+    {
+      "name": "tw93/Pake",
+      "stars": "48.8k",
+      "growth": "115",
+      "lang": "Rust",
+      "desc": "🤱🏻 Turn any webpage into a desktop app with one command."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "110",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "LC044/WeChatMsg",
+      "stars": "41.4k",
+      "growth": "103",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "97",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "81",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    }
+  ]
+}

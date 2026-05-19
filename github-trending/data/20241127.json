@@ -1,0 +1,78 @@
+{
+  "date": "20241127",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "178",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "143",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": "188.6k",
+      "growth": "133",
+      "lang": "TypeScript",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "112",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "PostHog/posthog",
+      "stars": "34.6k",
+      "growth": "105",
+      "lang": "Python",
+      "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
+    },
+    {
+      "name": "justcallmekoko/ESP32Marauder",
+      "stars": "10.8k",
+      "growth": "102",
+      "lang": "C++",
+      "desc": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32"
+    },
+    {
+      "name": "KRTirtho/spotube",
+      "stars": "46.4k",
+      "growth": "100",
+      "lang": "Dart",
+      "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!"
+    },
+    {
+      "name": "typst/typst",
+      "stars": "53.6k",
+      "growth": "94",
+      "lang": "Rust",
+      "desc": "A markup-based typesetting system that is powerful and easy to learn."
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "79",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "sudheerj/javascript-interview-questions",
+      "stars": "27.4k",
+      "growth": "72",
+      "lang": "JavaScript",
+      "desc": "List of 1000 JavaScript Interview Questions"
+    }
+  ]
+}

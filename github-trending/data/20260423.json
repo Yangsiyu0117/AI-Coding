@@ -1,0 +1,78 @@
+{
+  "date": "20260423",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "4313",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "stars": "75.4k",
+      "growth": "1366",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "stars": "11.4k",
+      "growth": "947",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "stars": "21.7k",
+      "growth": "923",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "stars": "54.4k",
+      "growth": "827",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "43.5k",
+      "growth": "821",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "stars": "18.3k",
+      "growth": "820",
+      "lang": "AI Fully Automated Short Video Engine",
+      "desc": "🚀 AI 全自动短视频引擎 \\"
+    },
+    {
+      "name": "multica-ai/multica",
+      "stars": "29.4k",
+      "growth": "767",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "stars": "14.0k",
+      "growth": "762",
+      "lang": "TypeScript",
+      "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "659",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    }
+  ]
+}

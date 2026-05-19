@@ -1,0 +1,78 @@
+{
+  "date": "20250112",
+  "total_repos": 10,
+  "python_count": 6,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "567",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent",
+      "stars": "29.8k",
+      "growth": "510",
+      "lang": "Python",
+      "desc": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+    },
+    {
+      "name": "quickwit-oss/quickwit",
+      "stars": "11.2k",
+      "growth": "255",
+      "lang": "Rust",
+      "desc": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "214",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "179",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "kilimchoi/engineering-blogs",
+      "stars": "38.1k",
+      "growth": "148",
+      "lang": "Ruby",
+      "desc": "A curated list of engineering blogs"
+    },
+    {
+      "name": "All-Hands-AI/OpenHands",
+      "stars": "74.1k",
+      "growth": "146",
+      "lang": "Python",
+      "desc": "🙌 OpenHands: AI-Driven Development"
+    },
+    {
+      "name": "leerob/next-saas-starter",
+      "stars": "15.8k",
+      "growth": "139",
+      "lang": "TypeScript",
+      "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "111",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "107",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    }
+  ]
+}

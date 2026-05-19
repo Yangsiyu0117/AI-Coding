@@ -1,0 +1,78 @@
+{
+  "date": "20250820",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "1079",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    },
+    {
+      "name": "awslabs/mcp",
+      "stars": "9.1k",
+      "growth": "217",
+      "lang": "Python",
+      "desc": "Open source MCP Servers for AWS"
+    },
+    {
+      "name": "leerob/next-saas-starter",
+      "stars": "15.8k",
+      "growth": "208",
+      "lang": "TypeScript",
+      "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "161",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "DataExpert-io/data-engineer-handbook",
+      "stars": "41.4k",
+      "growth": "145",
+      "lang": "Jupyter Notebook",
+      "desc": "This is a repo with links to everything you'd ever want to learn about data engineering"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "114",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "ClemensElflein/OpenMower",
+      "stars": "6.5k",
+      "growth": "105",
+      "lang": "C++",
+      "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "93",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "mihomo-party-org/mihomo-party",
+      "stars": "23.8k",
+      "growth": "92",
+      "lang": "TypeScript",
+      "desc": ":electron: Another Mihomo GUI."
+    },
+    {
+      "name": "krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024",
+      "stars": "4.1k",
+      "growth": "88",
+      "lang": "unknown",
+      "desc": ""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250913",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 3,
+  "repos": [
+    {
+      "name": "simdjson/simdjson",
+      "stars": "23.8k",
+      "growth": "168",
+      "lang": "C++",
+      "desc": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "163",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "easychen/lean-side-bussiness",
+      "stars": "12.0k",
+      "growth": "121",
+      "lang": "unknown",
+      "desc": "精益副业：程序员如何优雅地做副业"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "119",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "trufflesecurity/trufflehog",
+      "stars": "26.4k",
+      "growth": "104",
+      "lang": "Go",
+      "desc": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "name": "ccfos/nightingale",
+      "stars": "13.0k",
+      "growth": "86",
+      "lang": "Go",
+      "desc": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "77",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "77",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "62",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "tbphp/gpt-load",
+      "stars": "6.2k",
+      "growth": "60",
+      "lang": "Go",
+      "desc": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。"
+    }
+  ]
+}

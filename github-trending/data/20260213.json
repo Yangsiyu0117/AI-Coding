@@ -1,0 +1,78 @@
+{
+  "date": "20260213",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "google/langextract",
+      "stars": "36.5k",
+      "growth": "754",
+      "lang": "Python",
+      "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "558",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "554",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "stars": "14.1k",
+      "growth": "543",
+      "lang": "TypeScript",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "stars": "21.8k",
+      "growth": "487",
+      "lang": "Python",
+      "desc": "A list of free LLM inference resources accessible via API."
+    },
+    {
+      "name": "GetStream/Vision-Agents",
+      "stars": "7.8k",
+      "growth": "475",
+      "lang": "Python",
+      "desc": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "460",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "427",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "tambo-ai/tambo",
+      "stars": "11.2k",
+      "growth": "409",
+      "lang": "TypeScript",
+      "desc": "Generative UI SDK for React"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "393",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    }
+  ]
+}

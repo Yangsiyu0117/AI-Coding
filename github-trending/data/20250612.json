@@ -1,0 +1,78 @@
+{
+  "date": "20250612",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "96",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "82",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "68",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "64",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "61",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "57",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "57",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "alibaba/MNN",
+      "stars": "15.2k",
+      "growth": "57",
+      "lang": "C++",
+      "desc": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "56",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "RockChinQ/LangBot",
+      "stars": "19",
+      "growth": "54",
+      "lang": "Python",
+      "desc": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / moltbot / openclaw"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20241020",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "googleapis/googleapis",
+      "stars": "8.6k",
+      "growth": "346",
+      "lang": "Starlark",
+      "desc": "Public interface definitions of Google APIs."
+    },
+    {
+      "name": "typst/typst",
+      "stars": "53.6k",
+      "growth": "169",
+      "lang": "Rust",
+      "desc": "A markup-based typesetting system that is powerful and easy to learn."
+    },
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "136",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "formbricks/formbricks",
+      "stars": "12.3k",
+      "growth": "119",
+      "lang": "TypeScript",
+      "desc": "Open Source Qualtrics Alternative"
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "117",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "114",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "101",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "96",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "stars": "60.7k",
+      "growth": "91",
+      "lang": "Rust",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "89",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    }
+  ]
+}

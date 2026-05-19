@@ -1,0 +1,78 @@
+{
+  "date": "20241211",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "lmarzen/esp32-weather-epd",
+      "stars": "6.1k",
+      "growth": "581",
+      "lang": "C",
+      "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API."
+    },
+    {
+      "name": "mherrmann/helium",
+      "stars": "8.3k",
+      "growth": "232",
+      "lang": "Python",
+      "desc": "Lighter web automation with Python"
+    },
+    {
+      "name": "electric-sql/electric",
+      "stars": "10.2k",
+      "growth": "147",
+      "lang": "TypeScript",
+      "desc": "The agent platform built on sync."
+    },
+    {
+      "name": "gethomepage/homepage",
+      "stars": "30.1k",
+      "growth": "132",
+      "lang": "JavaScript",
+      "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations."
+    },
+    {
+      "name": "nihaojob/vue-fabric-editor",
+      "stars": "7.9k",
+      "growth": "110",
+      "lang": "Vue",
+      "desc": "快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates."
+    },
+    {
+      "name": "gusmanb/logicanalyzer",
+      "stars": "4.8k",
+      "growth": "94",
+      "lang": "Python",
+      "desc": "24 channel, 100Msps logic analyzer hardware and software"
+    },
+    {
+      "name": "AI4Finance-Foundation/FinGPT",
+      "stars": "20.2k",
+      "growth": "89",
+      "lang": "Jupyter Notebook",
+      "desc": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace."
+    },
+    {
+      "name": "xpipe-io/xpipe",
+      "stars": "14.1k",
+      "growth": "87",
+      "lang": "Java",
+      "desc": "Access your entire server infrastructure from your local desktop"
+    },
+    {
+      "name": "ScrapeGraphAI/Scrapegraph-ai",
+      "stars": "25.6k",
+      "growth": "80",
+      "lang": "Python",
+      "desc": "Python scraper based on AI"
+    },
+    {
+      "name": "go-pay/gopay",
+      "stars": "5.6k",
+      "growth": "65",
+      "lang": "Go",
+      "desc": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】"
+    }
+  ]
+}

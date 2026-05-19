@@ -1,0 +1,78 @@
+{
+  "date": "20241016",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "GraphiteEditor/Graphite",
+      "stars": "25.7k",
+      "growth": "624",
+      "lang": "Rust",
+      "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "476",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "chatanywhere/GPT_API_free",
+      "stars": "38.0k",
+      "growth": "240",
+      "lang": "deepseek \\",
+      "desc": "Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt \\"
+    },
+    {
+      "name": "sickcodes/Docker-OSX",
+      "stars": "52.5k",
+      "growth": "230",
+      "lang": "Shell",
+      "desc": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers."
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "169",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "xushengfeng/eSearch",
+      "stars": "6.4k",
+      "growth": "142",
+      "lang": "TypeScript",
+      "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS"
+    },
+    {
+      "name": "hehonghui/awesome-english-ebooks",
+      "stars": "31.6k",
+      "growth": "140",
+      "lang": "CSS",
+      "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "137",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "119",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "ultralytics/ultralytics",
+      "stars": "57.3k",
+      "growth": "110",
+      "lang": "Python",
+      "desc": "Ultralytics YOLO 🚀"
+    }
+  ]
+}

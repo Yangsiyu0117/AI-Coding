@@ -1,0 +1,78 @@
+{
+  "date": "20260415",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "9754",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "157.0k",
+      "growth": "5145",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "2124",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "stars": "53.7k",
+      "growth": "1340",
+      "lang": "HTML",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "pascalorg/editor",
+      "stars": "15.7k",
+      "growth": "1141",
+      "lang": "TypeScript",
+      "desc": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "multica-ai/multica",
+      "stars": "29.4k",
+      "growth": "1115",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "stars": "59.0k",
+      "growth": "953",
+      "lang": "Python",
+      "desc": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "stars": "26.8k",
+      "growth": "918",
+      "lang": "TypeScript",
+      "desc": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "stars": "51.1k",
+      "growth": "637",
+      "lang": "Python",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "576",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    }
+  ]
+}

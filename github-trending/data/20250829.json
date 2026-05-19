@@ -1,0 +1,78 @@
+{
+  "date": "20250829",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "chroma-core/chroma",
+      "stars": "28.0k",
+      "growth": "233",
+      "lang": "Rust",
+      "desc": "Search infrastructure for AI"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "231",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "Canner/WrenAI",
+      "stars": "15.2k",
+      "growth": "224",
+      "lang": "Rust",
+      "desc": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics."
+    },
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "210",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    },
+    {
+      "name": "evershopcommerce/evershop",
+      "stars": "10.1k",
+      "growth": "149",
+      "lang": "TypeScript",
+      "desc": "🛍️ Typescript E-commerce Platform"
+    },
+    {
+      "name": "9001/copyparty",
+      "stars": "44.9k",
+      "growth": "145",
+      "lang": "Python",
+      "desc": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "137",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Drakkar-Software/OctoBot",
+      "stars": "5.9k",
+      "growth": "127",
+      "lang": "Python",
+      "desc": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface."
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "121",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "118",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250204",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "141",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "zauberzeug/nicegui",
+      "stars": "15.8k",
+      "growth": "108",
+      "lang": "Python",
+      "desc": "Create web-based user interfaces with Python. The nice way."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "104",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "104",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "92",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "penpot/penpot",
+      "stars": "47.9k",
+      "growth": "84",
+      "lang": "Clojure",
+      "desc": "Penpot: The open-source design tool for design and code collaboration"
+    },
+    {
+      "name": "documenso/documenso",
+      "stars": "12.9k",
+      "growth": "81",
+      "lang": "TypeScript",
+      "desc": "The Open Source DocuSign Alternative."
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "77",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "metabase/metabase",
+      "stars": "47.4k",
+      "growth": "71",
+      "lang": "Clojure",
+      "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "65",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  ]
+}

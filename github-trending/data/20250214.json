@@ -1,0 +1,78 @@
+{
+  "date": "20250214",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "kuchin/awesome-cto",
+      "stars": "34.9k",
+      "growth": "415",
+      "lang": "unknown",
+      "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "392",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "316",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "yamadashy/repomix",
+      "stars": "25.1k",
+      "growth": "254",
+      "lang": "TypeScript",
+      "desc": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+    },
+    {
+      "name": "datawhalechina/prompt-engineering-for-developers",
+      "stars": "24.1k",
+      "growth": "227",
+      "lang": "Jupyter Notebook",
+      "desc": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版"
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "224",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "atlassian/pragmatic-drag-and-drop",
+      "stars": "12.6k",
+      "growth": "219",
+      "lang": "TypeScript",
+      "desc": "Fast drag and drop for any experience on any tech stack"
+    },
+    {
+      "name": "labring/FastGPT",
+      "stars": "28.1k",
+      "growth": "211",
+      "lang": "TypeScript",
+      "desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
+    },
+    {
+      "name": "nocodb/nocodb",
+      "stars": "63.1k",
+      "growth": "211",
+      "lang": "TypeScript",
+      "desc": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "182",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    }
+  ]
+}

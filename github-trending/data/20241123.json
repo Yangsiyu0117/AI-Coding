@@ -1,0 +1,78 @@
+{
+  "date": "20241123",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "223",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "100",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "92",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "85",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "khoj-ai/khoj",
+      "stars": "34.6k",
+      "growth": "85",
+      "lang": "Python",
+      "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    },
+    {
+      "name": "meshery/meshery",
+      "stars": "10.2k",
+      "growth": "73",
+      "lang": "TypeScript",
+      "desc": "Meshery, the cloud native manager"
+    },
+    {
+      "name": "StarRocks/starrocks",
+      "stars": "11.7k",
+      "growth": "72",
+      "lang": "Java",
+      "desc": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": "188.6k",
+      "growth": "68",
+      "lang": "TypeScript",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "stas00/ml-engineering",
+      "stars": "17.9k",
+      "growth": "55",
+      "lang": "Python",
+      "desc": "Machine Learning Engineering Open Book"
+    },
+    {
+      "name": "jesseduffield/lazydocker",
+      "stars": "51.1k",
+      "growth": "53",
+      "lang": "Go",
+      "desc": "The lazier way to manage everything docker"
+    }
+  ]
+}

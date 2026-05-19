@@ -1,0 +1,78 @@
+{
+  "date": "20260429",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": "92.9k",
+      "growth": "6843",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": "136.8k",
+      "growth": "2705",
+      "lang": "unknown",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "stars": "25.9k",
+      "growth": "1115",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "1042",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "stars": "13.2k",
+      "growth": "1013",
+      "lang": "Python",
+      "desc": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "stars": "77.1k",
+      "growth": "948",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "43.5k",
+      "growth": "831",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "stars": "10.5k",
+      "growth": "802",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+    },
+    {
+      "name": "iamgio/quarkdown",
+      "stars": "14.2k",
+      "growth": "694",
+      "lang": "Kotlin",
+      "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases."
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "stars": "50.2k",
+      "growth": "691",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+    }
+  ]
+}

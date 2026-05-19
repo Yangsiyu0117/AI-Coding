@@ -1,0 +1,78 @@
+{
+  "date": "20251111",
+  "total_repos": 10,
+  "python_count": 7,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "usestrix/strix",
+      "stars": "25.4k",
+      "growth": "908",
+      "lang": "Python",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "bobeff/open-source-games",
+      "stars": "12.6k",
+      "growth": "709",
+      "lang": "Python",
+      "desc": "A list of open source games."
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "stars": "41.0k",
+      "growth": "707",
+      "lang": "Python",
+      "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "316",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "stars": "50.2k",
+      "growth": "284",
+      "lang": "Python",
+      "desc": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!"
+    },
+    {
+      "name": "yeongpin/cursor-free-vip",
+      "stars": "40.8k",
+      "growth": "261",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "umami-software/umami",
+      "stars": "36.7k",
+      "growth": "250",
+      "lang": "TypeScript",
+      "desc": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude."
+    },
+    {
+      "name": "jesseduffield/lazygit",
+      "stars": "78.1k",
+      "growth": "183",
+      "lang": "Go",
+      "desc": "simple terminal UI for git commands"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "stars": "78.1k",
+      "growth": "174",
+      "lang": "Python",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "stars": "27.4k",
+      "growth": "146",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    }
+  ]
+}

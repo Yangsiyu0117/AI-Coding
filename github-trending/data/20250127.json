@@ -1,0 +1,78 @@
+{
+  "date": "20250127",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "738",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "m1k1o/neko",
+      "stars": "21.0k",
+      "growth": "404",
+      "lang": "Go",
+      "desc": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "328",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "aidenybai/react-scan",
+      "stars": "21.3k",
+      "growth": "272",
+      "lang": "TypeScript",
+      "desc": "Scan and fix React performance issues"
+    },
+    {
+      "name": "leerob/next-saas-starter",
+      "stars": "15.8k",
+      "growth": "235",
+      "lang": "TypeScript",
+      "desc": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "171",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "CorentinTh/it-tools",
+      "stars": "38.8k",
+      "growth": "164",
+      "lang": "Vue",
+      "desc": "Collection of handy online tools for developers, with great UX."
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "160",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "VikParuchuri/marker",
+      "stars": "35.2k",
+      "growth": "152",
+      "lang": "Python",
+      "desc": "Convert PDF to markdown + JSON quickly with high accuracy"
+    },
+    {
+      "name": "exo-explore/exo",
+      "stars": "44.8k",
+      "growth": "137",
+      "lang": "Python",
+      "desc": "Run frontier AI locally."
+    }
+  ]
+}

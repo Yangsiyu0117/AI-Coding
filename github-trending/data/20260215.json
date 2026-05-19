@@ -1,0 +1,78 @@
+{
+  "date": "20260215",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "1222",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "alibaba/zvec",
+      "stars": "9.6k",
+      "growth": "882",
+      "lang": "C++",
+      "desc": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "stars": "14.2k",
+      "growth": "796",
+      "lang": "TypeScript",
+      "desc": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "tambo-ai/tambo",
+      "stars": "11.2k",
+      "growth": "548",
+      "lang": "TypeScript",
+      "desc": "Generative UI SDK for React"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "528",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "433",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "411",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "330",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "40.0k",
+      "growth": "316",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "stars": "60.2k",
+      "growth": "313",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    }
+  ]
+}

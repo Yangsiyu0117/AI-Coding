@@ -1,0 +1,78 @@
+{
+  "date": "20241203",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "leptos-rs/leptos",
+      "stars": "20.8k",
+      "growth": "164",
+      "lang": "Rust",
+      "desc": "Build fast web applications with Rust."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "163",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "145",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "102",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "amir20/dozzle",
+      "stars": "13.0k",
+      "growth": "86",
+      "lang": "Go",
+      "desc": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s."
+    },
+    {
+      "name": "bluesky-social/social-app",
+      "stars": "18.0k",
+      "growth": "85",
+      "lang": "TypeScript",
+      "desc": "The Bluesky Social application for Web, iOS, and Android"
+    },
+    {
+      "name": "topjohnwu/Magisk",
+      "stars": "60.5k",
+      "growth": "79",
+      "lang": "Kotlin",
+      "desc": "The Magic Mask for Android"
+    },
+    {
+      "name": "itzg/docker-minecraft-server",
+      "stars": "13.7k",
+      "growth": "73",
+      "lang": "Shell",
+      "desc": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup"
+    },
+    {
+      "name": "acmesh-official/acme.sh",
+      "stars": "46.6k",
+      "growth": "72",
+      "lang": "Shell",
+      "desc": "A pure Unix shell script ACME client for SSL / TLS certificate automation"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "66",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    }
+  ]
+}

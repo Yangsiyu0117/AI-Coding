@@ -1,0 +1,78 @@
+{
+  "date": "20250712",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "2180",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "stars": "49.8k",
+      "growth": "582",
+      "lang": "评论爬虫、抖音视频 \\",
+      "desc": "小红书笔记 \\"
+    },
+    {
+      "name": "googleapis/genai-toolbox",
+      "stars": "15.3k",
+      "growth": "342",
+      "lang": "Go",
+      "desc": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "219",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "199",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "RSSNext/Folo",
+      "stars": "38.3k",
+      "growth": "188",
+      "lang": "TypeScript",
+      "desc": "🧡 Folo is the AI RSS Reader"
+    },
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "185",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "Alibaba-NLP/WebAgent",
+      "stars": "18.9k",
+      "growth": "162",
+      "lang": "Python",
+      "desc": "Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+    },
+    {
+      "name": "getzep/graphiti",
+      "stars": "26.2k",
+      "growth": "150",
+      "lang": "Python",
+      "desc": "Build Real-Time Knowledge Graphs for AI Agents"
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "113",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    }
+  ]
+}

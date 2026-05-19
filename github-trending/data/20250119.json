@@ -1,0 +1,78 @@
+{
+  "date": "20250119",
+  "total_repos": 10,
+  "python_count": 7,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "OpenBMB/MiniCPM-V",
+      "stars": "25.1k",
+      "growth": "707",
+      "lang": "Python",
+      "desc": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "539",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "OpenBB-finance/OpenBBTerminal",
+      "stars": "67.8k",
+      "growth": "273",
+      "lang": "Python",
+      "desc": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "271",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "185",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "benbusby/whoogle-search",
+      "stars": "11.5k",
+      "growth": "183",
+      "lang": "Python",
+      "desc": "A self-hosted, ad-free, privacy-respecting metasearch engine"
+    },
+    {
+      "name": "KurtBestor/Hitomi-Downloader",
+      "stars": "23.5k",
+      "growth": "179",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "google/comprehensive-rust",
+      "stars": "33.0k",
+      "growth": "178",
+      "lang": "Rust",
+      "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust."
+    },
+    {
+      "name": "All-Hands-AI/OpenHands",
+      "stars": "74.1k",
+      "growth": "167",
+      "lang": "Python",
+      "desc": "🙌 OpenHands: AI-Driven Development"
+    },
+    {
+      "name": "serengil/deepface",
+      "stars": "22.8k",
+      "growth": "161",
+      "lang": "Python",
+      "desc": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python"
+    }
+  ]
+}

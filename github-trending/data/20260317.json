@@ -1,0 +1,78 @@
+{
+  "date": "20260317",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "3357",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "stars": "61.2k",
+      "growth": "2761",
+      "lang": "Python",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "2451",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": "61.3k",
+      "growth": "1177",
+      "lang": "TypeScript",
+      "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "stars": "24.1k",
+      "growth": "1152",
+      "lang": "Python",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving."
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "stars": "23.0k",
+      "growth": "1119",
+      "lang": "Python",
+      "desc": "The batteries-included agent harness."
+    },
+    {
+      "name": "alibaba/page-agent",
+      "stars": "17.9k",
+      "growth": "1002",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "993",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "921",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "stars": "30.4k",
+      "growth": "862",
+      "lang": "Zig",
+      "desc": "Lightpanda: the headless browser designed for AI and automation"
+    }
+  ]
+}

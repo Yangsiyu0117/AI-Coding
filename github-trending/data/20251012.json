@@ -1,0 +1,78 @@
+{
+  "date": "20251012",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "944",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "167",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "dyad-sh/dyad",
+      "stars": "20.4k",
+      "growth": "166",
+      "lang": "TypeScript",
+      "desc": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "155",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "getzep/graphiti",
+      "stars": "26.2k",
+      "growth": "152",
+      "lang": "Python",
+      "desc": "Build Real-Time Knowledge Graphs for AI Agents"
+    },
+    {
+      "name": "MODSetter/SurfSense",
+      "stars": "14.2k",
+      "growth": "131",
+      "lang": "Python",
+      "desc": "An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9"
+    },
+    {
+      "name": "k4yt3x/video2x",
+      "stars": "19.9k",
+      "growth": "121",
+      "lang": "C++",
+      "desc": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018."
+    },
+    {
+      "name": "p1ngul1n0/blackbird",
+      "stars": "6.1k",
+      "growth": "111",
+      "lang": "Python",
+      "desc": "An OSINT tool to search for accounts by username and email in social networks."
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "stars": "22.8k",
+      "growth": "101",
+      "lang": "C",
+      "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    },
+    {
+      "name": "TheJoeFin/Text-Grab",
+      "stars": "4.7k",
+      "growth": "70",
+      "lang": "C#",
+      "desc": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications."
+    }
+  ]
+}

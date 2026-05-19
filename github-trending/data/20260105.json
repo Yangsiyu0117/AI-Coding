@@ -1,0 +1,78 @@
+{
+  "date": "20260105",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "1987",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "713",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "usememos/memos",
+      "stars": "59.8k",
+      "growth": "641",
+      "lang": "Go",
+      "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "592",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "515",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "459",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "400",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "5rahim/seanime",
+      "stars": "3.6k",
+      "growth": "287",
+      "lang": "Go",
+      "desc": "Open-source media server with a web interface and desktop app for anime and manga."
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "stars": "14.1k",
+      "growth": "278",
+      "lang": "TypeScript",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "274",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    }
+  ]
+}

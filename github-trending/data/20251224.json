@@ -1,0 +1,78 @@
+{
+  "date": "20251224",
+  "total_repos": 10,
+  "python_count": 7,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "rendercv/rendercv",
+      "stars": "16.7k",
+      "growth": "2290",
+      "lang": "Python",
+      "desc": "Resume builder for academics and engineers"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "657",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "resemble-ai/chatterbox",
+      "stars": "24.8k",
+      "growth": "466",
+      "lang": "Python",
+      "desc": "SoTA open-source TTS"
+    },
+    {
+      "name": "google/langextract",
+      "stars": "36.5k",
+      "growth": "454",
+      "lang": "Python",
+      "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "stan-smith/FossFLOW",
+      "stars": "14.9k",
+      "growth": "410",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "makeplane/plane",
+      "stars": "49.4k",
+      "growth": "382",
+      "lang": "TypeScript",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "yichuan-w/LEANN",
+      "stars": "11.5k",
+      "growth": "376",
+      "lang": "Python",
+      "desc": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "367",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "exo-explore/exo",
+      "stars": "44.8k",
+      "growth": "313",
+      "lang": "Python",
+      "desc": "Run frontier AI locally."
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "stars": "27.4k",
+      "growth": "307",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    }
+  ]
+}

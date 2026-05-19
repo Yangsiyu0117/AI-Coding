@@ -1,0 +1,78 @@
+{
+  "date": "20260129",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "1104",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "981",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "853",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "stars": "13.7k",
+      "growth": "546",
+      "lang": "Python",
+      "desc": "Memory for 24/7 proactive agents like OpenClaw."
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": "60.6k",
+      "growth": "481",
+      "lang": "Python",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "GetStream/Vision-Agents",
+      "stars": "7.8k",
+      "growth": "399",
+      "lang": "Python",
+      "desc": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "374",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "remotion-dev/remotion",
+      "stars": "47.3k",
+      "growth": "341",
+      "lang": "TypeScript",
+      "desc": "🎥      Make videos programmatically with React"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "325",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "288",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    }
+  ]
+}

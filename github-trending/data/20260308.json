@@ -1,0 +1,78 @@
+{
+  "date": "20260308",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1347",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "stars": "61.2k",
+      "growth": "1212",
+      "lang": "Python",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "stars": "60.2k",
+      "growth": "1108",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "707",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "stars": "16.9k",
+      "growth": "691",
+      "lang": "Jupyter Notebook",
+      "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "639",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": "61.3k",
+      "growth": "635",
+      "lang": "TypeScript",
+      "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "634",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "597",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "alibaba/page-agent",
+      "stars": "17.9k",
+      "growth": "591",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    }
+  ]
+}

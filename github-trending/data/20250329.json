@@ -1,0 +1,78 @@
+{
+  "date": "20250329",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "shadps4-emu/shadPS4",
+      "stars": "31.1k",
+      "growth": "539",
+      "lang": "C++",
+      "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++"
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "462",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "210",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "112",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "96",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "comfyanonymous/ComfyUI",
+      "stars": "113.5k",
+      "growth": "91",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "coollabsio/coolify",
+      "stars": "55.6k",
+      "growth": "85",
+      "lang": "PHP",
+      "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "74",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "cuixueshe/earthworm",
+      "stars": "10.8k",
+      "growth": "71",
+      "lang": "TypeScript",
+      "desc": "Learning English through the method of constructing sentences with conjunctions"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "70",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    }
+  ]
+}

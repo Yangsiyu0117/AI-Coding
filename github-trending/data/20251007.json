@@ -1,0 +1,78 @@
+{
+  "date": "20251007",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "401",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "anthropics/anthropic-cookbook",
+      "stars": "43.3k",
+      "growth": "201",
+      "lang": "Jupyter Notebook",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "landley/toybox",
+      "stars": "3.1k",
+      "growth": "143",
+      "lang": "C",
+      "desc": "toybox"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "137",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "MODSetter/SurfSense",
+      "stars": "14.2k",
+      "growth": "131",
+      "lang": "Python",
+      "desc": "An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "stars": "22.8k",
+      "growth": "96",
+      "lang": "C",
+      "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    },
+    {
+      "name": "openemr/openemr",
+      "stars": "5.2k",
+      "growth": "90",
+      "lang": "PHP",
+      "desc": "The most popular open source electronic health records and medical practice management solution."
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "89",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "80",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    },
+    {
+      "name": "rwv/chinese-dos-games",
+      "stars": "10.2k",
+      "growth": "74",
+      "lang": "Python",
+      "desc": "🎮 Chinese DOS games collections."
+    }
+  ]
+}

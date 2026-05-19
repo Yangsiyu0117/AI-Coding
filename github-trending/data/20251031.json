@@ -1,0 +1,78 @@
+{
+  "date": "20251031",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "chaitin/PandaWiki",
+      "stars": "9.6k",
+      "growth": "394",
+      "lang": "TypeScript",
+      "desc": "PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。"
+    },
+    {
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "stars": "95.8k",
+      "growth": "329",
+      "lang": "JavaScript",
+      "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    },
+    {
+      "name": "menloresearch/jan",
+      "stars": "42.6k",
+      "growth": "291",
+      "lang": "TypeScript",
+      "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "210",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "ventoy/Ventoy",
+      "stars": "76.7k",
+      "growth": "172",
+      "lang": "C",
+      "desc": "A new bootable USB solution."
+    },
+    {
+      "name": "Project-MONAI/MONAI",
+      "stars": "8.2k",
+      "growth": "154",
+      "lang": "Python",
+      "desc": "AI Toolkit for Healthcare Imaging"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "121",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "104",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "GraphiteEditor/Graphite",
+      "stars": "25.7k",
+      "growth": "91",
+      "lang": "Rust",
+      "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "stars": "104.3k",
+      "growth": "90",
+      "lang": "Swift",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250517",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "neondatabase/neon",
+      "stars": "22.0k",
+      "growth": "250",
+      "lang": "Rust",
+      "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "200",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "162",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "122",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "better-auth/better-auth",
+      "stars": "28.3k",
+      "growth": "98",
+      "lang": "TypeScript",
+      "desc": "The most comprehensive authentication framework"
+    },
+    {
+      "name": "xaoyaoo/PyWxDump",
+      "stars": "9.7k",
+      "growth": "86",
+      "lang": "unknown",
+      "desc": "删库"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "81",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "stars": "37.4k",
+      "growth": "75",
+      "lang": "Java",
+      "desc": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "69",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "66",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

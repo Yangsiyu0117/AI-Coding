@@ -1,0 +1,78 @@
+{
+  "date": "20260302",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "ruvnet/wifi-densepose",
+      "stars": "60.2k",
+      "growth": "4734",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "1263",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "1202",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "1090",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "stars": "10.7k",
+      "growth": "886",
+      "lang": "Python",
+      "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents."
+    },
+    {
+      "name": "ruvnet/claude-flow",
+      "stars": "53.0k",
+      "growth": "767",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "stars": "24.6k",
+      "growth": "765",
+      "lang": "Python",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "stars": "51.1k",
+      "growth": "723",
+      "lang": "Python",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "678",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "superset-sh/superset",
+      "stars": "10.7k",
+      "growth": "603",
+      "lang": "TypeScript",
+      "desc": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    }
+  ]
+}

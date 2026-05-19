@@ -1,0 +1,78 @@
+{
+  "date": "20241014",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "formbricks/formbricks",
+      "stars": "12.3k",
+      "growth": "215",
+      "lang": "TypeScript",
+      "desc": "Open Source Qualtrics Alternative"
+    },
+    {
+      "name": "ultralytics/ultralytics",
+      "stars": "57.3k",
+      "growth": "173",
+      "lang": "Python",
+      "desc": "Ultralytics YOLO 🚀"
+    },
+    {
+      "name": "xushengfeng/eSearch",
+      "stars": "6.4k",
+      "growth": "161",
+      "lang": "TypeScript",
+      "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS"
+    },
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "148",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "pbatard/rufus",
+      "stars": "36.1k",
+      "growth": "144",
+      "lang": "C",
+      "desc": "The Reliable USB Formatting Utility"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "stars": "78.1k",
+      "growth": "135",
+      "lang": "Python",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    },
+    {
+      "name": "typst/typst",
+      "stars": "53.6k",
+      "growth": "134",
+      "lang": "Rust",
+      "desc": "A markup-based typesetting system that is powerful and easy to learn."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "130",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "gradio-app/gradio",
+      "stars": "42.6k",
+      "growth": "119",
+      "lang": "Python",
+      "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "102",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    }
+  ]
+}

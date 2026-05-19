@@ -1,0 +1,78 @@
+{
+  "date": "20241224",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "anvaka/city-roads",
+      "stars": "9.3k",
+      "growth": "217",
+      "lang": "JavaScript",
+      "desc": "Visualization of all roads within any city"
+    },
+    {
+      "name": "tldraw/tldraw",
+      "stars": "47.1k",
+      "growth": "211",
+      "lang": "TypeScript",
+      "desc": "very good whiteboard infinite canvas SDK"
+    },
+    {
+      "name": "AutomaApp/automa",
+      "stars": "21.3k",
+      "growth": "96",
+      "lang": "Vue",
+      "desc": "A browser extension for automating your browser by connecting blocks"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "85",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "1Panel-dev/1Panel",
+      "stars": "35.5k",
+      "growth": "84",
+      "lang": "Go",
+      "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "stars": "52.9k",
+      "growth": "83",
+      "lang": "TypeScript",
+      "desc": "Build AI Agents, Visually"
+    },
+    {
+      "name": "kgretzky/evilginx2",
+      "stars": "15.1k",
+      "growth": "73",
+      "lang": "Go",
+      "desc": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
+    },
+    {
+      "name": "seleniumbase/SeleniumBase",
+      "stars": "12.7k",
+      "growth": "64",
+      "lang": "Python",
+      "desc": "A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration."
+    },
+    {
+      "name": "medusajs/medusa",
+      "stars": "33.7k",
+      "growth": "62",
+      "lang": "TypeScript",
+      "desc": "The world's most flexible commerce platform."
+    },
+    {
+      "name": "UFund-Me/Qbot",
+      "stars": "17.4k",
+      "growth": "61",
+      "lang": "Jupyter Notebook",
+      "desc": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant"
+    }
+  ]
+}

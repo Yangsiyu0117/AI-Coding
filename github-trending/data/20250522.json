@@ -1,0 +1,78 @@
+{
+  "date": "20250522",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "HeyPuter/puter",
+      "stars": "41.4k",
+      "growth": "455",
+      "lang": "JavaScript",
+      "desc": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "398",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "181",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "systemdesign42/system-design",
+      "stars": "24.5k",
+      "growth": "112",
+      "lang": "unknown",
+      "desc": "If you want to become good at system design, join this newsletter now 👇"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "98",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "HuolalaTech/page-spy-web",
+      "stars": "5.6k",
+      "growth": "90",
+      "lang": "TypeScript",
+      "desc": "A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "78",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "73",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
+      "name": "better-auth/better-auth",
+      "stars": "28.3k",
+      "growth": "60",
+      "lang": "TypeScript",
+      "desc": "The most comprehensive authentication framework"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "60",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

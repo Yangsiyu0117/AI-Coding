@@ -1,0 +1,78 @@
+{
+  "date": "20260319",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "3164",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "stars": "186.8k",
+      "growth": "2370",
+      "lang": "JavaScript",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "stars": "23.2k",
+      "growth": "1680",
+      "lang": "JavaScript",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "stars": "100.4k",
+      "growth": "1509",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "stars": "61.3k",
+      "growth": "1423",
+      "lang": "TypeScript",
+      "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "stars": "63.0k",
+      "growth": "1241",
+      "lang": "JavaScript",
+      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "unslothai/unsloth",
+      "stars": "64.6k",
+      "growth": "993",
+      "lang": "Python",
+      "desc": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "903",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "stars": "9.8k",
+      "growth": "710",
+      "lang": "Python",
+      "desc": "An Open-Source Asynchronous Coding Agent"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "594",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    }
+  ]
+}

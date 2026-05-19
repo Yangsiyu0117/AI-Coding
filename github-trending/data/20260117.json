@@ -1,0 +1,78 @@
+{
+  "date": "20260117",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "1575",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "1326",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "eigent-ai/eigent",
+      "stars": "14.0k",
+      "growth": "996",
+      "lang": "TypeScript",
+      "desc": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "793",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "stars": "25.8k",
+      "growth": "557",
+      "lang": "Customize your assistants \\",
+      "desc": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \\"
+    },
+    {
+      "name": "google/langextract",
+      "stars": "36.5k",
+      "growth": "360",
+      "lang": "Python",
+      "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "puckeditor/puck",
+      "stars": "12.7k",
+      "growth": "320",
+      "lang": "TypeScript",
+      "desc": "The visual editor for React."
+    },
+    {
+      "name": "cjpais/Handy",
+      "stars": "21.9k",
+      "growth": "293",
+      "lang": "Rust",
+      "desc": "A free, open source, and extensible speech-to-text application that works completely offline."
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "stars": "35.1k",
+      "growth": "282",
+      "lang": "Jupyter Notebook",
+      "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "stars": "27.4k",
+      "growth": "214",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    }
+  ]
+}

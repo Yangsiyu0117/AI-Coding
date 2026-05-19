@@ -1,0 +1,78 @@
+{
+  "date": "20250625",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "stars": "20.0k",
+      "growth": "534",
+      "lang": "Dockerfile",
+      "desc": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking."
+    },
+    {
+      "name": "ml-tooling/best-of-ml-python",
+      "stars": "23.5k",
+      "growth": "380",
+      "lang": "unknown",
+      "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly."
+    },
+    {
+      "name": "kilimchoi/engineering-blogs",
+      "stars": "38.1k",
+      "growth": "304",
+      "lang": "Ruby",
+      "desc": "A curated list of engineering blogs"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "stars": "36.1k",
+      "growth": "202",
+      "lang": "Rust",
+      "desc": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "188",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "140",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "automatisch/automatisch",
+      "stars": "13.8k",
+      "growth": "118",
+      "lang": "JavaScript",
+      "desc": "The open source Zapier alternative. Build workflow automation without spending time and money."
+    },
+    {
+      "name": "geekan/HowToLiveLonger",
+      "stars": "35.0k",
+      "growth": "116",
+      "lang": "A programmer's guide to live longer",
+      "desc": "程序员延寿指南 \\"
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "107",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "zricethezav/gitleaks",
+      "stars": "27.1k",
+      "growth": "100",
+      "lang": "Go",
+      "desc": "Find secrets with Gitleaks 🔑"
+    }
+  ]
+}

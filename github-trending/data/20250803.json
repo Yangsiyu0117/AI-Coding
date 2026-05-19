@@ -1,0 +1,78 @@
+{
+  "date": "20250803",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "438",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "wg-easy/wg-easy",
+      "stars": "25.7k",
+      "growth": "343",
+      "lang": "TypeScript",
+      "desc": "The easiest way to run WireGuard VPN + Web-based Admin UI."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "194",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "179",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "frappe/hrms",
+      "stars": "8.0k",
+      "growth": "132",
+      "lang": "Python",
+      "desc": "Open Source HR and Payroll Software"
+    },
+    {
+      "name": "googleapis/genai-toolbox",
+      "stars": "15.3k",
+      "growth": "121",
+      "lang": "Go",
+      "desc": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "113",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "101",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "dabeaz-course/python-mastery",
+      "stars": "13.2k",
+      "growth": "95",
+      "lang": "Python",
+      "desc": "Advanced Python Mastery (course by @dabeaz)"
+    },
+    {
+      "name": "screego/server",
+      "stars": "10.4k",
+      "growth": "94",
+      "lang": "Go",
+      "desc": "screen sharing for developers https://screego.net/"
+    }
+  ]
+}

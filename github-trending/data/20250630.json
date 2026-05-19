@@ -1,0 +1,78 @@
+{
+  "date": "20250630",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "stanford-oval/storm",
+      "stars": "28.2k",
+      "growth": "559",
+      "lang": "Python",
+      "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "name": "m1k1o/neko",
+      "stars": "21.0k",
+      "growth": "312",
+      "lang": "Go",
+      "desc": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "195",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "AykutSarac/jsoncrack.com",
+      "stars": "44.0k",
+      "growth": "173",
+      "lang": "TypeScript",
+      "desc": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs."
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "166",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "131",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "98",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "87",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    },
+    {
+      "name": "geekan/HowToLiveLonger",
+      "stars": "35.0k",
+      "growth": "83",
+      "lang": "A programmer's guide to live longer",
+      "desc": "程序员延寿指南 \\"
+    },
+    {
+      "name": "Portkey-AI/gateway",
+      "stars": "11.8k",
+      "growth": "83",
+      "lang": "TypeScript",
+      "desc": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API."
+    }
+  ]
+}

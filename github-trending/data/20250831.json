@@ -1,0 +1,78 @@
+{
+  "date": "20250831",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "323",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "simstudioai/sim",
+      "stars": "28.5k",
+      "growth": "231",
+      "lang": "TypeScript",
+      "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+    },
+    {
+      "name": "9001/copyparty",
+      "stars": "44.9k",
+      "growth": "186",
+      "lang": "Python",
+      "desc": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "stars": "15.2k",
+      "growth": "150",
+      "lang": "Rust",
+      "desc": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics."
+    },
+    {
+      "name": "charmbracelet/crush",
+      "stars": "24.4k",
+      "growth": "134",
+      "lang": "Go",
+      "desc": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": "39.4k",
+      "growth": "128",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "plait-board/drawnix",
+      "stars": "13.8k",
+      "growth": "125",
+      "lang": "TypeScript",
+      "desc": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc."
+    },
+    {
+      "name": "firecracker-microvm/firecracker",
+      "stars": "34.5k",
+      "growth": "107",
+      "lang": "Rust",
+      "desc": "Secure and fast microVMs for serverless computing."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": "63.8k",
+      "growth": "99",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "chroma-core/chroma",
+      "stars": "28.0k",
+      "growth": "96",
+      "lang": "Rust",
+      "desc": "Search infrastructure for AI"
+    }
+  ]
+}

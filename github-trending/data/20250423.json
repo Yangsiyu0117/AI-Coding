@@ -1,0 +1,78 @@
+{
+  "date": "20250423",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "1709",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "1232",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "892",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "cloudcommunity/Free-Certifications",
+      "stars": "30.2k",
+      "growth": "813",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "Anduin2017/HowToCook",
+      "stars": "100.2k",
+      "growth": "731",
+      "lang": "unknown",
+      "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "403",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "pocketbase/pocketbase",
+      "stars": "58.4k",
+      "growth": "393",
+      "lang": "Go",
+      "desc": "Open Source realtime backend in 1 file"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "298",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "Byaidu/PDFMathTranslate",
+      "stars": "33.9k",
+      "growth": "276",
+      "lang": "Python",
+      "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "229",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    }
+  ]
+}

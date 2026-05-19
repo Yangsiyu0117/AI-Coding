@@ -1,0 +1,78 @@
+{
+  "date": "20260512",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mattpocock/skills",
+      "stars": "92.9k",
+      "growth": "3742",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "stars": "15.7k",
+      "growth": "1636",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "stars": "32.2k",
+      "growth": "1298",
+      "lang": "Rust",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": "25.6k",
+      "growth": "1221",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": "18.8k",
+      "growth": "1117",
+      "lang": "Rust",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "stars": "13.4k",
+      "growth": "1106",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "decolua/9router",
+      "stars": "12.3k",
+      "growth": "1100",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "stars": "15.3k",
+      "growth": "1087",
+      "lang": "TypeScript",
+      "desc": "Let's use AI to Earn!"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "43.5k",
+      "growth": "949",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "stars": "95.1k",
+      "growth": "725",
+      "lang": "Jupyter Notebook",
+      "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250314",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "xpipe-io/xpipe",
+      "stars": "14.1k",
+      "growth": "1010",
+      "lang": "Java",
+      "desc": "Access your entire server infrastructure from your local desktop"
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "674",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "612",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "hpcaitech/Open-Sora",
+      "stars": "29.0k",
+      "growth": "393",
+      "lang": "Python",
+      "desc": "Open-Sora: Democratizing Efficient Video Production for All"
+    },
+    {
+      "name": "ZachGoldberg/Startup-CTO-Handbook",
+      "stars": "14.1k",
+      "growth": "253",
+      "lang": "unknown",
+      "desc": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams"
+    },
+    {
+      "name": "lensterxyz/lenster",
+      "stars": "29.4k",
+      "growth": "228",
+      "lang": "TypeScript",
+      "desc": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿"
+    },
+    {
+      "name": "geekan/MetaGPT",
+      "stars": "68.1k",
+      "growth": "200",
+      "lang": "Python",
+      "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "187",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "185",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-integration",
+      "stars": "37.4k",
+      "growth": "163",
+      "lang": "unknown",
+      "desc": "Integrate the DeepSeek API into popular software"
+    }
+  ]
+}

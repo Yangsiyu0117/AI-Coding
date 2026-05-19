@@ -1,0 +1,78 @@
+{
+  "date": "20251013",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "3079",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "datawhalechina/happy-llm",
+      "stars": "30.4k",
+      "growth": "415",
+      "lang": "Jupyter Notebook",
+      "desc": "📚 从零开始构建大模型"
+    },
+    {
+      "name": "evershopcommerce/evershop",
+      "stars": "10.1k",
+      "growth": "384",
+      "lang": "TypeScript",
+      "desc": "🛍️ Typescript E-commerce Platform"
+    },
+    {
+      "name": "xyflow/xyflow",
+      "stars": "36.7k",
+      "growth": "328",
+      "lang": "Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "desc": "React Flow \\"
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "109",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "105",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "dyad-sh/dyad",
+      "stars": "20.4k",
+      "growth": "95",
+      "lang": "TypeScript",
+      "desc": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+    },
+    {
+      "name": "AI4Finance-Foundation/FinRL",
+      "stars": "15.2k",
+      "growth": "91",
+      "lang": "Jupyter Notebook",
+      "desc": "FinRL®:  Financial Reinforcement Learning. 🔥"
+    },
+    {
+      "name": "vadimdemedes/ink",
+      "stars": "38.4k",
+      "growth": "90",
+      "lang": "TypeScript",
+      "desc": "🌈 React for interactive command-line apps"
+    },
+    {
+      "name": "521xueweihan/GitHub520",
+      "stars": "28.7k",
+      "growth": "80",
+      "lang": "Python",
+      "desc": ":kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）"
+    }
+  ]
+}

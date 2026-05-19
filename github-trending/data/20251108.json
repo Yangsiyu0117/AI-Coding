@@ -1,0 +1,78 @@
+{
+  "date": "20251108",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "666ghj/BettaFish",
+      "stars": "41.0k",
+      "growth": "1617",
+      "lang": "Python",
+      "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "stars": "27.4k",
+      "growth": "299",
+      "lang": "unknown",
+      "desc": "An evolving how-to guide for securing a Linux server."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "283",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "awslabs/mcp",
+      "stars": "9.1k",
+      "growth": "189",
+      "lang": "Python",
+      "desc": "Open source MCP Servers for AWS"
+    },
+    {
+      "name": "Skyvern-AI/skyvern",
+      "stars": "21.7k",
+      "growth": "184",
+      "lang": "Python",
+      "desc": "Automate browser based workflows with AI"
+    },
+    {
+      "name": "lima-vm/lima",
+      "stars": "21.0k",
+      "growth": "164",
+      "lang": "Go",
+      "desc": "Linux virtual machines, with a focus on running containers"
+    },
+    {
+      "name": "nocobase/nocobase",
+      "stars": "22.4k",
+      "growth": "158",
+      "lang": "TypeScript",
+      "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability."
+    },
+    {
+      "name": "localstack/localstack",
+      "stars": "65.0k",
+      "growth": "149",
+      "lang": "Python",
+      "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline"
+    },
+    {
+      "name": "GopeedLab/gopeed",
+      "stars": "24.6k",
+      "growth": "146",
+      "lang": "Go",
+      "desc": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "119",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    }
+  ]
+}

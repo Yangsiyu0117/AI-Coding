@@ -1,0 +1,78 @@
+{
+  "date": "20240929",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "256",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "localsend/localsend",
+      "stars": "81.5k",
+      "growth": "253",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "stars": "14.4k",
+      "growth": "202",
+      "lang": "Python",
+      "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "126",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "Atlas-OS/Atlas",
+      "stars": "20.6k",
+      "growth": "124",
+      "lang": "Batchfile",
+      "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability."
+    },
+    {
+      "name": "Ryujinx/Ryujinx",
+      "stars": "34.9k",
+      "growth": "114",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "gildas-lormeau/SingleFile",
+      "stars": "21.1k",
+      "growth": "104",
+      "lang": "JavaScript",
+      "desc": "Web Extension for saving a faithful copy of a complete web page in a single HTML file"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "99",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "KRTirtho/spotube",
+      "stars": "46.4k",
+      "growth": "99",
+      "lang": "Dart",
+      "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!"
+    },
+    {
+      "name": "ManimCommunity/manim",
+      "stars": "38.5k",
+      "growth": "93",
+      "lang": "Python",
+      "desc": "A community-maintained Python framework for creating mathematical animations."
+    }
+  ]
+}

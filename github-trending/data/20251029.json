@@ -1,0 +1,78 @@
+{
+  "date": "20251029",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "238",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "juanfont/headscale",
+      "stars": "38.5k",
+      "growth": "197",
+      "lang": "Go",
+      "desc": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "name": "k4yt3x/video2x",
+      "stars": "19.9k",
+      "growth": "133",
+      "lang": "C++",
+      "desc": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018."
+    },
+    {
+      "name": "easychen/lean-side-bussiness",
+      "stars": "12.0k",
+      "growth": "130",
+      "lang": "unknown",
+      "desc": "精益副业：程序员如何优雅地做副业"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "121",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Textualize/toolong",
+      "stars": "3.9k",
+      "growth": "121",
+      "lang": "Python",
+      "desc": "A terminal application to view, tail, merge, and search log files (plus JSONL)."
+    },
+    {
+      "name": "usememos/memos",
+      "stars": "59.8k",
+      "growth": "116",
+      "lang": "Go",
+      "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "91",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "stars": "104.3k",
+      "growth": "85",
+      "lang": "Swift",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use."
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "64",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250614",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "BlackINT3/OpenArk",
+      "stars": "10.9k",
+      "growth": "167",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "ellie/atuin",
+      "stars": "14",
+      "growth": "112",
+      "lang": "unknown",
+      "desc": "✨ Magical shell history"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "89",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "alibaba/MNN",
+      "stars": "15.2k",
+      "growth": "57",
+      "lang": "C++",
+      "desc": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "54",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "54",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "53",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "52",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "stars": "28.2k",
+      "growth": "51",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "50",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    }
+  ]
+}

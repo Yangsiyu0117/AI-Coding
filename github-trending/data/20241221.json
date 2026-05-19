@@ -1,0 +1,78 @@
+{
+  "date": "20241221",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "seleniumbase/SeleniumBase",
+      "stars": "12.7k",
+      "growth": "277",
+      "lang": "Python",
+      "desc": "A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration."
+    },
+    {
+      "name": "taichi-dev/taichi",
+      "stars": "28.2k",
+      "growth": "176",
+      "lang": "C++",
+      "desc": "Productive, portable, and performant GPU programming in Python."
+    },
+    {
+      "name": "meilisearch/meilisearch",
+      "stars": "57.6k",
+      "growth": "157",
+      "lang": "Rust",
+      "desc": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+    },
+    {
+      "name": "tldraw/tldraw",
+      "stars": "47.1k",
+      "growth": "133",
+      "lang": "TypeScript",
+      "desc": "very good whiteboard infinite canvas SDK"
+    },
+    {
+      "name": "1Panel-dev/1Panel",
+      "stars": "35.5k",
+      "growth": "128",
+      "lang": "Go",
+      "desc": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "name": "gorhill/uBlock",
+      "stars": "64.8k",
+      "growth": "110",
+      "lang": "JavaScript",
+      "desc": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "63",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "encoredev/encore",
+      "stars": "12.0k",
+      "growth": "59",
+      "lang": "Go",
+      "desc": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    },
+    {
+      "name": "ultralytics/ultralytics",
+      "stars": "57.3k",
+      "growth": "43",
+      "lang": "Python",
+      "desc": "Ultralytics YOLO 🚀"
+    },
+    {
+      "name": "mherrmann/helium",
+      "stars": "8.3k",
+      "growth": "41",
+      "lang": "Python",
+      "desc": "Lighter web automation with Python"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250211",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "964",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "stars": "13.8k",
+      "growth": "451",
+      "lang": "Python",
+      "desc": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "442",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "318",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "ChrisTitusTech/winutil",
+      "stars": "54.7k",
+      "growth": "258",
+      "lang": "PowerShell",
+      "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "stars": "8.6k",
+      "growth": "256",
+      "lang": "Rust",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "227",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "datawhalechina/prompt-engineering-for-developers",
+      "stars": "24.1k",
+      "growth": "216",
+      "lang": "Jupyter Notebook",
+      "desc": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版"
+    },
+    {
+      "name": "hoppscotch/hoppscotch",
+      "stars": "79.2k",
+      "growth": "201",
+      "lang": "TypeScript",
+      "desc": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "193",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250226",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "stars": "7.3k",
+      "growth": "1727",
+      "lang": "Cuda",
+      "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling"
+    },
+    {
+      "name": "deepseek-ai/DeepEP",
+      "stars": "9.6k",
+      "growth": "1264",
+      "lang": "Cuda",
+      "desc": "DeepEP: an efficient expert-parallel communication library"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "872",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-integration",
+      "stars": "37.4k",
+      "growth": "794",
+      "lang": "unknown",
+      "desc": "Integrate the DeepSeek API into popular software"
+    },
+    {
+      "name": "deepseek-ai/FlashMLA",
+      "stars": "12.7k",
+      "growth": "713",
+      "lang": "C++",
+      "desc": "FlashMLA: Efficient Multi-head Latent Attention Kernels"
+    },
+    {
+      "name": "roboflow/supervision",
+      "stars": "39.2k",
+      "growth": "634",
+      "lang": "Python",
+      "desc": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "450",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "419",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": "44.0k",
+      "growth": "414",
+      "lang": "TypeScript",
+      "desc": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "FreeTubeApp/FreeTube",
+      "stars": "20.9k",
+      "growth": "368",
+      "lang": "Vue",
+      "desc": "An Open Source YouTube app for privacy"
+    }
+  ]
+}

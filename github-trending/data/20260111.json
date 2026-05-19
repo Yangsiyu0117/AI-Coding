@@ -1,0 +1,78 @@
+{
+  "date": "20260111",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "2007",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "741",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "551",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "539",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "gibbok/typescript-book",
+      "stars": "10.3k",
+      "growth": "516",
+      "lang": "JavaScript",
+      "desc": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source."
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "stars": "34.7k",
+      "growth": "469",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "C4illin/ConvertX",
+      "stars": "16.8k",
+      "growth": "319",
+      "lang": "TypeScript",
+      "desc": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️"
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "308",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "stars": "16.4k",
+      "growth": "298",
+      "lang": "Python",
+      "desc": "M3U Playlist for free TV channels"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "40.0k",
+      "growth": "293",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    }
+  ]
+}

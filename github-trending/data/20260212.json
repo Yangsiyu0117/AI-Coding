@@ -1,0 +1,78 @@
+{
+  "date": "20260212",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "kuchin/awesome-cto",
+      "stars": "34.9k",
+      "growth": "967",
+      "lang": "unknown",
+      "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+    },
+    {
+      "name": "google/langextract",
+      "stars": "36.5k",
+      "growth": "955",
+      "lang": "Python",
+      "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "stars": "21.8k",
+      "growth": "794",
+      "lang": "Python",
+      "desc": "A list of free LLM inference resources accessible via API."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "659",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "643",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "stars": "43.1k",
+      "growth": "568",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "stars": "35.1k",
+      "growth": "457",
+      "lang": "Jupyter Notebook",
+      "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "446",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "stars": "14.1k",
+      "growth": "424",
+      "lang": "TypeScript",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "40.0k",
+      "growth": "424",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    }
+  ]
+}

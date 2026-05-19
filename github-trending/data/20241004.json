@@ -1,0 +1,78 @@
+{
+  "date": "20241004",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mainmatter/100-exercises-to-learn-rust",
+      "stars": "9.3k",
+      "growth": "140",
+      "lang": "Rust",
+      "desc": "A self-paced course to learn Rust, one exercise at a time."
+    },
+    {
+      "name": "mandiant/capa",
+      "stars": "6.0k",
+      "growth": "134",
+      "lang": "Python",
+      "desc": "The FLARE team's open-source tool to identify capabilities in executable files."
+    },
+    {
+      "name": "web-infra-dev/oxc",
+      "stars": "21.2k",
+      "growth": "120",
+      "lang": "Rust",
+      "desc": "⚓ A collection of high-performance JavaScript tools."
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "117",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "97",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "88",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "dolphin-emu/dolphin",
+      "stars": "15.0k",
+      "growth": "88",
+      "lang": "C++",
+      "desc": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+    },
+    {
+      "name": "joonspk-research/generative_agents",
+      "stars": "21.3k",
+      "growth": "74",
+      "lang": "unknown",
+      "desc": "Generative Agents: Interactive Simulacra of Human Behavior"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "73",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "65",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    }
+  ]
+}

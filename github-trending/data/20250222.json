@@ -1,0 +1,78 @@
+{
+  "date": "20250222",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "605",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "microsoft/OmniParser",
+      "stars": "24.8k",
+      "growth": "396",
+      "lang": "Jupyter Notebook",
+      "desc": "A simple screen parsing tool towards pure vision based GUI agent"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "stars": "68.6k",
+      "growth": "215",
+      "lang": "Java",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": "57.4k",
+      "growth": "198",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "cline/cline",
+      "stars": "62.0k",
+      "growth": "186",
+      "lang": "TypeScript",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "169",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "geekan/MetaGPT",
+      "stars": "68.1k",
+      "growth": "146",
+      "lang": "Python",
+      "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+    },
+    {
+      "name": "yamadashy/repomix",
+      "stars": "25.1k",
+      "growth": "141",
+      "lang": "TypeScript",
+      "desc": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+    },
+    {
+      "name": "wangrongding/wechat-bot",
+      "stars": "10.6k",
+      "growth": "141",
+      "lang": "JavaScript",
+      "desc": "🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等..."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "131",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    }
+  ]
+}

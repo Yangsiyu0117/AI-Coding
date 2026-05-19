@@ -1,0 +1,78 @@
+{
+  "date": "20241002",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "mainmatter/100-exercises-to-learn-rust",
+      "stars": "9.3k",
+      "growth": "302",
+      "lang": "Rust",
+      "desc": "A self-paced course to learn Rust, one exercise at a time."
+    },
+    {
+      "name": "ultralytics/ultralytics",
+      "stars": "57.3k",
+      "growth": "207",
+      "lang": "Python",
+      "desc": "Ultralytics YOLO 🚀"
+    },
+    {
+      "name": "Pythagora-io/gpt-pilot",
+      "stars": "33.8k",
+      "growth": "176",
+      "lang": "Python",
+      "desc": "The first real AI developer"
+    },
+    {
+      "name": "myshell-ai/OpenVoice",
+      "stars": "36.5k",
+      "growth": "147",
+      "lang": "Python",
+      "desc": "Instant voice cloning by MIT and MyShell. Audio foundation model."
+    },
+    {
+      "name": "coqui-ai/TTS",
+      "stars": "45.3k",
+      "growth": "128",
+      "lang": "Python",
+      "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "121",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "110",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "107",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "web-infra-dev/oxc",
+      "stars": "21.2k",
+      "growth": "93",
+      "lang": "Rust",
+      "desc": "⚓ A collection of high-performance JavaScript tools."
+    },
+    {
+      "name": "Anuken/Mindustry",
+      "stars": "27.6k",
+      "growth": "89",
+      "lang": "Java",
+      "desc": "The automation tower defense RTS"
+    }
+  ]
+}

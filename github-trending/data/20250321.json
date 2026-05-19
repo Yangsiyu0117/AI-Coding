@@ -1,0 +1,78 @@
+{
+  "date": "20250321",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "819",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "SakanaAI/AI-Scientist",
+      "stars": "13.7k",
+      "growth": "433",
+      "lang": "Jupyter Notebook",
+      "desc": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "249",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "209",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "OpenBB-finance/OpenBBTerminal",
+      "stars": "67.8k",
+      "growth": "200",
+      "lang": "Python",
+      "desc": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "kekingcn/kkFileView",
+      "stars": "14.1k",
+      "growth": "200",
+      "lang": "Java",
+      "desc": "Universal File Online Preview Project based on Spring-Boot"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "stars": "82.7k",
+      "growth": "183",
+      "lang": "unknown",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+    },
+    {
+      "name": "xpipe-io/xpipe",
+      "stars": "14.1k",
+      "growth": "162",
+      "lang": "Java",
+      "desc": "Access your entire server infrastructure from your local desktop"
+    },
+    {
+      "name": "better-auth/better-auth",
+      "stars": "28.3k",
+      "growth": "158",
+      "lang": "TypeScript",
+      "desc": "The most comprehensive authentication framework"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "158",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20250530",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "binwiederhier/ntfy",
+      "stars": "30.2k",
+      "growth": "163",
+      "lang": "Go",
+      "desc": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "127",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "zhayujie/chatgpt-on-wechat",
+      "stars": "44.6k",
+      "growth": "124",
+      "lang": "Python",
+      "desc": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。"
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "108",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "99",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "90",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "82",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "tw93/Pake",
+      "stars": "48.8k",
+      "growth": "60",
+      "lang": "Rust",
+      "desc": "🤱🏻 Turn any webpage into a desktop app with one command."
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "55",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "instantdb/instant",
+      "stars": "10.3k",
+      "growth": "54",
+      "lang": "TypeScript",
+      "desc": "Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love."
+    }
+  ]
+}

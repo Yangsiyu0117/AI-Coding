@@ -1,0 +1,78 @@
+{
+  "date": "20241031",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "open-mmlab/Amphion",
+      "stars": "9.8k",
+      "growth": "551",
+      "lang": "Python",
+      "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development."
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "stars": "40.8k",
+      "growth": "267",
+      "lang": "Python",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "omnivore-app/omnivore",
+      "stars": "16.1k",
+      "growth": "232",
+      "lang": "TypeScript",
+      "desc": "Omnivore is a complete, open source read-it-later solution for people who like reading."
+    },
+    {
+      "name": "novuhq/novu",
+      "stars": "39.0k",
+      "growth": "187",
+      "lang": "TypeScript",
+      "desc": "The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations."
+    },
+    {
+      "name": "udecode/plate",
+      "stars": "16.3k",
+      "growth": "156",
+      "lang": "TypeScript",
+      "desc": "Rich-text editor with AI and shadcn/ui"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "stars": "37.9k",
+      "growth": "147",
+      "lang": "JavaScript",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "137",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "mgth/LittleBigMouse",
+      "stars": "6.3k",
+      "growth": "109",
+      "lang": "C#",
+      "desc": "DPI Aware mouse move across screens"
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "108",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "101",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    }
+  ]
+}

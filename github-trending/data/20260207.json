@@ -1,0 +1,78 @@
+{
+  "date": "20260207",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "openai/skills",
+      "stars": "19.6k",
+      "growth": "951",
+      "lang": "Python",
+      "desc": "Skills Catalog for Codex"
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "742",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "virattt/dexter",
+      "stars": "25.9k",
+      "growth": "614",
+      "lang": "TypeScript",
+      "desc": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "576",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "stars": "60.6k",
+      "growth": "576",
+      "lang": "Python",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "563",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": "76.7k",
+      "growth": "342",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "code-yeongyu/oh-my-opencode",
+      "stars": "58.5k",
+      "growth": "324",
+      "lang": "TypeScript",
+      "desc": "omo; the best agent harness - previously oh-my-opencode"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "stars": "25.8k",
+      "growth": "297",
+      "lang": "Customize your assistants \\",
+      "desc": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \\"
+    },
+    {
+      "name": "likec4/likec4",
+      "stars": "3.2k",
+      "growth": "273",
+      "lang": "TypeScript",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    }
+  ]
+}

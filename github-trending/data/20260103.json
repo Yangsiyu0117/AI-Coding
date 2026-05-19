@@ -1,0 +1,78 @@
+{
+  "date": "20260103",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "usememos/memos",
+      "stars": "59.8k",
+      "growth": "1102",
+      "lang": "Go",
+      "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "571",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "BloopAI/vibe-kanban",
+      "stars": "26.3k",
+      "growth": "544",
+      "lang": "Rust",
+      "desc": "Get 10X more out of Claude Code, Codex or any coding agent"
+    },
+    {
+      "name": "HQarroum/docker-android",
+      "stars": "5.7k",
+      "growth": "421",
+      "lang": "Shell",
+      "desc": "🤖 A minimal and customizable Docker image running the Android emulator as a service."
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "418",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "tw93/Mole",
+      "stars": "51.9k",
+      "growth": "353",
+      "lang": "Shell",
+      "desc": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "250",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "ourongxing/newsnow",
+      "stars": "20.3k",
+      "growth": "248",
+      "lang": "TypeScript",
+      "desc": "Elegant reading of real-time and hottest news"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": "75.0k",
+      "growth": "211",
+      "lang": "Rust",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "stars": "24.2k",
+      "growth": "188",
+      "lang": "Python",
+      "desc": "Machine Learning Systems"
+    }
+  ]
+}

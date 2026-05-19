@@ -1,0 +1,78 @@
+{
+  "date": "20250416",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "Anduin2017/HowToCook",
+      "stars": "100.2k",
+      "growth": "1260",
+      "lang": "unknown",
+      "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "518",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "247",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "244",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "240",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "openai/openai-cookbook",
+      "stars": "73.6k",
+      "growth": "187",
+      "lang": "Jupyter Notebook",
+      "desc": "Examples and guides for using the OpenAI API"
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "stars": "82.4k",
+      "growth": "164",
+      "lang": "Python",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "stars": "63.7k",
+      "growth": "155",
+      "lang": "Python",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "148",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "135",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "20241216",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "bigskysoftware/htmx",
+      "stars": "48.0k",
+      "growth": "167",
+      "lang": "JavaScript",
+      "desc": "</> htmx - high power tools for HTML"
+    },
+    {
+      "name": "microsoft/windows-rs",
+      "stars": "12.2k",
+      "growth": "135",
+      "lang": "Rust",
+      "desc": "Rust for Windows"
+    },
+    {
+      "name": "greatghoul/remote-working",
+      "stars": "11.6k",
+      "growth": "135",
+      "lang": "Ruby",
+      "desc": "收集整理远程工作相关的资料"
+    },
+    {
+      "name": "LazyVim/LazyVim",
+      "stars": "26.3k",
+      "growth": "134",
+      "lang": "Lua",
+      "desc": "Neovim config for the lazy"
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "stars": "21.9k",
+      "growth": "124",
+      "lang": "Jupyter Notebook",
+      "desc": "Neural Networks: Zero to Hero"
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "120",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "karpathy/minGPT",
+      "stars": "24.4k",
+      "growth": "94",
+      "lang": "Python",
+      "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training"
+    },
+    {
+      "name": "mherrmann/helium",
+      "stars": "8.3k",
+      "growth": "88",
+      "lang": "Python",
+      "desc": "Lighter web automation with Python"
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "77",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "stars": "40.9k",
+      "growth": "73",
+      "lang": "Jupyter Notebook",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼"
+    }
+  ]
+}

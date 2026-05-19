@@ -1,0 +1,78 @@
+{
+  "date": "20260201",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "badlogic/pi-mono",
+      "stars": "51.4k",
+      "growth": "773",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "708",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "obra/superpowers",
+      "stars": "197.4k",
+      "growth": "665",
+      "lang": "Shell",
+      "desc": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "stars": "31.7k",
+      "growth": "634",
+      "lang": "Python",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "609",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "tambo-ai/tambo",
+      "stars": "11.2k",
+      "growth": "533",
+      "lang": "TypeScript",
+      "desc": "Generative UI SDK for React"
+    },
+    {
+      "name": "ThePrimeagen/99",
+      "stars": "4.6k",
+      "growth": "511",
+      "lang": "Lua",
+      "desc": "Neovim AI agent done right"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "394",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "microsoft/agent-lightning",
+      "stars": "17.2k",
+      "growth": "351",
+      "lang": "Python",
+      "desc": "The absolute trainer to light up AI agents."
+    },
+    {
+      "name": "zpoint/CPython-Internals",
+      "stars": "5.0k",
+      "growth": "323",
+      "lang": "C",
+      "desc": "Dive into CPython internals, trying to illustrate every detail of CPython implementation"
+    }
+  ]
+}

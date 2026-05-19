@@ -1,0 +1,78 @@
+{
+  "date": "20241006",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "lukasz-madon/awesome-remote-job",
+      "stars": "45.8k",
+      "growth": "219",
+      "lang": "unknown",
+      "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    },
+    {
+      "name": "Budibase/budibase",
+      "stars": "27.9k",
+      "growth": "205",
+      "lang": "TypeScript",
+      "desc": "AI agents, automations and apps that run your operations. Model agnostic."
+    },
+    {
+      "name": "zauberzeug/nicegui",
+      "stars": "15.8k",
+      "growth": "184",
+      "lang": "Python",
+      "desc": "Create web-based user interfaces with Python. The nice way."
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "136",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "TheAlgorithms/Rust",
+      "stars": "25.8k",
+      "growth": "109",
+      "lang": "Rust",
+      "desc": "All Algorithms implemented in Rust"
+    },
+    {
+      "name": "Avaiga/taipy",
+      "stars": "19.2k",
+      "growth": "105",
+      "lang": "Python",
+      "desc": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+      "name": "immich-app/immich",
+      "stars": "101.0k",
+      "growth": "103",
+      "lang": "TypeScript",
+      "desc": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "RubyMetric/chsrc",
+      "stars": "6.7k",
+      "growth": "103",
+      "lang": "C",
+      "desc": "chsrc 全平台通用换源工具与框架. Change Source everywhere for every software"
+    },
+    {
+      "name": "joonspk-research/generative_agents",
+      "stars": "21.3k",
+      "growth": "95",
+      "lang": "unknown",
+      "desc": "Generative Agents: Interactive Simulacra of Human Behavior"
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": "60.3k",
+      "growth": "66",
+      "lang": "JavaScript",
+      "desc": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration."
+    }
+  ]
+}

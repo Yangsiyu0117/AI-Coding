@@ -1,0 +1,78 @@
+{
+  "date": "20250610",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "LizardByte/Sunshine",
+      "stars": "37.1k",
+      "growth": "127",
+      "lang": "C++",
+      "desc": "Self-hosted game stream host for Moonlight."
+    },
+    {
+      "name": "frdel/agent-zero",
+      "stars": "17.7k",
+      "growth": "122",
+      "lang": "Python",
+      "desc": "Agent Zero AI framework"
+    },
+    {
+      "name": "Milkdown/milkdown",
+      "stars": "11.5k",
+      "growth": "99",
+      "lang": "TypeScript",
+      "desc": "🍼 Plugin driven WYSIWYG  markdown editor framework."
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "stars": "22.8k",
+      "growth": "90",
+      "lang": "Rust",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "72",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "71",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "71",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "plankanban/planka",
+      "stars": "12.0k",
+      "growth": "69",
+      "lang": "JavaScript",
+      "desc": "PLANKA is the Kanban-style project mastering tool for everyone"
+    },
+    {
+      "name": "anthropics/courses",
+      "stars": "21.4k",
+      "growth": "68",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's educational courses"
+    },
+    {
+      "name": "huggingface/lerobot",
+      "stars": "24.1k",
+      "growth": "66",
+      "lang": "Python",
+      "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+    }
+  ]
+}

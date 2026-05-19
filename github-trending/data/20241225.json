@@ -1,0 +1,78 @@
+{
+  "date": "20241225",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "331",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "hoarder-app/hoarder",
+      "stars": "25.2k",
+      "growth": "259",
+      "lang": "TypeScript",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "stars": "163.6k",
+      "growth": "226",
+      "lang": "HTML",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "188",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "183",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "stars": "52.9k",
+      "growth": "180",
+      "lang": "TypeScript",
+      "desc": "Build AI Agents, Visually"
+    },
+    {
+      "name": "greatghoul/remote-working",
+      "stars": "11.6k",
+      "growth": "161",
+      "lang": "Ruby",
+      "desc": "收集整理远程工作相关的资料"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "stars": "33.9k",
+      "growth": "150",
+      "lang": "Go",
+      "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+    },
+    {
+      "name": "chat2db/Chat2DB",
+      "stars": "25.6k",
+      "growth": "143",
+      "lang": "Java",
+      "desc": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    },
+    {
+      "name": "tldraw/tldraw",
+      "stars": "47.1k",
+      "growth": "141",
+      "lang": "TypeScript",
+      "desc": "very good whiteboard infinite canvas SDK"
+    }
+  ]
+}

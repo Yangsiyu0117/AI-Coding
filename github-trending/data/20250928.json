@@ -1,0 +1,78 @@
+{
+  "date": "20250928",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "228",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "203",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "stars": "16.7k",
+      "growth": "168",
+      "lang": "Ruby",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "name": "systemdesign42/system-design",
+      "stars": "24.5k",
+      "growth": "92",
+      "lang": "unknown",
+      "desc": "If you want to become good at system design, join this newsletter now 👇"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "stars": "22.8k",
+      "growth": "82",
+      "lang": "C",
+      "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    },
+    {
+      "name": "binwiederhier/ntfy",
+      "stars": "30.2k",
+      "growth": "80",
+      "lang": "Go",
+      "desc": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "75",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "74",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "61",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "linshenkx/prompt-optimizer",
+      "stars": "29.1k",
+      "growth": "59",
+      "lang": "TypeScript",
+      "desc": "An AI prompt optimizer for writing better prompts and getting better AI results."
+    }
+  ]
+}

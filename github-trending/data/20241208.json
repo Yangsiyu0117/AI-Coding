@@ -1,0 +1,78 @@
+{
+  "date": "20241208",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 3,
+  "repos": [
+    {
+      "name": "chaitin/SafeLine",
+      "stars": "21.3k",
+      "growth": "199",
+      "lang": "Go",
+      "desc": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "name": "pocketbase/pocketbase",
+      "stars": "58.4k",
+      "growth": "195",
+      "lang": "Go",
+      "desc": "Open Source realtime backend in 1 file"
+    },
+    {
+      "name": "slimtoolkit/slim",
+      "stars": "23.3k",
+      "growth": "107",
+      "lang": "Go",
+      "desc": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)"
+    },
+    {
+      "name": "lmarzen/esp32-weather-epd",
+      "stars": "6.1k",
+      "growth": "91",
+      "lang": "C",
+      "desc": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API."
+    },
+    {
+      "name": "cfenollosa/os-tutorial",
+      "stars": "30.4k",
+      "growth": "62",
+      "lang": "C",
+      "desc": "How to create an OS from scratch"
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "61",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "tgbot-collection/YYeTsBot",
+      "stars": "16.1k",
+      "growth": "61",
+      "lang": "Python",
+      "desc": "🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享"
+    },
+    {
+      "name": "sigoden/dufs",
+      "stars": "10.2k",
+      "growth": "57",
+      "lang": "Rust",
+      "desc": "A file server that supports static serving, uploading, searching, accessing control, webdav..."
+    },
+    {
+      "name": "freqtrade/freqtrade",
+      "stars": "50.5k",
+      "growth": "55",
+      "lang": "Python",
+      "desc": "Free, open source crypto trading bot"
+    },
+    {
+      "name": "sqlfluff/sqlfluff",
+      "stars": "9.7k",
+      "growth": "51",
+      "lang": "Python",
+      "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+    }
+  ]
+}

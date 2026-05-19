@@ -1,0 +1,78 @@
+{
+  "date": "20250409",
+  "total_repos": 10,
+  "python_count": 4,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "microsoft/markitdown",
+      "stars": "123.8k",
+      "growth": "1257",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "juliangarnier/anime",
+      "stars": "68.6k",
+      "growth": "715",
+      "lang": "JavaScript",
+      "desc": "JavaScript animation engine"
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "stars": "85.9k",
+      "growth": "630",
+      "lang": "TypeScript",
+      "desc": "Model Context Protocol Servers"
+    },
+    {
+      "name": "apache/echarts",
+      "stars": "66.4k",
+      "growth": "623",
+      "lang": "TypeScript",
+      "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+    },
+    {
+      "name": "chartdb/chartdb",
+      "stars": "22.2k",
+      "growth": "485",
+      "lang": "TypeScript",
+      "desc": "Database diagrams editor that allows you to visualize and design your DB with a single query."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "stars": "65.9k",
+      "growth": "468",
+      "lang": "Python",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "stars": "35.4k",
+      "growth": "457",
+      "lang": "Python",
+      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+    },
+    {
+      "name": "datawhalechina/prompt-engineering-for-developers",
+      "stars": "24.1k",
+      "growth": "348",
+      "lang": "Jupyter Notebook",
+      "desc": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版"
+    },
+    {
+      "name": "coroot/coroot",
+      "stars": "7.6k",
+      "growth": "310",
+      "lang": "Go",
+      "desc": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "stars": "94.6k",
+      "growth": "291",
+      "lang": "Python",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  ]
+}

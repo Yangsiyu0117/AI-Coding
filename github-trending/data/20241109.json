@@ -1,0 +1,78 @@
+{
+  "date": "20241109",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "dandavison/delta",
+      "stars": "30.8k",
+      "growth": "675",
+      "lang": "Rust",
+      "desc": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output"
+    },
+    {
+      "name": "khoj-ai/khoj",
+      "stars": "34.6k",
+      "growth": "317",
+      "lang": "Python",
+      "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    },
+    {
+      "name": "actualbudget/actual",
+      "stars": "26.5k",
+      "growth": "252",
+      "lang": "TypeScript",
+      "desc": "A local-first personal finance app"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "stars": "22.4k",
+      "growth": "179",
+      "lang": "Python",
+      "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+    },
+    {
+      "name": "AlexxIT/go2rtc",
+      "stars": "13.0k",
+      "growth": "173",
+      "lang": "Go",
+      "desc": "Ultimate camera streaming application"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "stars": "57.4k",
+      "growth": "169",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "payloadcms/payload",
+      "stars": "42.5k",
+      "growth": "127",
+      "lang": "TypeScript",
+      "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    },
+    {
+      "name": "microsoft/autogen",
+      "stars": "58.2k",
+      "growth": "123",
+      "lang": "Python",
+      "desc": "A programming framework for agentic AI"
+    },
+    {
+      "name": "geekan/HowToLiveLonger",
+      "stars": "35.0k",
+      "growth": "106",
+      "lang": "A programmer's guide to live longer",
+      "desc": "程序员延寿指南 \\"
+    },
+    {
+      "name": "THUDM/CogVideo",
+      "stars": "12.7k",
+      "growth": "99",
+      "lang": "Python",
+      "desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)"
+    }
+  ]
+}

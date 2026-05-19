@@ -1,0 +1,78 @@
+{
+  "date": "20240921",
+  "total_repos": 10,
+  "python_count": 1,
+  "go_count": 2,
+  "repos": [
+    {
+      "name": "cloudcommunity/Free-Certifications",
+      "stars": "26.0k",
+      "growth": "215",
+      "lang": "unknown",
+      "desc": ""
+    },
+    {
+      "name": "simple-icons/simple-icons",
+      "stars": "25.1k",
+      "growth": "189",
+      "lang": "JavaScript",
+      "desc": "SVG icons for popular brands"
+    },
+    {
+      "name": "encoredev/encore",
+      "stars": "12.0k",
+      "growth": "167",
+      "lang": "Go",
+      "desc": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    },
+    {
+      "name": "fanmingming/live",
+      "stars": "28.0k",
+      "growth": "114",
+      "lang": "JavaScript",
+      "desc": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕"
+    },
+    {
+      "name": "iawia002/lux",
+      "stars": "31.4k",
+      "growth": "111",
+      "lang": "Go",
+      "desc": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "name": "microsoft/typespec",
+      "stars": "5.7k",
+      "growth": "105",
+      "lang": "Java",
+      "desc": ""
+    },
+    {
+      "name": "ollama-webui/ollama-webui",
+      "stars": "137.7k",
+      "growth": "103",
+      "lang": "Python",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "gkd-kit/gkd",
+      "stars": "38.7k",
+      "growth": "95",
+      "lang": "An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "desc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \\"
+    },
+    {
+      "name": "sickcodes/Docker-OSX",
+      "stars": "52.5k",
+      "growth": "83",
+      "lang": "Shell",
+      "desc": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers."
+    },
+    {
+      "name": "ruanyf/weekly",
+      "stars": "91.4k",
+      "growth": "60",
+      "lang": "unknown",
+      "desc": "科技爱好者周刊，每周五发布"
+    }
+  ]
+}

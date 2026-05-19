@@ -1,0 +1,78 @@
+{
+  "date": "20250514",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 1,
+  "repos": [
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "575",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "microsoft/BitNet",
+      "stars": "39.0k",
+      "growth": "240",
+      "lang": "Python",
+      "desc": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "stars": "35.0k",
+      "growth": "156",
+      "lang": "Go",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "xaoyaoo/PyWxDump",
+      "stars": "9.7k",
+      "growth": "156",
+      "lang": "unknown",
+      "desc": "删库"
+    },
+    {
+      "name": "alibaba/spring-ai-alibaba",
+      "stars": "9.7k",
+      "growth": "144",
+      "lang": "Java",
+      "desc": "Agentic AI Framework for Java Developers"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "142",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "QwenLM/Qwen2.5",
+      "stars": "27.2k",
+      "growth": "139",
+      "lang": "Python",
+      "desc": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud."
+    },
+    {
+      "name": "dylanaraps/pure-bash-bible",
+      "stars": "41.6k",
+      "growth": "114",
+      "lang": "Shell",
+      "desc": "📖 A collection of pure bash alternatives to external processes."
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "97",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    },
+    {
+      "name": "ljinkai/weekly",
+      "stars": "3.7k",
+      "growth": "96",
+      "lang": "unknown",
+      "desc": "独立开发产品变现周刊，每周五发布。"
+    }
+  ]
+}

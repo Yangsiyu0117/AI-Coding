@@ -1,0 +1,78 @@
+{
+  "date": "20251102",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "GeeeekExplorer/nano-vllm",
+      "stars": "13.5k",
+      "growth": "217",
+      "lang": "Python",
+      "desc": "Nano vLLM"
+    },
+    {
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "stars": "95.8k",
+      "growth": "154",
+      "lang": "JavaScript",
+      "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "111.0k",
+      "growth": "135",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "k4yt3x/video2x",
+      "stars": "19.9k",
+      "growth": "117",
+      "lang": "C++",
+      "desc": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018."
+    },
+    {
+      "name": "menloresearch/jan",
+      "stars": "42.6k",
+      "growth": "111",
+      "lang": "TypeScript",
+      "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "stars": "124.8k",
+      "growth": "80",
+      "lang": "Shell",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "NARKOZ/hacker-scripts",
+      "stars": "49.5k",
+      "growth": "72",
+      "lang": "JavaScript",
+      "desc": "Based on a true story"
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "71",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "57",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "stars": "63.4k",
+      "growth": "52",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    }
+  ]
+}

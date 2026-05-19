@@ -1,0 +1,78 @@
+{
+  "date": "20250521",
+  "total_repos": 10,
+  "python_count": 3,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "HeyPuter/puter",
+      "stars": "41.4k",
+      "growth": "500",
+      "lang": "JavaScript",
+      "desc": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+    },
+    {
+      "name": "voideditor/void",
+      "stars": "28.8k",
+      "growth": "261",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "name": "mindsdb/mindsdb",
+      "stars": "39.2k",
+      "growth": "178",
+      "lang": "Python",
+      "desc": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere."
+    },
+    {
+      "name": "colinhacks/zod",
+      "stars": "42.7k",
+      "growth": "119",
+      "lang": "TypeScript",
+      "desc": "TypeScript-first schema validation with static type inference"
+    },
+    {
+      "name": "pathwaycom/pathway",
+      "stars": "63.3k",
+      "growth": "103",
+      "lang": "Python",
+      "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+    },
+    {
+      "name": "maboloshi/github-chinese",
+      "stars": "25.6k",
+      "growth": "88",
+      "lang": "JavaScript",
+      "desc": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)"
+    },
+    {
+      "name": "DS4SD/docling",
+      "stars": "60.0k",
+      "growth": "77",
+      "lang": "Python",
+      "desc": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "better-auth/better-auth",
+      "stars": "28.3k",
+      "growth": "73",
+      "lang": "TypeScript",
+      "desc": "The most comprehensive authentication framework"
+    },
+    {
+      "name": "jj-vcs/jj",
+      "stars": "28.9k",
+      "growth": "66",
+      "lang": "Rust",
+      "desc": "A Git-compatible VCS that is both simple and powerful"
+    },
+    {
+      "name": "mendableai/firecrawl",
+      "stars": "121.6k",
+      "growth": "65",
+      "lang": "TypeScript",
+      "desc": "🔥 Search, scrape, and clean the web for AI agents."
+    }
+  ]
+}

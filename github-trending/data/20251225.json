@@ -1,0 +1,78 @@
+{
+  "date": "20251225",
+  "total_repos": 10,
+  "python_count": 5,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "rendercv/rendercv",
+      "stars": "16.7k",
+      "growth": "1685",
+      "lang": "Python",
+      "desc": "Resume builder for academics and engineers"
+    },
+    {
+      "name": "anthropics/skills",
+      "stars": "137.3k",
+      "growth": "658",
+      "lang": "Python",
+      "desc": "Public repository for Agent Skills"
+    },
+    {
+      "name": "resemble-ai/chatterbox",
+      "stars": "24.8k",
+      "growth": "470",
+      "lang": "Python",
+      "desc": "SoTA open-source TTS"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "373",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "makeplane/plane",
+      "stars": "49.4k",
+      "growth": "321",
+      "lang": "TypeScript",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "yichuan-w/LEANN",
+      "stars": "11.5k",
+      "growth": "292",
+      "lang": "Python",
+      "desc": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device."
+    },
+    {
+      "name": "daytonaio/daytona",
+      "stars": "72.4k",
+      "growth": "285",
+      "lang": "TypeScript",
+      "desc": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+    },
+    {
+      "name": "google/langextract",
+      "stars": "36.5k",
+      "growth": "259",
+      "lang": "Python",
+      "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "vendure-ecommerce/vendure",
+      "stars": "8.1k",
+      "growth": "243",
+      "lang": "TypeScript",
+      "desc": "Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL"
+    },
+    {
+      "name": "stan-smith/FossFLOW",
+      "stars": "15.1k",
+      "growth": "231",
+      "lang": "unknown",
+      "desc": ""
+    }
+  ]
+}

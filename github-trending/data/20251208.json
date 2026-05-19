@@ -1,0 +1,78 @@
+{
+  "date": "20251208",
+  "total_repos": 10,
+  "python_count": 2,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "microsoft/VibeVoice",
+      "stars": "47.3k",
+      "growth": "2110",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "stars": "35.1k",
+      "growth": "604",
+      "lang": "Jupyter Notebook",
+      "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "stars": "29.4k",
+      "growth": "589",
+      "lang": "TypeScript",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "stars": "23.5k",
+      "growth": "563",
+      "lang": "TypeScript",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "sst/opencode",
+      "stars": "162.4k",
+      "growth": "548",
+      "lang": "TypeScript",
+      "desc": "The open source coding agent."
+    },
+    {
+      "name": "kavishdevar/librepods",
+      "stars": "27.0k",
+      "growth": "494",
+      "lang": "Kotlin",
+      "desc": "AirPods liberated from Apple's ecosystem."
+    },
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "488",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "stars": "30.8k",
+      "growth": "442",
+      "lang": "unknown",
+      "desc": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+    },
+    {
+      "name": "anthropics/anthropic-quickstarts",
+      "stars": "16.7k",
+      "growth": "357",
+      "lang": "Python",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "name": "microsoft/ML-For-Beginners",
+      "stars": "85.9k",
+      "growth": "293",
+      "lang": "Jupyter Notebook",
+      "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+    }
+  ]
+}

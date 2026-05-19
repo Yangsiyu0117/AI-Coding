@@ -1,0 +1,78 @@
+{
+  "date": "20250708",
+  "total_repos": 10,
+  "python_count": 0,
+  "go_count": 0,
+  "repos": [
+    {
+      "name": "rustfs/rustfs",
+      "stars": "27.7k",
+      "growth": "1060",
+      "lang": "Rust",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": "20.9k",
+      "growth": "623",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "dockur/macos",
+      "stars": "20.0k",
+      "growth": "486",
+      "lang": "Shell",
+      "desc": "MacOS inside a Docker container."
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "stars": "35.8k",
+      "growth": "463",
+      "lang": "Jupyter Notebook",
+      "desc": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "GyulyVGC/sniffnet",
+      "stars": "37.6k",
+      "growth": "397",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "name": "th-ch/youtube-music",
+      "stars": "31.7k",
+      "growth": "391",
+      "lang": "TypeScript",
+      "desc": "Pear 🍐 is extension for music player"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "stars": "51.4k",
+      "growth": "137",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "stars": "32.7k",
+      "growth": "125",
+      "lang": "TypeScript",
+      "desc": "Playwright MCP server"
+    },
+    {
+      "name": "microsoft/vscode-copilot-chat",
+      "stars": "9.9k",
+      "growth": "119",
+      "lang": "TypeScript",
+      "desc": "Copilot Chat extension for VS Code"
+    },
+    {
+      "name": "Predidit/Kazumi",
+      "stars": "25.3k",
+      "growth": "117",
+      "lang": "Dart",
+      "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    }
+  ]
+}
