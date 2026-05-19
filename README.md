@@ -1,6 +1,6 @@
 # WorkScript
 
-个人脚本工具集合 / Personal script automation tools
+个人AI Coding的工具集合 / Personal Ai Coding tools
 
 ## 项目列表
 
