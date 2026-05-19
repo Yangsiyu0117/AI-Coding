@@ -302,7 +302,7 @@ def _save_to_dir(all_repos, lang_repos, date_str, base_dir):
         if not repos:
             continue
 
-        lang_dir = os.path.join(base_dir, lang_key)
+        lang_dir = os.path.join(base_dir, year, month, lang_key)
         os.makedirs(lang_dir, exist_ok=True)
 
         lines = []
@@ -334,7 +334,7 @@ def _save_to_dir(all_repos, lang_repos, date_str, base_dir):
         "python_top": lang_repos.get("Python", []),
         "go_top": lang_repos.get("Go", []),
     }
-    combined_path = os.path.join(base_dir, f"{date_str}.json")
+    combined_path = os.path.join(base_dir, year, month, f"{date_str}.json")
     with open(combined_path, "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=2)
     saved.append(combined_path)
