@@ -1,0 +1,13 @@
+{
+    "config": {"wide_screen_mode": true},
+    "header": {
+        "title": {"tag": "plain_text", "content": "🔍 巡检报告 - {{ project_name }}"}
+    },
+    "elements": [
+        {"tag": "markdown", "content": "**项目**: {{ project_name }} ({{ env }})\n**时间**: {{ timestamp | format_datetime }}\n**健康评分**: {{ statistics.health_score }} 分"},
+        {"tag": "hr"},
+        {"tag": "markdown", "content": "**📊 概览**\n监控目标: {{ statistics.total_targets }} | 在线: {{ statistics.up_targets }} | 离线: {{ statistics.down_targets }}\n巡检项: {{ statistics.total_items }} | 严重: {{ statistics.critical_items }} | 警告: {{ statistics.warning_items }} | 正常: {{ statistics.normal_items }}"},
+        {"tag": "hr"},
+        {"tag": "markdown", "content": "{% set abnormal_items = inspection_results | selectattr('status', 'ne', '正常') | list %}{% if abnormal_items %}**🔴 异常项**\n{% for item in abnormal_items %}- {{ item.target_instance }}: **{{ item.metric_name }}** = {{ item.current_value }} ({{ item.status }})\n{% endfor %}{% else %}**✅ 全部正常**\n{% endif %}"}
+    ]
+}

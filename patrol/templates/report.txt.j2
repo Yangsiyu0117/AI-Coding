@@ -1,0 +1,25 @@
+================================================================
+              巡检报告 - {{ project_name }} ({{ env }})
+================================================================
+时间：{{ timestamp | format_datetime }}
+健康评分：{{ statistics.health_score }} 分
+
+-------------------- 概览 --------------------
+监控目标总数：{{ statistics.total_targets }}
+在线：{{ statistics.up_targets }}  |  离线：{{ statistics.down_targets }}
+巡检项总数：{{ statistics.total_items }}
+严重：{{ statistics.critical_items }}  |  警告：{{ statistics.warning_items }}  |  正常：{{ statistics.normal_items }}
+
+{% set abnormal_items = inspection_results | selectattr("status", "ne", "正常") | list %}
+{% if abnormal_items %}
+-------------------- 异常项 --------------------
+{% for item in abnormal_items %}
+[{{ item.status }}] {{ item.target_instance }} - {{ item.metric_name }}: {{ item.current_value }} (阈值: {{ item.threshold_value }}) {{ item.detail }}
+{% endfor %}
+{% else %}
+-------------------- 全部正常 --------------------
+所有巡检项均在正常范围内。
+{% endif %}
+
+================================================================
+巡检系统自动生成 | {{ timestamp | format_datetime }}

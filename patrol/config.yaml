@@ -1,0 +1,13 @@
+# Database configuration
+db_path: patrol.db
+
+# Scheduler
+scheduler:
+  enabled: true
+
+# Projects (for CLI mode)
+projects:
+  - name: default
+    env: production
+    prometheus_url: http://localhost:9090
+    auth_enabled: false

@@ -1,0 +1,63 @@
+## &#x1f50d; 巡检报告 - {{ project_name }} ({{ env }})
+
+&#x1f4c5; **时间**：{{ timestamp | format_datetime }}
+&#x1f3e5; **健康评分**：{{ statistics.health_score }} 分
+
+---
+
+### &#x1f4ca; 概览
+
+| 项目 | 数值 |
+|------|------|
+| 监控目标总数 | {{ statistics.total_targets }} |
+| 在线 | {{ statistics.up_targets }} |
+| 离线 | {{ statistics.down_targets }} |
+| 巡检项总数 | {{ statistics.total_items }} |
+| 严重异常 | {{ statistics.critical_items }} |
+| 警告 | {{ statistics.warning_items }} |
+| 正常 | {{ statistics.normal_items }} |
+
+{% set abnormal_items = inspection_results | selectattr("status", "ne", "正常") | list %}
+{% if abnormal_items %}
+---
+
+### &#x1f534; 异常项
+
+| 实例 | 指标 | 当前值 | 阈值 | 级别 | 说明 |
+|------|------|--------|------|------|------|
+{% for item in abnormal_items %}
+| {{ item.target_instance }} | {{ item.metric_name }} | **{{ item.current_value }}** | {{ item.threshold_value }} | {{ item.status | severity_emoji }} {{ item.status }} | {{ item.detail }} |
+{% endfor %}
+{% else %}
+
+---
+
+### &#x1f389; 全部正常
+
+所有巡检项均在正常范围内，无异常发现。
+{% endif %}
+
+{% if active_alerts %}
+---
+
+### &#x26a0;&#xfe0f; 活跃告警
+
+| 告警名称 | 实例 | 严重程度 | 触发时间 |
+|----------|------|----------|----------|
+{% for alert in active_alerts %}
+| {{ alert.labels.alertname }} | {{ alert.labels.instance }} | {{ alert.labels.severity }} | {{ alert.activeAt }} |
+{% endfor %}
+{% endif %}
+
+---
+
+### &#x2705; 各模块概况
+
+| 模块 | 目标数 | 在线 | 巡检项 | 异常 |
+|------|--------|------|--------|------|
+{% for plugin_name, targets in targets_summary.items() %}
+| {{ plugin_name }} | {{ targets | length }} | {{ targets | selectattr("state", "eq", "up") | list | length }} | {{ inspection_results | selectattr("plugin_name", "eq", plugin_name) | list | length }} | {{ inspection_results | selectattr("plugin_name", "eq", plugin_name) | selectattr("status", "ne", "正常") | list | length }} |
+{% endfor %}
+
+---
+> &#x1f916; 巡检系统自动生成 | {{ timestamp | format_datetime }}
