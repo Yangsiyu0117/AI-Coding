@@ -1,4 +1,4 @@
-# WorkScript
+# AI-Coding
 
 个人AI Coding的工具集合 / Personal Ai Coding tools
 
