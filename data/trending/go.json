@@ -1,0 +1,2506 @@
+{
+  "entries": [
+    {
+      "date": "20240906",
+      "rank": 1,
+      "repo": "samber/lo",
+      "stars": 21269,
+      "growth": 97,
+      "language": "Go",
+      "description": "💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
+    },
+    {
+      "date": "20240907",
+      "rank": 8,
+      "repo": "samber/lo",
+      "stars": 21269,
+      "growth": 90,
+      "language": "Go",
+      "description": "💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
+    },
+    {
+      "date": "20240908",
+      "rank": 4,
+      "repo": "shadow1ng/fscan",
+      "stars": 13818,
+      "growth": 96,
+      "language": "Go",
+      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)"
+    },
+    {
+      "date": "20240910",
+      "rank": 6,
+      "repo": "sqlc-dev/sqlc",
+      "stars": 17738,
+      "growth": 96,
+      "language": "Go",
+      "description": "Generate type-safe code from SQL"
+    },
+    {
+      "date": "20240912",
+      "rank": 10,
+      "repo": "hashicorp/terraform",
+      "stars": 48424,
+      "growth": 90,
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    },
+    {
+      "date": "20240920",
+      "rank": 7,
+      "repo": "alist-org/alist",
+      "stars": 49500,
+      "growth": 81,
+      "language": "Go",
+      "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
+    },
+    {
+      "date": "20240921",
+      "rank": 3,
+      "repo": "encoredev/encore",
+      "stars": 11972,
+      "growth": 167,
+      "language": "Go",
+      "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    },
+    {
+      "date": "20240921",
+      "rank": 5,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 111,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20240922",
+      "rank": 6,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 117,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20240927",
+      "rank": 10,
+      "repo": "AlexxIT/go2rtc",
+      "stars": 13023,
+      "growth": 105,
+      "language": "Go",
+      "description": "Ultimate camera streaming application"
+    },
+    {
+      "date": "20241011",
+      "rank": 6,
+      "repo": "dagger/dagger",
+      "stars": 15822,
+      "growth": 140,
+      "language": "Go",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    },
+    {
+      "date": "20241013",
+      "rank": 10,
+      "repo": "dagger/dagger",
+      "stars": 15822,
+      "growth": 80,
+      "language": "Go",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    },
+    {
+      "date": "20241015",
+      "rank": 2,
+      "repo": "sqlc-dev/sqlc",
+      "stars": 17738,
+      "growth": 261,
+      "language": "Go",
+      "description": "Generate type-safe code from SQL"
+    },
+    {
+      "date": "20241018",
+      "rank": 7,
+      "repo": "alibaba/higress",
+      "stars": 8410,
+      "growth": 119,
+      "language": "Go",
+      "description": "🤖 AI Gateway | AI Native API Gateway"
+    },
+    {
+      "date": "20241026",
+      "rank": 8,
+      "repo": "loft-sh/devpod",
+      "stars": 14910,
+      "growth": 64,
+      "language": "Go",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "date": "20241101",
+      "rank": 4,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 219,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20241102",
+      "rank": 1,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 204,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20241108",
+      "rank": 3,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 159,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241108",
+      "rank": 7,
+      "repo": "AlexxIT/go2rtc",
+      "stars": 13023,
+      "growth": 114,
+      "language": "Go",
+      "description": "Ultimate camera streaming application"
+    },
+    {
+      "date": "20241109",
+      "rank": 5,
+      "repo": "AlexxIT/go2rtc",
+      "stars": 13023,
+      "growth": 173,
+      "language": "Go",
+      "description": "Ultimate camera streaming application"
+    },
+    {
+      "date": "20241110",
+      "rank": 2,
+      "repo": "AlexxIT/go2rtc",
+      "stars": 13023,
+      "growth": 288,
+      "language": "Go",
+      "description": "Ultimate camera streaming application"
+    },
+    {
+      "date": "20241113",
+      "rank": 5,
+      "repo": "loft-sh/devpod",
+      "stars": 14910,
+      "growth": 168,
+      "language": "Go",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "date": "20241114",
+      "rank": 6,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 106,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241115",
+      "rank": 3,
+      "repo": "loft-sh/devpod",
+      "stars": 14910,
+      "growth": 166,
+      "language": "Go",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "date": "20241115",
+      "rank": 10,
+      "repo": "milvus-io/milvus",
+      "stars": 44356,
+      "growth": 79,
+      "language": "Go",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    },
+    {
+      "date": "20241116",
+      "rank": 3,
+      "repo": "milvus-io/milvus",
+      "stars": 44356,
+      "growth": 128,
+      "language": "Go",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    },
+    {
+      "date": "20241116",
+      "rank": 9,
+      "repo": "amir20/dozzle",
+      "stars": 12975,
+      "growth": 75,
+      "language": "Go",
+      "description": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. "
+    },
+    {
+      "date": "20241117",
+      "rank": 7,
+      "repo": "amir20/dozzle",
+      "stars": 12975,
+      "growth": 81,
+      "language": "Go",
+      "description": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. "
+    },
+    {
+      "date": "20241118",
+      "rank": 2,
+      "repo": "projectdiscovery/katana",
+      "stars": 16713,
+      "growth": 400,
+      "language": "Go",
+      "description": "A next-generation crawling and spidering framework."
+    },
+    {
+      "date": "20241121",
+      "rank": 6,
+      "repo": "alibaba/higress",
+      "stars": 8410,
+      "growth": 127,
+      "language": "Go",
+      "description": "🤖 AI Gateway | AI Native API Gateway"
+    },
+    {
+      "date": "20241122",
+      "rank": 4,
+      "repo": "wagoodman/dive",
+      "stars": 53953,
+      "growth": 124,
+      "language": "Go",
+      "description": "A tool for exploring each layer in a docker image"
+    },
+    {
+      "date": "20241122",
+      "rank": 9,
+      "repo": "alibaba/higress",
+      "stars": 8410,
+      "growth": 90,
+      "language": "Go",
+      "description": "🤖 AI Gateway | AI Native API Gateway"
+    },
+    {
+      "date": "20241123",
+      "rank": 10,
+      "repo": "jesseduffield/lazydocker",
+      "stars": 51079,
+      "growth": 53,
+      "language": "Go",
+      "description": "The lazier way to manage everything docker"
+    },
+    {
+      "date": "20241124",
+      "rank": 2,
+      "repo": "wagoodman/dive",
+      "stars": 53953,
+      "growth": 164,
+      "language": "Go",
+      "description": "A tool for exploring each layer in a docker image"
+    },
+    {
+      "date": "20241124",
+      "rank": 6,
+      "repo": "jesseduffield/lazydocker",
+      "stars": 51079,
+      "growth": 94,
+      "language": "Go",
+      "description": "The lazier way to manage everything docker"
+    },
+    {
+      "date": "20241124",
+      "rank": 9,
+      "repo": "casdoor/casdoor",
+      "stars": 13630,
+      "growth": 64,
+      "language": "Go",
+      "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD"
+    },
+    {
+      "date": "20241125",
+      "rank": 2,
+      "repo": "jesseduffield/lazydocker",
+      "stars": 51079,
+      "growth": 176,
+      "language": "Go",
+      "description": "The lazier way to manage everything docker"
+    },
+    {
+      "date": "20241129",
+      "rank": 2,
+      "repo": "hashicorp/terraform",
+      "stars": 48424,
+      "growth": 139,
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    },
+    {
+      "date": "20241202",
+      "rank": 4,
+      "repo": "naiba/nezha",
+      "stars": 10009,
+      "growth": 141,
+      "language": "Go",
+      "description": ":trollface: Self-hosted, lightweight server and website monitoring and O&M tool"
+    },
+    {
+      "date": "20241202",
+      "rank": 5,
+      "repo": "amir20/dozzle",
+      "stars": 12975,
+      "growth": 118,
+      "language": "Go",
+      "description": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. "
+    },
+    {
+      "date": "20241203",
+      "rank": 5,
+      "repo": "amir20/dozzle",
+      "stars": 12975,
+      "growth": 86,
+      "language": "Go",
+      "description": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. "
+    },
+    {
+      "date": "20241205",
+      "rank": 3,
+      "repo": "chaitin/SafeLine",
+      "stars": 21320,
+      "growth": 121,
+      "language": "Go",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "date": "20241206",
+      "rank": 6,
+      "repo": "chaitin/SafeLine",
+      "stars": 21320,
+      "growth": 67,
+      "language": "Go",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "date": "20241207",
+      "rank": 2,
+      "repo": "chaitin/SafeLine",
+      "stars": 21320,
+      "growth": 134,
+      "language": "Go",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "date": "20241207",
+      "rank": 5,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 72,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241208",
+      "rank": 1,
+      "repo": "chaitin/SafeLine",
+      "stars": 21320,
+      "growth": 199,
+      "language": "Go",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "date": "20241208",
+      "rank": 2,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 195,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241208",
+      "rank": 3,
+      "repo": "slimtoolkit/slim",
+      "stars": 23252,
+      "growth": 107,
+      "language": "Go",
+      "description": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)"
+    },
+    {
+      "date": "20241209",
+      "rank": 1,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 244,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241209",
+      "rank": 9,
+      "repo": "slimtoolkit/slim",
+      "stars": 23252,
+      "growth": 68,
+      "language": "Go",
+      "description": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)"
+    },
+    {
+      "date": "20241210",
+      "rank": 2,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 184,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20241210",
+      "rank": 6,
+      "repo": "go-pay/gopay",
+      "stars": 5566,
+      "growth": 101,
+      "language": "Go",
+      "description": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】"
+    },
+    {
+      "date": "20241211",
+      "rank": 10,
+      "repo": "go-pay/gopay",
+      "stars": 5566,
+      "growth": 65,
+      "language": "Go",
+      "description": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】"
+    },
+    {
+      "date": "20241214",
+      "rank": 2,
+      "repo": "go-gitea/gitea",
+      "stars": 55770,
+      "growth": 84,
+      "language": "Go",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    },
+    {
+      "date": "20241215",
+      "rank": 1,
+      "repo": "go-gitea/gitea",
+      "stars": 55770,
+      "growth": 133,
+      "language": "Go",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    },
+    {
+      "date": "20241218",
+      "rank": 3,
+      "repo": "gorilla/websocket",
+      "stars": 24717,
+      "growth": 90,
+      "language": "Go",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go."
+    },
+    {
+      "date": "20241218",
+      "rank": 6,
+      "repo": "go-gitea/gitea",
+      "stars": 55770,
+      "growth": 59,
+      "language": "Go",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+    },
+    {
+      "date": "20241220",
+      "rank": 6,
+      "repo": "1Panel-dev/1Panel",
+      "stars": 35502,
+      "growth": 69,
+      "language": "Go",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "date": "20241221",
+      "rank": 5,
+      "repo": "1Panel-dev/1Panel",
+      "stars": 35502,
+      "growth": 128,
+      "language": "Go",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "date": "20241221",
+      "rank": 8,
+      "repo": "encoredev/encore",
+      "stars": 11972,
+      "growth": 59,
+      "language": "Go",
+      "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure"
+    },
+    {
+      "date": "20241222",
+      "rank": 4,
+      "repo": "1Panel-dev/1Panel",
+      "stars": 35502,
+      "growth": 219,
+      "language": "Go",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "date": "20241223",
+      "rank": 8,
+      "repo": "1Panel-dev/1Panel",
+      "stars": 35502,
+      "growth": 88,
+      "language": "Go",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "date": "20241224",
+      "rank": 5,
+      "repo": "1Panel-dev/1Panel",
+      "stars": 35502,
+      "growth": 84,
+      "language": "Go",
+      "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface."
+    },
+    {
+      "date": "20241224",
+      "rank": 7,
+      "repo": "kgretzky/evilginx2",
+      "stars": 15090,
+      "growth": 73,
+      "language": "Go",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
+    },
+    {
+      "date": "20241225",
+      "rank": 8,
+      "repo": "IceWhaleTech/CasaOS",
+      "stars": 33853,
+      "growth": 150,
+      "language": "Go",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+    },
+    {
+      "date": "20241226",
+      "rank": 6,
+      "repo": "IceWhaleTech/CasaOS",
+      "stars": 33853,
+      "growth": 327,
+      "language": "Go",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+    },
+    {
+      "date": "20250107",
+      "rank": 10,
+      "repo": "go-skynet/LocalAI",
+      "stars": 46353,
+      "growth": 220,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20250108",
+      "rank": 10,
+      "repo": "go-skynet/LocalAI",
+      "stars": 46353,
+      "growth": 211,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20250110",
+      "rank": 4,
+      "repo": "chaitin/SafeLine",
+      "stars": 21320,
+      "growth": 242,
+      "language": "Go",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits."
+    },
+    {
+      "date": "20250114",
+      "rank": 7,
+      "repo": "kgretzky/evilginx2",
+      "stars": 15090,
+      "growth": 227,
+      "language": "Go",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
+    },
+    {
+      "date": "20250120",
+      "rank": 2,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 340,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250120",
+      "rank": 4,
+      "repo": "go-skynet/LocalAI",
+      "stars": 46353,
+      "growth": 280,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20250121",
+      "rank": 1,
+      "repo": "go-skynet/LocalAI",
+      "stars": 46353,
+      "growth": 357,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20250121",
+      "rank": 3,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 290,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250122",
+      "rank": 10,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 169,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250123",
+      "rank": 3,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 332,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250123",
+      "rank": 6,
+      "repo": "go-skynet/LocalAI",
+      "stars": 46353,
+      "growth": 212,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20250125",
+      "rank": 9,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 141,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250126",
+      "rank": 8,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 150,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250127",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 404,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250129",
+      "rank": 7,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 183,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20250201",
+      "rank": 4,
+      "repo": "bitfield/script",
+      "stars": 6970,
+      "growth": 324,
+      "language": "Go",
+      "description": "Making it easy to write shell-like scripts in Go"
+    },
+    {
+      "date": "20250202",
+      "rank": 5,
+      "repo": "terrastruct/d2",
+      "stars": 23714,
+      "growth": 190,
+      "language": "Go",
+      "description": "D2 is a modern diagram scripting language that turns text to diagrams."
+    },
+    {
+      "date": "20250223",
+      "rank": 3,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 299,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250224",
+      "rank": 9,
+      "repo": "yorukot/superfile",
+      "stars": 17346,
+      "growth": 505,
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "date": "20250225",
+      "rank": 7,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 621,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250309",
+      "rank": 9,
+      "repo": "dagger/dagger",
+      "stars": 15822,
+      "growth": 220,
+      "language": "Go",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    },
+    {
+      "date": "20250309",
+      "rank": 10,
+      "repo": "loft-sh/devpod",
+      "stars": 14910,
+      "growth": 168,
+      "language": "Go",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "date": "20250310",
+      "rank": 8,
+      "repo": "loft-sh/devpod",
+      "stars": 14910,
+      "growth": 201,
+      "language": "Go",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+    },
+    {
+      "date": "20250310",
+      "rank": 9,
+      "repo": "dagger/dagger",
+      "stars": 15822,
+      "growth": 174,
+      "language": "Go",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    },
+    {
+      "date": "20250311",
+      "rank": 8,
+      "repo": "dstotijn/hetty",
+      "stars": 10209,
+      "growth": 148,
+      "language": "Go",
+      "description": "An HTTP toolkit for security research."
+    },
+    {
+      "date": "20250319",
+      "rank": 10,
+      "repo": "google/osv-scanner",
+      "stars": 10244,
+      "growth": 155,
+      "language": "Go",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev"
+    },
+    {
+      "date": "20250320",
+      "rank": 6,
+      "repo": "google/osv-scanner",
+      "stars": 10244,
+      "growth": 265,
+      "language": "Go",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev"
+    },
+    {
+      "date": "20250328",
+      "rank": 9,
+      "repo": "dagger/dagger",
+      "stars": 15822,
+      "growth": 95,
+      "language": "Go",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    },
+    {
+      "date": "20250404",
+      "rank": 5,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 443,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20250404",
+      "rank": 8,
+      "repo": "alibaba/higress",
+      "stars": 8410,
+      "growth": 264,
+      "language": "Go",
+      "description": "🤖 AI Gateway | AI Native API Gateway"
+    },
+    {
+      "date": "20250404",
+      "rank": 9,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 222,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20250406",
+      "rank": 10,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 111,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20250409",
+      "rank": 9,
+      "repo": "coroot/coroot",
+      "stars": 7647,
+      "growth": 310,
+      "language": "Go",
+      "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections."
+    },
+    {
+      "date": "20250410",
+      "rank": 10,
+      "repo": "caddyserver/caddy",
+      "stars": 72570,
+      "growth": 146,
+      "language": "Go",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+    },
+    {
+      "date": "20250413",
+      "rank": 6,
+      "repo": "minio/minio",
+      "stars": 60956,
+      "growth": 150,
+      "language": "Go",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    },
+    {
+      "date": "20250415",
+      "rank": 9,
+      "repo": "nektos/act",
+      "stars": 70365,
+      "growth": 200,
+      "language": "Go",
+      "description": "Run your GitHub Actions locally 🚀"
+    },
+    {
+      "date": "20250423",
+      "rank": 7,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 393,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20250424",
+      "rank": 5,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 355,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20250425",
+      "rank": 10,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 101,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20250426",
+      "rank": 5,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 139,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250429",
+      "rank": 2,
+      "repo": "ehang-io/nps",
+      "stars": 34055,
+      "growth": 345,
+      "language": "Go",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+    },
+    {
+      "date": "20250430",
+      "rank": 9,
+      "repo": "nektos/act",
+      "stars": 70365,
+      "growth": 87,
+      "language": "Go",
+      "description": "Run your GitHub Actions locally 🚀"
+    },
+    {
+      "date": "20250506",
+      "rank": 4,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 537,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20250511",
+      "rank": 5,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 68,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250512",
+      "rank": 7,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 93,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20250514",
+      "rank": 3,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 156,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250518",
+      "rank": 10,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 62,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20250519",
+      "rank": 2,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 189,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20250520",
+      "rank": 3,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 241,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20250530",
+      "rank": 1,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 163,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250531",
+      "rank": 4,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 76,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250619",
+      "rank": 4,
+      "repo": "moby/buildkit",
+      "stars": 9971,
+      "growth": 92,
+      "language": "Go",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+    },
+    {
+      "date": "20250619",
+      "rank": 10,
+      "repo": "goodrain/rainbond",
+      "stars": 6173,
+      "growth": 52,
+      "language": "Go",
+      "description": "A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform."
+    },
+    {
+      "date": "20250624",
+      "rank": 6,
+      "repo": "nxtrace/NTrace-core",
+      "stars": 7832,
+      "growth": 115,
+      "language": "Go",
+      "description": "NextTrace, an open source visual route tracking CLI tool"
+    },
+    {
+      "date": "20250625",
+      "rank": 10,
+      "repo": "zricethezav/gitleaks",
+      "stars": 27101,
+      "growth": 100,
+      "language": "Go",
+      "description": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "date": "20250626",
+      "rank": 6,
+      "repo": "zricethezav/gitleaks",
+      "stars": 27101,
+      "growth": 286,
+      "language": "Go",
+      "description": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "date": "20250627",
+      "rank": 3,
+      "repo": "zricethezav/gitleaks",
+      "stars": 27101,
+      "growth": 311,
+      "language": "Go",
+      "description": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "date": "20250628",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 293,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250628",
+      "rank": 4,
+      "repo": "zricethezav/gitleaks",
+      "stars": 27101,
+      "growth": 173,
+      "language": "Go",
+      "description": "Find secrets with Gitleaks 🔑"
+    },
+    {
+      "date": "20250629",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 278,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250630",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 312,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250701",
+      "rank": 2,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 219,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250702",
+      "rank": 2,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 323,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250702",
+      "rank": 10,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 77,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250703",
+      "rank": 2,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 382,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250706",
+      "rank": 9,
+      "repo": "MightyMoud/sidekick",
+      "stars": 7399,
+      "growth": 122,
+      "language": "Go",
+      "description": "Bare metal to production ready in mins; your own fly server on your VPS."
+    },
+    {
+      "date": "20250707",
+      "rank": 6,
+      "repo": "MightyMoud/sidekick",
+      "stars": 7399,
+      "growth": 203,
+      "language": "Go",
+      "description": "Bare metal to production ready in mins; your own fly server on your VPS."
+    },
+    {
+      "date": "20250710",
+      "rank": 2,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 837,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250711",
+      "rank": 2,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 677,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250712",
+      "rank": 3,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 342,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250713",
+      "rank": 5,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 272,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250714",
+      "rank": 5,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 297,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250714",
+      "rank": 9,
+      "repo": "bcicen/ctop",
+      "stars": 17736,
+      "growth": 209,
+      "language": "Go",
+      "description": "Top-like interface for container metrics"
+    },
+    {
+      "date": "20250715",
+      "rank": 7,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 212,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250716",
+      "rank": 8,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 172,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250717",
+      "rank": 3,
+      "repo": "chubin/wttr.in",
+      "stars": 29631,
+      "growth": 357,
+      "language": "Go",
+      "description": ":partly_sunny: The right way to check the weather"
+    },
+    {
+      "date": "20250719",
+      "rank": 9,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 241,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250720",
+      "rank": 8,
+      "repo": "bluenviron/mediamtx",
+      "stars": 18803,
+      "growth": 141,
+      "language": "Go",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams."
+    },
+    {
+      "date": "20250721",
+      "rank": 10,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 150,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250724",
+      "rank": 1,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 777,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250726",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 461,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250727",
+      "rank": 2,
+      "repo": "m1k1o/neko",
+      "stars": 20955,
+      "growth": 157,
+      "language": "Go",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC."
+    },
+    {
+      "date": "20250728",
+      "rank": 7,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 157,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250729",
+      "rank": 7,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 157,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250802",
+      "rank": 3,
+      "repo": "kubesphere/kubesphere",
+      "stars": 16934,
+      "growth": 146,
+      "language": "Go",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️"
+    },
+    {
+      "date": "20250803",
+      "rank": 6,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 121,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250803",
+      "rank": 10,
+      "repo": "screego/server",
+      "stars": 10379,
+      "growth": 94,
+      "language": "Go",
+      "description": "screen sharing for developers https://screego.net/"
+    },
+    {
+      "date": "20250804",
+      "rank": 6,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 138,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250805",
+      "rank": 7,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 137,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20250806",
+      "rank": 9,
+      "repo": "iawia002/lux",
+      "stars": 31365,
+      "growth": 103,
+      "language": "Go",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go"
+    },
+    {
+      "date": "20250818",
+      "rank": 2,
+      "repo": "screego/server",
+      "stars": 10379,
+      "growth": 147,
+      "language": "Go",
+      "description": "screen sharing for developers https://screego.net/"
+    },
+    {
+      "date": "20250819",
+      "rank": 6,
+      "repo": "screego/server",
+      "stars": 10379,
+      "growth": 129,
+      "language": "Go",
+      "description": "screen sharing for developers https://screego.net/"
+    },
+    {
+      "date": "20250824",
+      "rank": 5,
+      "repo": "getlago/lago",
+      "stars": 9692,
+      "growth": 119,
+      "language": "Go",
+      "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics"
+    },
+    {
+      "date": "20250826",
+      "rank": 5,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 155,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250827",
+      "rank": 1,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 212,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250828",
+      "rank": 4,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 147,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250830",
+      "rank": 7,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 124,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250831",
+      "rank": 5,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 134,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250901",
+      "rank": 6,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 136,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250902",
+      "rank": 7,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 114,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250903",
+      "rank": 6,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 125,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250903",
+      "rank": 10,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 87,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250904",
+      "rank": 3,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 160,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250904",
+      "rank": 6,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 117,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250904",
+      "rank": 9,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 95,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250905",
+      "rank": 3,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 223,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250905",
+      "rank": 6,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 147,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250905",
+      "rank": 8,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 91,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250906",
+      "rank": 3,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 205,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250906",
+      "rank": 6,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 105,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250907",
+      "rank": 3,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 197,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250907",
+      "rank": 7,
+      "repo": "aquasecurity/trivy",
+      "stars": 35044,
+      "growth": 100,
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "date": "20250908",
+      "rank": 4,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 195,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250908",
+      "rank": 7,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 100,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250909",
+      "rank": 9,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 109,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250910",
+      "rank": 3,
+      "repo": "ccfos/nightingale",
+      "stars": 13024,
+      "growth": 150,
+      "language": "Go",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "date": "20250911",
+      "rank": 2,
+      "repo": "ccfos/nightingale",
+      "stars": 13024,
+      "growth": 205,
+      "language": "Go",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "date": "20250912",
+      "rank": 2,
+      "repo": "ccfos/nightingale",
+      "stars": 13024,
+      "growth": 160,
+      "language": "Go",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "date": "20250913",
+      "rank": 5,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 104,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250913",
+      "rank": 6,
+      "repo": "ccfos/nightingale",
+      "stars": 13024,
+      "growth": 86,
+      "language": "Go",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "date": "20250913",
+      "rank": 10,
+      "repo": "tbphp/gpt-load",
+      "stars": 6195,
+      "growth": 60,
+      "language": "Go",
+      "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。"
+    },
+    {
+      "date": "20250914",
+      "rank": 3,
+      "repo": "ccfos/nightingale",
+      "stars": 13024,
+      "growth": 124,
+      "language": "Go",
+      "description": "Nightingale is to monitoring and alerting what Grafana is to visualization."
+    },
+    {
+      "date": "20250914",
+      "rank": 6,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 82,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250914",
+      "rank": 9,
+      "repo": "tbphp/gpt-load",
+      "stars": 6195,
+      "growth": 73,
+      "language": "Go",
+      "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。"
+    },
+    {
+      "date": "20250914",
+      "rank": 10,
+      "repo": "TwiN/gatus",
+      "stars": 10953,
+      "growth": 69,
+      "language": "Go",
+      "description": "Automated developer-oriented status page with alerting and incident support"
+    },
+    {
+      "date": "20250916",
+      "rank": 5,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 121,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250917",
+      "rank": 2,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 146,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250918",
+      "rank": 3,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 120,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250918",
+      "rank": 8,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 73,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250920",
+      "rank": 8,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 126,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20250921",
+      "rank": 6,
+      "repo": "googleapis/genai-toolbox",
+      "stars": 15267,
+      "growth": 80,
+      "language": "Go",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases."
+    },
+    {
+      "date": "20250926",
+      "rank": 9,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 51,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250928",
+      "rank": 6,
+      "repo": "binwiederhier/ntfy",
+      "stars": 30249,
+      "growth": 80,
+      "language": "Go",
+      "description": "Send push notifications to your phone or desktop using PUT/POST"
+    },
+    {
+      "date": "20250929",
+      "rank": 5,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 68,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20250930",
+      "rank": 3,
+      "repo": "oauth2-proxy/oauth2-proxy",
+      "stars": 14403,
+      "growth": 38,
+      "language": "Go",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+    },
+    {
+      "date": "20250930",
+      "rank": 5,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 21,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20251001",
+      "rank": 8,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 21,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20251002",
+      "rank": 2,
+      "repo": "trufflesecurity/trufflehog",
+      "stars": 26372,
+      "growth": 79,
+      "language": "Go",
+      "description": "Find, verify, and analyze leaked credentials"
+    },
+    {
+      "date": "20251002",
+      "rank": 5,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 58,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20251003",
+      "rank": 5,
+      "repo": "oauth2-proxy/oauth2-proxy",
+      "stars": 14403,
+      "growth": 66,
+      "language": "Go",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+    },
+    {
+      "date": "20251003",
+      "rank": 8,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 58,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20251004",
+      "rank": 2,
+      "repo": "charmbracelet/bubbletea",
+      "stars": 42489,
+      "growth": 83,
+      "language": "Go",
+      "description": "A powerful little TUI framework 🏗"
+    },
+    {
+      "date": "20251005",
+      "rank": 1,
+      "repo": "evcc-io/evcc",
+      "stars": 6631,
+      "growth": 72,
+      "language": "Go",
+      "description": "solar charging ☀️🚘"
+    },
+    {
+      "date": "20251005",
+      "rank": 4,
+      "repo": "ThreeDotsLabs/watermill",
+      "stars": 9709,
+      "growth": 63,
+      "language": "Go",
+      "description": "Building event-driven applications the easy way in Go."
+    },
+    {
+      "date": "20251008",
+      "rank": 7,
+      "repo": "evcc-io/evcc",
+      "stars": 6631,
+      "growth": 72,
+      "language": "Go",
+      "description": "solar charging ☀️🚘"
+    },
+    {
+      "date": "20251009",
+      "rank": 6,
+      "repo": "evcc-io/evcc",
+      "stars": 6631,
+      "growth": 72,
+      "language": "Go",
+      "description": "solar charging ☀️🚘"
+    },
+    {
+      "date": "20251010",
+      "rank": 5,
+      "repo": "oauth2-proxy/oauth2-proxy",
+      "stars": 14403,
+      "growth": 126,
+      "language": "Go",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+    },
+    {
+      "date": "20251010",
+      "rank": 10,
+      "repo": "evcc-io/evcc",
+      "stars": 6631,
+      "growth": 72,
+      "language": "Go",
+      "description": "solar charging ☀️🚘"
+    },
+    {
+      "date": "20251011",
+      "rank": 6,
+      "repo": "oauth2-proxy/oauth2-proxy",
+      "stars": 14403,
+      "growth": 126,
+      "language": "Go",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+    },
+    {
+      "date": "20251015",
+      "rank": 10,
+      "repo": "anfragment/zen",
+      "stars": 3975,
+      "growth": 63,
+      "language": "Go",
+      "description": "Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux."
+    },
+    {
+      "date": "20251016",
+      "rank": 8,
+      "repo": "anfragment/zen",
+      "stars": 3975,
+      "growth": 63,
+      "language": "Go",
+      "description": "Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux."
+    },
+    {
+      "date": "20251016",
+      "rank": 10,
+      "repo": "charmbracelet/crush",
+      "stars": 24406,
+      "growth": 54,
+      "language": "Go",
+      "description": "Glamourous agentic coding for all 💘"
+    },
+    {
+      "date": "20251017",
+      "rank": 10,
+      "repo": "anfragment/zen",
+      "stars": 3975,
+      "growth": 53,
+      "language": "Go",
+      "description": "Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux."
+    },
+    {
+      "date": "20251018",
+      "rank": 7,
+      "repo": "getlago/lago",
+      "stars": 9692,
+      "growth": 49,
+      "language": "Go",
+      "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics"
+    },
+    {
+      "date": "20251019",
+      "rank": 6,
+      "repo": "screego/server",
+      "stars": 10379,
+      "growth": 93,
+      "language": "Go",
+      "description": "screen sharing for developers https://screego.net/"
+    },
+    {
+      "date": "20251021",
+      "rank": 8,
+      "repo": "AlexxIT/go2rtc",
+      "stars": 13023,
+      "growth": 76,
+      "language": "Go",
+      "description": "Ultimate camera streaming application"
+    },
+    {
+      "date": "20251023",
+      "rank": 7,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 64,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251024",
+      "rank": 4,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 120,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251025",
+      "rank": 4,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 83,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251026",
+      "rank": 6,
+      "repo": "minio/minio",
+      "stars": 60956,
+      "growth": 133,
+      "language": "Go",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    },
+    {
+      "date": "20251026",
+      "rank": 8,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 66,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251028",
+      "rank": 5,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 112,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20251029",
+      "rank": 2,
+      "repo": "juanfont/headscale",
+      "stars": 38490,
+      "growth": 197,
+      "language": "Go",
+      "description": "An open source, self-hosted implementation of the Tailscale control server"
+    },
+    {
+      "date": "20251029",
+      "rank": 7,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 116,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20251030",
+      "rank": 10,
+      "repo": "bcicen/ctop",
+      "stars": 17736,
+      "growth": 88,
+      "language": "Go",
+      "description": "Top-like interface for container metrics"
+    },
+    {
+      "date": "20251101",
+      "rank": 10,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 65,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20251104",
+      "rank": 3,
+      "repo": "jesseduffield/lazygit",
+      "stars": 78114,
+      "growth": 256,
+      "language": "Go",
+      "description": "simple terminal UI for git commands"
+    },
+    {
+      "date": "20251104",
+      "rank": 5,
+      "repo": "GopeedLab/gopeed",
+      "stars": 24570,
+      "growth": 157,
+      "language": "Go",
+      "description": "  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter."
+    },
+    {
+      "date": "20251105",
+      "rank": 5,
+      "repo": "GopeedLab/gopeed",
+      "stars": 24570,
+      "growth": 131,
+      "language": "Go",
+      "description": "  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter."
+    },
+    {
+      "date": "20251105",
+      "rank": 8,
+      "repo": "jesseduffield/lazygit",
+      "stars": 78114,
+      "growth": 97,
+      "language": "Go",
+      "description": "simple terminal UI for git commands"
+    },
+    {
+      "date": "20251106",
+      "rank": 6,
+      "repo": "mudler/LocalAI",
+      "stars": 46353,
+      "growth": 252,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20251106",
+      "rank": 9,
+      "repo": "GopeedLab/gopeed",
+      "stars": 24570,
+      "growth": 211,
+      "language": "Go",
+      "description": "  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter."
+    },
+    {
+      "date": "20251107",
+      "rank": 7,
+      "repo": "mudler/LocalAI",
+      "stars": 46353,
+      "growth": 250,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20251108",
+      "rank": 6,
+      "repo": "lima-vm/lima",
+      "stars": 21037,
+      "growth": 164,
+      "language": "Go",
+      "description": "Linux virtual machines, with a focus on running containers"
+    },
+    {
+      "date": "20251108",
+      "rank": 9,
+      "repo": "GopeedLab/gopeed",
+      "stars": 24570,
+      "growth": 146,
+      "language": "Go",
+      "description": "  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter."
+    },
+    {
+      "date": "20251109",
+      "rank": 6,
+      "repo": "lima-vm/lima",
+      "stars": 21037,
+      "growth": 153,
+      "language": "Go",
+      "description": "Linux virtual machines, with a focus on running containers"
+    },
+    {
+      "date": "20251109",
+      "rank": 9,
+      "repo": "mudler/LocalAI",
+      "stars": 46353,
+      "growth": 101,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20251110",
+      "rank": 6,
+      "repo": "lima-vm/lima",
+      "stars": 21037,
+      "growth": 158,
+      "language": "Go",
+      "description": "Linux virtual machines, with a focus on running containers"
+    },
+    {
+      "date": "20251110",
+      "rank": 8,
+      "repo": "mudler/LocalAI",
+      "stars": 46353,
+      "growth": 132,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20251111",
+      "rank": 8,
+      "repo": "jesseduffield/lazygit",
+      "stars": 78114,
+      "growth": 183,
+      "language": "Go",
+      "description": "simple terminal UI for git commands"
+    },
+    {
+      "date": "20251128",
+      "rank": 3,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 375,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20251128",
+      "rank": 9,
+      "repo": "ayn2op/discordo",
+      "stars": 5530,
+      "growth": 169,
+      "language": "Go",
+      "description": "A lightweight, secure, and feature-rich Discord terminal (TUI) client."
+    },
+    {
+      "date": "20251129",
+      "rank": 8,
+      "repo": "pocketbase/pocketbase",
+      "stars": 58424,
+      "growth": 134,
+      "language": "Go",
+      "description": "Open Source realtime backend in 1 file"
+    },
+    {
+      "date": "20251129",
+      "rank": 10,
+      "repo": "ayn2op/discordo",
+      "stars": 5530,
+      "growth": 122,
+      "language": "Go",
+      "description": "A lightweight, secure, and feature-rich Discord terminal (TUI) client."
+    },
+    {
+      "date": "20251210",
+      "rank": 1,
+      "repo": "KaijuEngine/kaiju",
+      "stars": 4515,
+      "growth": 1169,
+      "language": "Go",
+      "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor"
+    },
+    {
+      "date": "20251211",
+      "rank": 5,
+      "repo": "KaijuEngine/kaiju",
+      "stars": 4515,
+      "growth": 736,
+      "language": "Go",
+      "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor"
+    },
+    {
+      "date": "20251214",
+      "rank": 10,
+      "repo": "Tencent/WeKnora",
+      "stars": 15213,
+      "growth": 200,
+      "language": "Go",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
+      "date": "20251218",
+      "rank": 5,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 382,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251219",
+      "rank": 1,
+      "repo": "schollz/croc",
+      "stars": 35068,
+      "growth": 497,
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:"
+    },
+    {
+      "date": "20251219",
+      "rank": 7,
+      "repo": "Tencent/WeKnora",
+      "stars": 15213,
+      "growth": 235,
+      "language": "Go",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
+      "date": "20251221",
+      "rank": 2,
+      "repo": "danielmiessler/Fabric",
+      "stars": 41763,
+      "growth": 331,
+      "language": "Go",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    },
+    {
+      "date": "20251222",
+      "rank": 4,
+      "repo": "danielmiessler/Fabric",
+      "stars": 41763,
+      "growth": 321,
+      "language": "Go",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    },
+    {
+      "date": "20251223",
+      "rank": 7,
+      "repo": "danielmiessler/Fabric",
+      "stars": 41763,
+      "growth": 299,
+      "language": "Go",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    },
+    {
+      "date": "20251228",
+      "rank": 9,
+      "repo": "danielmiessler/Fabric",
+      "stars": 41763,
+      "growth": 184,
+      "language": "Go",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    },
+    {
+      "date": "20260102",
+      "rank": 2,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 761,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260103",
+      "rank": 1,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 1102,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260104",
+      "rank": 1,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 1301,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260105",
+      "rank": 3,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 641,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260105",
+      "rank": 8,
+      "repo": "5rahim/seanime",
+      "stars": 3585,
+      "growth": 287,
+      "language": "Go",
+      "description": "Open-source media server with a web interface and desktop app for anime and manga."
+    },
+    {
+      "date": "20260106",
+      "rank": 6,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 457,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260112",
+      "rank": 6,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 446,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260113",
+      "rank": 6,
+      "repo": "usememos/memos",
+      "stars": 59768,
+      "growth": 350,
+      "language": "Go",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours."
+    },
+    {
+      "date": "20260115",
+      "rank": 5,
+      "repo": "mudler/LocalAI",
+      "stars": 46353,
+      "growth": 391,
+      "language": "Go",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+    },
+    {
+      "date": "20260203",
+      "rank": 10,
+      "repo": "steveyegge/beads",
+      "stars": 23837,
+      "growth": 277,
+      "language": "Go",
+      "description": "Beads - A memory upgrade for your coding agent"
+    },
+    {
+      "date": "20260216",
+      "rank": 6,
+      "repo": "steipete/gogcli",
+      "stars": 7489,
+      "growth": 514,
+      "language": "Go",
+      "description": "Google Workspace in your terminal."
+    },
+    {
+      "date": "20260217",
+      "rank": 9,
+      "repo": "steipete/gogcli",
+      "stars": 7489,
+      "growth": 396,
+      "language": "Go",
+      "description": "Google Workspace in your terminal."
+    },
+    {
+      "date": "20260218",
+      "rank": 10,
+      "repo": "steipete/gogcli",
+      "stars": 7489,
+      "growth": 276,
+      "language": "Go",
+      "description": "Google Workspace in your terminal."
+    },
+    {
+      "date": "20260221",
+      "rank": 1,
+      "repo": "vxcontrol/pentagi",
+      "stars": 17018,
+      "growth": 1628,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "date": "20260222",
+      "rank": 1,
+      "repo": "vxcontrol/pentagi",
+      "stars": 17018,
+      "growth": 1449,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "date": "20260223",
+      "rank": 3,
+      "repo": "vxcontrol/pentagi",
+      "stars": 17018,
+      "growth": 1047,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "date": "20260322",
+      "rank": 7,
+      "repo": "vxcontrol/pentagi",
+      "stars": 17018,
+      "growth": 1081,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "date": "20260323",
+      "rank": 8,
+      "repo": "vxcontrol/pentagi",
+      "stars": 17018,
+      "growth": 1118,
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    }
+  ]
+}
