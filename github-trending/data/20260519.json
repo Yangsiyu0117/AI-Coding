@@ -1,0 +1,90 @@
+{
+  "date": "20260519",
+  "python_top": [
+    {
+      "rank": 1,
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 12975,
+      "stars_today": 1439,
+      "forks": 1266
+    },
+    {
+      "rank": 2,
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "owner": "CloakHQ",
+      "repo": "CloakBrowser",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars": 15765,
+      "stars_today": 1420,
+      "forks": 1235
+    },
+    {
+      "rank": 3,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 37108,
+      "stars_today": 1049,
+      "forks": 3578
+    },
+    {
+      "rank": 4,
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "owner": "BigBodyCobain",
+      "repo": "Shadowbroker",
+      "language": "Python",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "stars": 7954,
+      "stars_today": 767,
+      "forks": 1209
+    },
+    {
+      "rank": 5,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 24639,
+      "stars_today": 609,
+      "forks": 2593
+    },
+    {
+      "rank": 6,
+      "name": "NVlabs/Sana",
+      "url": "https://github.com/NVlabs/Sana",
+      "owner": "NVlabs",
+      "repo": "Sana",
+      "language": "Python",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "stars": 6794,
+      "stars_today": 387,
+      "forks": 488
+    },
+    {
+      "rank": 7,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "language": "Python",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 37545,
+      "stars_today": 310,
+      "forks": 36362
+    }
+  ],
+  "go_top": []
+}

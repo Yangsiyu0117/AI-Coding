@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-GitHub Trending — Fetch daily hot projects from github-daily-rank repo
-====================================================================
-Fetches data from OpenGithubs/github-daily-rank (pre-computed daily rank).
-Output format matches the reference project exactly.
-Translates descriptions to Chinese.
+GitHub Trending Daily — 直接从 github.com/trending 抓取数据
+===========================================================
+- 抓取全语言 Top 25 + Python Top 10 + Go Top 10
+- 保存到 WorkScript 仓库 (github-trending/data/)
+- 输出 Telegram 格式消息
 
 Usage:
-  python github_trending.py                          # output Telegram message
-  python github_trending.py --date 20260518           # specific date
-  python github_trending.py --output json             # JSON output
+  python3 github_trending.py                          # 今日数据
+  python3 github_trending.py --date 20260518           # 指定日期
+  python3 github_trending.py --output json             # JSON 输出
+  python3 github_trending.py --no-save                 # 不保存文件
+  python3 github_trending.py --no-push                 # 不推送到远程
 """
-
 import argparse
 import json
 import os
@@ -19,365 +20,494 @@ import re
 import sys
 import time
 import urllib.error
-import urllib.parse
 import urllib.request
 from datetime import datetime, date, timedelta
+from collections import defaultdict
 
 # ─── Configuration ───────────────────────────────────────────────────────────
+WORKSCRIPT_DIR = os.path.expanduser("~/WorkScript")
+SKILL_DIR = os.path.join(os.path.expanduser("~"), ".hermes", "skills", "github-trending")
 
-RAW_BASE = "https://raw.githubusercontent.com/OpenGithubs/github-daily-rank/main"
-REPO_API = "https://api.github.com/repos/OpenGithubs/github-daily-rank/contents"
+# 数据目录：同时写入 skill 本地 + git 仓库
+DATA_DIRS = [
+    os.path.join(SKILL_DIR, "data"),                    # 本地 skill 数据
+    os.path.join(WORKSCRIPT_DIR, "github-trending", "data"),  # git 仓库数据
+]
+
 TOP_N = 10
-USER_AGENT = "github-trending-bot/1.0"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/125.0.0.0 Safari/537.36"
+)
+TRENDING_URL = "https://github.com/trending"
+REQ_TIMEOUT = 30
+
 
 # ─── Helpers ─────────────────────────────────────────────────────────────────
-
 
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
 
-def format_stars(num):
-    """Format star count: 1000 -> 1k, 10500 -> 10.5k"""
-    if num is None:
-        return "?"
-    if num >= 1000:
-        return f"{num / 1000:.1f}k"
-    return str(num)
+def format_stars(n):
+    """Format star count: 1234 -> '1.2k', 12345 -> '12.3k'."""
+    if n >= 1000:
+        return f"{n / 1000:.1f}k"
+    return str(n)
 
 
-def parse_stars(text):
-    """Parse star string like '78.7k' or '78661' to int."""
-    if not text:
-        return 0
-    text = text.strip().replace(",", "").replace("⭐", "").replace("🔺", "")
-    if "k" in text.lower():
-        return int(float(text.lower().replace("k", "")) * 1000)
-    try:
-        return int(text)
-    except ValueError:
-        return 0
+def fetch_url(url, token=""):
+    """Fetch URL with retry and User-Agent header."""
+    headers = {"User-Agent": USER_AGENT}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
 
-
-def translate_text(text, target="zh-CN"):
-    """Translate text to Chinese via Google Translate free HTTP API."""
-    if not text or len(text.strip()) == 0:
-        return text
-    try:
-        url = "https://translate.googleapis.com/translate_a/single"
-        params = urllib.parse.urlencode({
-            "client": "gtx",
-            "sl": "auto",
-            "tl": target,
-            "dt": "t",
-            "q": text[:5000],
-        })
-        req = urllib.request.Request(f"{url}?{params}", headers={
-            "User-Agent": USER_AGENT,
-        })
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            raw = resp.read().decode()
-            data = json.loads(raw)
-            result = "".join(part[0] for part in data[0])
-            return result if result else text
-    except Exception as e:
-        eprint(f"[!] Translation failed: {e}")
-        return text
-
-
-def fetch_url(url, retries=3):
-    """Fetch a URL with retry logic."""
-    for attempt in range(retries):
+    last_err = None
+    for attempt in range(3):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                return resp.read().decode()
-        except urllib.error.HTTPError as e:
-            if e.code == 404:
-                return None
-            body = e.read().decode()
-            eprint(f"[!] HTTP {e.code}: {body[:200]}")
-            return None
-        except (urllib.error.URLError, TimeoutError) as e:
-            eprint(f"[!] Network error: {e}")
-            if attempt < retries - 1:
-                time.sleep(5)
-                continue
-            return None
-    return None
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=REQ_TIMEOUT) as resp:
+                return resp.read().decode("utf-8")
+        except Exception as e:
+            last_err = e
+            eprint(f"[!] Attempt {attempt + 1}/3 failed: {e}")
+            time.sleep(1)
+    eprint(f"[!] All attempts failed for {url}")
+    return ""
 
 
-# ─── Fetch data from github-daily-rank ──────────────────────────────────────
+# ─── Scrape GitHub Trending ─────────────────────────────────────────────────
 
-
-def find_latest_date():
-    """Find the latest available date with data in the repo."""
-    today = date.today()
-    # Try today, then go back up to 7 days
-    for days_back in range(7):
-        d = today - timedelta(days=days_back)
-        date_str = d.strftime("%Y%m%d")
-        url = f"{RAW_BASE}/{d.strftime('%Y/%m')}/{date_str}.md"
-        content = fetch_url(url)
-        if content:
-            eprint(f"[✓] Found data: {d.strftime('%Y.%m.%d')}")
-            return date_str, content, d
-    return None, None, None
-
-
-def fetch_by_date(date_str):
-    """Fetch data for a specific date string (YYYYMMDD)."""
-    d = datetime.strptime(date_str, "%Y%m%d").date()
-    url = f"{RAW_BASE}/{d.strftime('%Y/%m')}/{date_str}.md"
-    content = fetch_url(url)
-    if content:
-        return date_str, content, d
-    return None, None, None
-
-
-# ─── Parse markdown content ─────────────────────────────────────────────────
-
-
-def parse_rank_table(content):
+def scrape_trending(lang="", since="daily"):
     """
-    Parse the rank table from markdown content.
-    Returns list of dicts: {rank, name, url, stars, daily_growth}
+    Scrape github.com/trending page.
+    lang: empty for all, "python", "go", etc.
+    since: "daily", "weekly", "monthly"
+    Returns list of dicts.
     """
+    url = f"{TRENDING_URL}/{lang}" if lang else TRENDING_URL
+    url += f"?since={since}"
+    eprint(f"[*] Fetching: {url}")
+
+    html = fetch_url(url)
+    if not html:
+        eprint(f"[!] Failed to fetch {url}")
+        return []
+
     repos = []
 
-    # Find the table section - look for the markdown table pattern
-    # | 排名 | 项目名 | Star⭐ | 今日增长量 |
-    # | 1 | [owner/repo](url) | Xk | 🔺Y |
-    table_pattern = re.compile(
-        r'\|\s*(\d+)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*([^\|]+)\s*\|\s*([^\|]+?)(?:\s*\||\s*$)',
+    # Split by article.Box-row
+    articles = re.split(r'<article\s+class="Box-row', html)[1:]
+
+    for art in articles:
+        try:
+            repo = _parse_article(art)
+            if repo:
+                repos.append(repo)
+        except Exception as e:
+            # Skip malformed entries
+            continue
+
+    eprint(f"[✓] Parsed {len(repos)} repos from trending page")
+    return repos
+
+
+def _parse_article(art):
+    """
+    Parse a single trending article HTML snippet.
+    Current GitHub HTML structure (2025+):
+      <h2>
+        <a href="/owner/repo">
+          <span class="text-normal">owner /</span>
+          repo_name
+        </a>
+      </h2>
+      <p class="col-9 color-fg-muted">description</p>
+      <div class="f6 color-fg-muted">
+        <span itemprop="programmingLanguage">Language</span>
+        <a href=".../stargazers">STARS</a>
+        <a href=".../forks">FORKS</a>
+        <span>X stars today</span>
+      </div>
+    """
+
+    # 1. Extract repo full name from href="/owner/repo" inside h2
+    #    Find the first href that matches /owner/repo pattern
+    href_match = re.search(
+        r'href="/([^/"]+)/([^/"]+)"[^>]*>\s*$',
+        art,
         re.MULTILINE
     )
+    if not href_match:
+        # Try alternative: look for href in <a> inside <h2>
+        h2_section = re.search(r'<h2[^>]*>(.*?)</h2>', art, re.DOTALL)
+        if h2_section:
+            h2_content = h2_section.group(1)
+            href_match = re.search(r'href="/([^/"]+)/([^/"]+)"', h2_content)
 
-    for match in table_pattern.finditer(content):
-        rank = int(match.group(1))
-        name = match.group(2).strip()
-        url = match.group(3).strip()
-        stars_raw = match.group(4).strip()
-        growth_raw = match.group(5).strip()
+    if not href_match:
+        return None
 
-        if rank > TOP_N:
+    owner = href_match.group(1)
+    repo_name = href_match.group(2)
+    full_name = f"{owner}/{repo_name}"
+    repo_url = f"https://github.com/{full_name}"
+
+    # 2. Description: <p class="col-9 color-fg-muted"> ... </p>
+    desc_match = re.search(
+        r'<p\s+class="col-9[^"]*color-fg-muted[^"]*"[^>]*>\s*(.*?)\s*</p>',
+        art,
+        re.DOTALL
+    )
+    description = ""
+    if desc_match:
+        desc_text = desc_match.group(1)
+        desc_text = re.sub(r'<[^>]+>', '', desc_text).strip()
+        description = desc_text
+
+    # 3. Programming language
+    lang_match = re.search(
+        r'itemprop="programmingLanguage"[^>]*>\s*([^<]+?)\s*<',
+        art
+    )
+    language = lang_match.group(1).strip() if lang_match else None
+
+    # 4. Total stars — from <a href=".../stargazers">...STARS_TEXT...</a>
+    stars = 0
+    stars_match = re.search(
+        r'href="/[^/"]+/[^/"]+/stargazers"[^>]*>.*?</svg>\s*([\d,]+)\s*</a>',
+        art,
+        re.DOTALL
+    )
+    if stars_match:
+        stars = int(stars_match.group(1).replace(",", ""))
+
+    # 5. Stars today — from "X stars today" text
+    stars_today = 0
+    today_match = re.search(r'(\d[\d,]*)\s*stars?\s*today', art)
+    if today_match:
+        stars_today = int(today_match.group(1).replace(",", ""))
+
+    # 6. Forks
+    forks = 0
+    forks_match = re.search(
+        r'href="/[^/"]+/[^/"]+/forks"[^>]*>.*?</svg>\s*([\d,]+)\s*</a>',
+        art,
+        re.DOTALL
+    )
+    if forks_match:
+        forks = int(forks_match.group(1).replace(",", ""))
+
+    return {
+        "rank": 0,  # Will be set later
+        "name": full_name,
+        "url": repo_url,
+        "owner": owner,
+        "repo": repo_name,
+        "language": language,
+        "description": description,
+        "stars": stars,
+        "stars_today": stars_today,
+        "forks": forks,
+    }
+
+
+# ─── GitHub API enrichment ───────────────────────────────────────────────────
+
+def fetch_github_api(repo_full_name, token=""):
+    """Fetch repo metadata from GitHub REST API (no auth needed for public)."""
+    url = f"https://api.github.com/repos/{repo_full_name}"
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "application/vnd.github.v3+json",
+    }
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        return {
+            "stars": data.get("stargazers_count", 0),
+            "forks": data.get("forks_count", 0),
+            "description": data.get("description") or "",
+            "language": data.get("language"),
+            "created_at": data.get("created_at", ""),
+            "topics": data.get("topics", []),
+        }
+    except Exception as e:
+        eprint(f"[!] API error for {repo_full_name}: {e}")
+        return None
+
+
+def enrich_repos(repos, token=""):
+    """Enrich repos with additional info from GitHub API (top 25 only)."""
+    for i, repo in enumerate(repos[:25]):
+        try:
+            info = fetch_github_api(repo["name"], token)
+            if info:
+                repo["stars"] = info["stars"]
+                repo["description"] = info["description"] or repo["description"]
+                repo["created_at"] = info["created_at"]
+                repo["forks"] = info["forks"]
+                repo["topics"] = info["topics"]
+                if info["language"]:
+                    repo["language"] = info["language"]
+            # Small delay to avoid rate limiting
+            time.sleep(0.15)
+        except Exception as e:
+            eprint(f"[!] Skipping API for {repo['name']}: {e}")
             continue
-
-        # Parse growth
-        growth_str = growth_raw.replace("🔺", "").strip()
-        daily_growth = parse_stars(growth_str)
-
-        repos.append({
-            "rank": rank,
-            "name": name,
-            "url": url,
-            "stars": parse_stars(stars_raw),
-            "stars_display": stars_raw,
-            "daily_growth": daily_growth,
-            "daily_growth_display": growth_raw,
-        })
-
     return repos
 
 
-def parse_project_details(content, repos):
-    """
-    Parse individual project details from the markdown.
-    Extracts weekly_growth, monthly_growth, created_at, description.
-    Matches by rank number and repo URL.
-    """
-    # Split by project sections (h3 tags mark each project)
-    # Pattern: <h3...>N.  https://github.com/...</h3>
-    sections = re.split(r'<h3[^>]*>', content)
+# ─── Save Data ───────────────────────────────────────────────────────────────
 
-    for section in sections:
-        # Match: N.  https://github.com/owner/repo
-        header_match = re.search(
-            r'(\d+)\.\s+https://github\.com/([^\s<]+)',
-            section
-        )
-        if not header_match:
+def save_to_all_dirs(all_repos, lang_repos, date_str):
+    """Save data to all configured data directories."""
+    saved_files = []
+    for base_dir in DATA_DIRS:
+        files = _save_to_dir(all_repos, lang_repos, date_str, base_dir)
+        saved_files.extend(files)
+    return saved_files
+
+
+def _save_to_dir(all_repos, lang_repos, date_str, base_dir):
+    """Save repos to a specific base directory in multiple formats."""
+    year = date_str[:4]
+    month = date_str[4:6]
+
+    d = datetime.strptime(date_str, "%Y%m%d")
+    date_display = d.strftime("%Y-%m-%d")
+
+    saved = []
+
+    # 1. Save raw JSON (all languages)
+    raw_dir = os.path.join(base_dir, "raw", year, month)
+    os.makedirs(raw_dir, exist_ok=True)
+    raw_path = os.path.join(raw_dir, f"{date_str}.json")
+    with open(raw_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "date": date_str,
+            "source": "github.com/trending?since=daily",
+            "repos": all_repos
+        }, f, ensure_ascii=False, indent=2)
+    saved.append(raw_path)
+
+    # 2. Save per-language markdown files (Python, Go)
+    for lang, lang_key in [("Python", "python"), ("Go", "go")]:
+        repos = lang_repos.get(lang, [])
+        if not repos:
             continue
 
-        rank = int(header_match.group(1))
-        repo_path = header_match.group(2).strip()
+        lang_dir = os.path.join(base_dir, lang_key)
+        os.makedirs(lang_dir, exist_ok=True)
 
-        if rank < 1 or rank > TOP_N:
-            continue
+        lines = []
+        lines.append(f"# GitHub Trending ({date_display}) — {lang} Top {TOP_N}")
+        lines.append("")
+        lines.append(f"_{lang} 热门开源项目 Top {TOP_N}_")
+        lines.append("")
+        lines.append("| 排名 | 项目名 | Star⭐ | 今日增长量 | 描述 |")
+        lines.append("|------|--------|-------|-----------|------|")
 
-        # Find matching repo
-        repo = next((r for r in repos if r["rank"] == rank), None)
-        if not repo:
-            continue
+        for r in repos:
+            desc = (r.get("description") or "")[:60].replace("|", "\\|")
+            lines.append(
+                f"| {r['rank']} | [{r['name']}]({r['url']}) | "
+                f"{format_stars(r['stars'])} | 🔺{r['stars_today']} | {desc} |"
+            )
 
-        # Extract fields
-        weekly = re.search(r'🔺\s*上周增长数量：([^⭐]+)⭐', section)
-        monthly = re.search(r'🔺\s*上月增长数量：([^⭐]+)⭐', section)
-        created = re.search(r'📅\s*开源时间：([^\n]+)', section)
-        desc = re.search(r'📝\s*项目描述：([^\n]*)', section)
+        lines.append("")
+        lines.append(f"_数据来源: [github.com/trending](https://github.com/trending?since=daily)_")
 
-        repo["weekly_growth"] = parse_stars(weekly.group(1).strip()) if weekly else 0
-        repo["monthly_growth"] = parse_stars(monthly.group(1).strip()) if monthly else 0
-        repo["created_at"] = created.group(1).strip() if created else ""
-        repo["description"] = desc.group(1).strip() if desc and desc.group(1).strip() else ""
+        md_path = os.path.join(lang_dir, f"{date_str}.md")
+        with open(md_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines) + "\n")
+        saved.append(md_path)
 
-    return repos
+    # 3. Save combined JSON (Python + Go)
+    combined = {
+        "date": date_str,
+        "python_top": lang_repos.get("Python", []),
+        "go_top": lang_repos.get("Go", []),
+    }
+    combined_path = os.path.join(base_dir, f"{date_str}.json")
+    with open(combined_path, "w", encoding="utf-8") as f:
+        json.dump(combined, f, ensure_ascii=False, indent=2)
+    saved.append(combined_path)
+
+    return saved
 
 
-# ─── Formatting ──────────────────────────────────────────────────────────────
+# ─── Git Operations ──────────────────────────────────────────────────────────
+
+def git_commit_push(date_str):
+    """Commit and push trending data to the WorkScript repo."""
+    repo_dir = WORKSCRIPT_DIR
+    data_dir = os.path.join(repo_dir, "github-trending", "data")
+
+    if not os.path.isdir(os.path.join(repo_dir, ".git")):
+        eprint(f"[!] Not a git repo: {repo_dir}")
+        return False
+
+    try:
+        # Stage changes
+        os.system(f"cd {repo_dir} && git add github-trending/data/")
+
+        # Check if anything changed
+        result = os.popen(f"cd {repo_dir} && git status --porcelain").read().strip()
+        if not result:
+            eprint("[*] No changes to commit")
+            return True
+
+        # Commit
+        commit_msg = f"chore(github-trending): daily trending data for {date_str}"
+        os.system(f'cd {repo_dir} && git commit -m "{commit_msg}"')
+
+        # Push
+        eprint("[*] Pushing to origin...")
+        ret = os.system(f"cd {repo_dir} && git push origin main 2>&1")
+        if ret == 0:
+            eprint("[✓] Pushed successfully")
+        else:
+            eprint("[!] Push failed (may need manual push)")
+        return True
+    except Exception as e:
+        eprint(f"[!] Git error: {e}")
+        return False
 
 
-def format_tg_message(repos, date_display):
-    """Format exactly matching the reference project's output style."""
+# ─── Format Output ───────────────────────────────────────────────────────────
+
+def format_tg_message(all_repos, lang_repos, date_display):
+    """Format trending data as Telegram message."""
     lines = []
 
     # Header
-    lines.append(f"📅 *GitHub 热门开源项目* | {date_display}")
+    lines.append(f"📊 *GitHub Trending Daily — {date_display}*")
     lines.append("")
 
-    # ── Best project highlight ──
-    best = repos[0] if repos else None
-    if best:
-        lines.append(f"🏆 *日榜最佳项目:* [{best['name']}]({best['url']})")
-        lines.append(f"   ⭐ 总星标数量：{format_stars(best['stars'])}")
-        lines.append(f"   🔺 日增长数量：{best['daily_growth']}⭐")
-        lines.append(f"   📝 {best.get('description', '')}")
+    # Python Top 10
+    py_repos = lang_repos.get("Python", [])
+    if py_repos:
+        lines.append("━━━ 🐍 *Python Top 10* ━━━")
+        lines.append("")
+        for r in py_repos:
+            desc = (r.get("description") or "")[:80]
+            lines.append(
+                f"  *{r['rank']}.* [{r['name']}]({r['url']})\n"
+                f"     ⭐ {format_stars(r['stars'])}  🔺+{r['stars_today']}\n"
+                f"     _{desc}_"
+            )
         lines.append("")
 
-    # ── Rank table ──
-    lines.append("━━━ 📊 日榜排行 ━━━")
-    lines.append("")
-    lines.append("| 排名 | 项目名 | Star⭐ | 今日增长量 |")
-    lines.append("|------|--------|-------|-----------|")
+    # Go Top 10
+    go_repos = lang_repos.get("Go", [])
+    if go_repos:
+        lines.append("━━━ 🔵 *Go Top 10* ━━━")
+        lines.append("")
+        for r in go_repos:
+            desc = (r.get("description") or "")[:80]
+            lines.append(
+                f"  *{r['rank']}.* [{r['name']}]({r['url']})\n"
+                f"     ⭐ {format_stars(r['stars'])}  🔺+{r['stars_today']}\n"
+                f"     _{desc}_"
+            )
+        lines.append("")
 
-    for repo in repos:
-        growth_display = repo.get("daily_growth_display", f"🔺{repo['daily_growth']}")
-        lines.append(
-            f"| {repo['rank']} | [{repo['name']}]({repo['url']}) | "
-            f"{format_stars(repo['stars'])} | {growth_display} |"
-        )
-
-    lines.append("")
-
-    # ── Project Details ──
-    lines.append("━━━ 📋 日榜项目详情 ━━━")
-    lines.append("")
-
-    for repo in repos:
-        lines.append(f"*#{repo['rank']}.* [{repo['name']}]({repo['url']})")
-
-        lines.append(f"   ⭐ 总星标数量：{format_stars(repo['stars'])}")
-
-        dg = repo["daily_growth"]
-        lines.append(f"   🔺 日增长数量：{dg}⭐" if dg else "   🔺 日增长数量：暂无数据")
-
-        wg = repo.get("weekly_growth")
-        if wg and wg > 0:
-            lines.append(f"   🔺 上周增长数量：{wg}⭐")
-        else:
-            lines.append(f"   🔺 上周增长数量：暂无数据")
-
-        mg = repo.get("monthly_growth")
-        if mg and mg > 0:
-            lines.append(f"   🔺 上月增长数量：{mg}⭐")
-        else:
-            lines.append(f"   🔺 上月增长数量：暂无数据")
-
-        created = repo.get("created_at", "")
-        if created:
-            lines.append(f"   📅 开源时间：{created}")
-        else:
-            lines.append(f"   📅 开源时间：未知")
-
-        desc = repo.get("description", "")
-        if desc:
-            desc_short = desc if len(desc) <= 150 else desc[:147] + "..."
-            lines.append(f"   📝 项目描述：{desc_short}")
-
+    # Overall top 5 highlights
+    if all_repos:
+        lines.append("━━━ 🌟 *全语言 Top 5* ━━━")
+        lines.append("")
+        for r in all_repos[:5]:
+            lang = r.get("language") or "?"
+            lines.append(f"  *{r['rank']}.* `{lang}` [{r['name']}]({r['url']}) — 🔺+{r['stars_today']}")
         lines.append("")
 
     lines.append("───")
-    lines.append("_数据来源: [OpenGithubs/github-daily-rank](https://github.com/OpenGithubs/github-daily-rank)_")
+    lines.append("_数据来源: [github.com/trending](https://github.com/trending?since=daily)_")
 
     return "\n".join(lines)
 
 
-def format_json_output(repos, date_str):
-    """Format output as JSON."""
-    items = []
-    for repo in repos:
-        items.append({
-            "rank": repo["rank"],
-            "full_name": repo["name"],
-            "url": repo["url"],
-            "stars": repo["stars"],
-            "stars_display": format_stars(repo["stars"]),
-            "daily_growth": repo["daily_growth"],
-            "weekly_growth": repo.get("weekly_growth"),
-            "monthly_growth": repo.get("monthly_growth"),
-            "created_at": repo.get("created_at", ""),
-            "description": repo.get("description", ""),
-        })
-    return json.dumps({"date": date_str, "top_10": items}, ensure_ascii=False, indent=2)
-
-
-# ─── Main ────────────────────────────────────────────────────────────────────
-
+# ─── Main ───────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Fetch GitHub daily trending from github-daily-rank"
-    )
-    parser.add_argument(
-        "--date", help="Specific date (YYYYMMDD format, default: latest available)"
-    )
-    parser.add_argument(
-        "--output", choices=["tg", "json"], default="tg",
-        help="Output format: tg (Telegram) or json"
-    )
-    parser.add_argument(
-        "--no-translate", action="store_true",
-        help="Skip translation (keep original English descriptions)"
-    )
+    parser = argparse.ArgumentParser(description="GitHub Trending Daily")
+    parser.add_argument("--date", help="Specify date (YYYYMMDD)")
+    parser.add_argument("--output", choices=["tg", "json"], default="tg")
+    parser.add_argument("--no-save", action="store_true", help="Skip saving to repo")
+    parser.add_argument("--no-push", action="store_true", help="Commit but don't push")
+    parser.add_argument("--token", default="", help="GitHub API token")
     args = parser.parse_args()
 
-    # ── Fetch data ──
+    # Determine date
     if args.date:
-        date_str, content, data_date = fetch_by_date(args.date)
-        if not content:
-            eprint(f"[!] No data found for date: {args.date}")
-            sys.exit(1)
+        date_str = args.date
+        data_date = datetime.strptime(date_str, "%Y%m%d")
     else:
-        date_str, content, data_date = find_latest_date()
-        if not content:
-            eprint("[!] No data found in github-daily-rank repo")
-            sys.exit(1)
+        data_date = datetime.now()
+        date_str = data_date.strftime("%Y%m%d")
 
     date_display = data_date.strftime("%Y.%m.%d")
 
-    # ── Parse ──
-    repos = parse_rank_table(content)
-    repos = parse_project_details(content, repos)
-    eprint(f"[✓] Parsed {len(repos)} projects from {date_display}")
-
-    if not repos:
-        eprint("[!] No projects found in the data")
+    # 1. Scrape trending page (all languages)
+    eprint(f"[*] Scraping GitHub Trending for {date_display}...")
+    all_repos = scrape_trending(lang="", since="daily")
+    if not all_repos:
+        eprint("[!] No data fetched from trending page")
         sys.exit(1)
 
-    # ── Translate descriptions ──
-    if not args.no_translate:
-        eprint("[*] Translating descriptions to Chinese...")
-        for repo in repos:
-            desc = repo.get("description", "")
-            if desc and re.search(r'[a-zA-Z]', desc):
-                repo["description"] = translate_text(desc)
-                time.sleep(0.1)
+    # 2. Enrich with GitHub API
+    token = args.token or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
+    if token:
+        eprint("[*] Enriching with GitHub API...")
+        all_repos = enrich_repos(all_repos, token)
 
-    # ── Output ──
+    # 3. Sort all_repos by stars_today descending
+    all_repos = sorted(all_repos, key=lambda x: x["stars_today"], reverse=True)
+    for i, r in enumerate(all_repos, 1):
+        r["rank"] = i
+
+    # 4. Split by language (deep copy to avoid rank cross-contamination)
+    lang_repos = defaultdict(list)
+    for r in all_repos:
+        lang = r.get("language") or "Unknown"
+        lang_repos[lang].append(dict(r))  # shallow copy is fine for our fields
+
+    for lang in list(lang_repos.keys()):
+        lang_repos[lang] = lang_repos[lang][:TOP_N]
+        for i, r in enumerate(lang_repos[lang], 1):
+            r["rank"] = i
+
+    eprint(f"[✓] Languages found: {', '.join(sorted(lang_repos.keys(), key=lambda k: len(lang_repos[k]), reverse=True)[:5])}...")
+    eprint(f"[✓] Python: {len(lang_repos.get('Python', []))} repos")
+    eprint(f"[✓] Go: {len(lang_repos.get('Go', []))} repos")
+
+    # 4. Save data (to both skill dir and WorkScript)
+    if not args.no_save:
+        saved = save_to_all_dirs(all_repos, lang_repos, date_str)
+        eprint(f"[✓] Saved {len(saved)} files across {len(DATA_DIRS)} directories")
+
+        # 5. Git commit & push
+        if not args.no_push:
+            git_commit_push(date_str)
+
+    # 6. Output
     if args.output == "json":
-        print(format_json_output(repos, date_str))
+        output = json.dumps({
+            "date": date_str,
+            "all_top": all_repos[:TOP_N],
+            "python_top": lang_repos.get("Python", []),
+            "go_top": lang_repos.get("Go", []),
+        }, ensure_ascii=False, indent=2)
     else:
-        print(format_tg_message(repos, date_display))
+        output = format_tg_message(all_repos, lang_repos, date_display)
+
+    print(output)
 
 
 if __name__ == "__main__":
