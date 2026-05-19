@@ -1,7 +1,7 @@
 <h1 align="center">📈 GitHub Daily Trending</h1>
 
 <p align="center">
-  <b>每日从 GitHub Trending 页面爬取 Python、Go 热门开源项目 Top 10</b>
+  <b>每日从 GitHub Trending 页面爬取热门开源项目 Top 10</b>
 </p>
 
 <p align="center">
