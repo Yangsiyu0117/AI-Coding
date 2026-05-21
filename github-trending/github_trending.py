@@ -33,7 +33,7 @@ TRENDING_URL = "https://github.com/trending/{lang}?since={since}"
 REPO_API = "https://api.github.com/repos/{full_name}"
 REQ_TIMEOUT = 30
 
-WORKSCRIPT_DIR = os.path.expanduser("~/WorkScript")
+WORKSCRIPT_DIR = os.path.expanduser("~/AI-Coding")
 SKILL_DIR = os.path.expanduser("~/.hermes/skills/github-trending")
 
 DATA_DIRS = [
@@ -49,6 +49,69 @@ LANGUAGES = {
 
 _TRANSLATION_CACHE = {}
 
+# Product/brand names that must NOT be translated by Google Translate
+_PROTECTED_TERMS = [
+    # AI / Coding tools
+    "Claude Code", "Claude", "Cursor", "Copilot", "GitHub Copilot",
+    "Playwright", "ChatGPT", "OpenAI", "Gemini", "DeepSeek", "Kimi",
+    "Qwen", "Gemma", "Llama", "Mistral", "Perplexity",
+    # Frameworks & platforms
+    "React", "Next.js", "Node.js", "Docker", "Kubernetes", "K8s",
+    "VS Code", "VSCode", "Vim", "Neovim", "NotebookLM",
+    # Protocols & standards
+    "WebSocket", "gRPC", "REST API", "API", "CLI", "SDK", "UI", "UX",
+    "LLM", "RAG", "TTS", "STT", "ASR",
+    # Companies & services
+    "GitHub", "GitLab", "Bitbucket", "Google", "Microsoft", "AWS",
+    "Azure", "GCP", "Hugging Face", "HuggingFace", "Discord", "Telegram",
+    "YouTube", "Twitter", "X\\.com",
+    # Other common tech terms that should be preserved
+    "ONNX", "PyTorch", "TensorFlow", "Jupyter", "Pandas", "NumPy",
+    "Rust", "Go\b", "Zig",
+]
+
+# Build placeholder replacement map
+_PLACEHOLDER_MAP = {}
+_PLACEHOLDER_RE = None
+
+
+def _build_placeholder_pattern():
+    """Build regex pattern that matches protected terms (case-insensitive)."""
+    global _PLACEHOLDER_RE, _PLACEHOLDER_MAP
+    _PLACEHOLDER_MAP.clear()
+    patterns = []
+    for i, term in enumerate(_PROTECTED_TERMS):
+        placeholder = f"\x00PROTECTED_{i}\x00"
+        _PLACEHOLDER_MAP[placeholder] = term  # store original casing
+        # Case-insensitive match
+        patterns.append(f"(?P<p{i}>{term})")
+    _PLACEHOLDER_RE = re.compile("|".join(patterns), re.IGNORECASE)
+
+
+def _protect_terms(text):
+    """Replace protected terms with non-translatable placeholders."""
+    if _PLACEHOLDER_RE is None:
+        _build_placeholder_pattern()
+
+    def replacer(m):
+        # Find which named group matched — exactly one will be non-None
+        for name, val in m.groupdict().items():
+            if val is not None:
+                idx = name[1:]  # remove 'p' prefix
+                return f"\x00PROTECTED_{idx}\x00"
+        return m.group(0)
+
+    return _PLACEHOLDER_RE.sub(replacer, text)
+
+
+def _restore_terms(text):
+    """Restore placeholders back to original protected terms."""
+    result = text
+    for placeholder, original in _PLACEHOLDER_MAP.items():
+        result = result.replace(placeholder, original)
+    return result
+
+
 def translate_to_zh(text):
     """Translate English text to Chinese via Google Translate API (free, no key needed)."""
     if not text or len(text) < 10:
@@ -56,17 +119,21 @@ def translate_to_zh(text):
     # Check if already looks like Chinese
     if re.search(r'[\u4e00-\u9fff]', text):
         return text
-    cache_key = text[:100]
+    cache_key = text[:200]
     if cache_key in _TRANSLATION_CACHE:
         return _TRANSLATION_CACHE[cache_key]
     
     try:
-        encoded = urllib.parse.quote(text)
+        # Protect known product names before translation
+        protected_text = _protect_terms(text)
+        encoded = urllib.parse.quote(protected_text)
         url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q={encoded}"
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode())
             result = "".join([part[0] for part in data[0] if part[0]])
+            # Restore protected terms
+            result = _restore_terms(result)
             _TRANSLATION_CACHE[cache_key] = result
             return result
     except Exception as e:
