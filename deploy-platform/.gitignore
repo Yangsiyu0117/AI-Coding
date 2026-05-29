@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploads
+uploads/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests (exclude test artifacts, keep test files)
+.pytest_cache/
+*.pyc

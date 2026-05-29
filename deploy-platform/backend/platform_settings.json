@@ -1,0 +1,7 @@
+{
+  "app_brand": "",
+  "app_title": "运维升级发布平台",
+  "remote_update_base": "/opt/update",
+  "max_upload_size_mb": 500,
+  "allowed_upload_extensions": [".tar.gz", ".zip", ".tgz", ".gz", ".bin"]
+}

@@ -1,0 +1,12 @@
+{
+  "go": {
+    "label": "Go 二进制",
+    "steps": ["precheck", "backup", "upload", "copy", "verify", "verify_version", "stop", "check_start", "log_check"],
+    "rollbackable": ["backup", "upload", "copy"]
+  },
+  "docker": {
+    "label": "Docker 容器",
+    "steps": ["docker_scp", "docker_load", "docker_verify", "precheck", "switch_container", "container_check"],
+    "rollbackable": ["docker_scp", "switch_container"]
+  }
+}

@@ -1,0 +1,41 @@
+/* CMI Platform — Global Style Overrides */
+
+:root {
+  --el-border-radius-base: 6px;
+  --el-border-radius-small: 4px;
+  --el-box-shadow-light: 0 2px 12px 0 rgba(0, 0, 0, 0.06);
+  --el-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --el-box-shadow-dark: 0 4px 16px rgba(0, 0, 0, 0.1);
+  --el-border-color: #e4e7ed;
+  --el-border-color-light: #ebeef5;
+  --el-transition-duration: 0.25s;
+  --el-transition-duration-fast: 0.15s;
+  --el-table-header-bg-color: #fafafa;
+  --el-fill-color-light: #f5f7fa;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Table polish */
+.el-table th.el-table__cell {
+  background-color: #fafafa;
+  font-weight: 600;
+  color: #303133;
+}
+
+/* Card polish */
+.el-card {
+  border-radius: 6px;
+}
+.el-card__header {
+  border-bottom-color: #f0f0f0;
+}
+
+/* Button polish */
+.el-button {
+  font-weight: 500;
+}
+
+/* Tag polish */
+.el-tag {
+  font-weight: 500;
+}

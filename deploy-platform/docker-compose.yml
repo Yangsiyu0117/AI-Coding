@@ -1,0 +1,29 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${APP_PORT:-8000}:8000"
+    volumes:
+      - deploy_data:/app/data
+      - deploy_uploads:/app/uploads
+      - deploy_logs:/app/logs
+    environment:
+      - APP_DATABASE_URL=sqlite:///./data/deploy_platform.db
+      - APP_JWT_SECRET_KEY=${APP_JWT_SECRET_KEY:-change-me-in-production}
+      - APP_UPLOAD_DIR=./uploads
+      - APP_LOG_DIR=./logs
+      - APP_CORS_ORIGINS=${APP_CORS_ORIGINS:-http://localhost:8000}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8000/openapi.json"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  deploy_data:
+  deploy_uploads:
+  deploy_logs:
